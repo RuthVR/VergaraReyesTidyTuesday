@@ -1,0 +1,1321 @@
+sex,race,year,n_persons,median_weekly_earn
+Men,White,2010,44040000,869
+Men,White,2010,45771000,838
+Men,White,2010,47013000,839
+Men,White,2010,45917000,857
+Men,White,2011,44712000,856
+Men,White,2011,46572000,850
+Men,White,2011,47275000,847
+Men,White,2011,46881000,871
+Men,White,2012,45755000,874
+Men,White,2012,46765000,891
+Men,White,2012,47292000,854
+Men,White,2012,46876000,895
+Men,White,2013,46163000,888
+Men,White,2013,47223000,885
+Men,White,2013,47897000,868
+Men,White,2013,46927000,896
+Men,White,2014,46637000,898
+Men,White,2014,48509000,884
+Men,White,2014,48730000,896
+Men,White,2014,48355000,907
+Men,White,2015,47591000,918
+Men,White,2015,48785000,914
+Men,White,2015,49662000,919
+Men,White,2015,48944000,931
+Men,White,2016,48482000,936
+Men,White,2016,49241000,941
+Men,White,2016,50231000,932
+Men,White,2016,49288000,959
+Men,White,2017,49025000,977
+Men,White,2017,50227000,961
+Men,White,2017,50776000,965
+Men,White,2017,49986000,982
+Men,White,2018,49844000,997
+Men,White,2018,50883000,985
+Men,White,2018,51339000,1004
+Men,White,2018,50212000,1024
+Men,White,2019,50645000,1033
+Men,White,2019,51321000,1026
+Men,White,2019,51479000,1025
+Men,White,2019,50996000,1058
+Men,White,2020,49905000,1096
+Men,White,2020,46066000,1115
+Men,White,2020,47959000,1122
+Men,White,2020,48273000,1108
+Women,White,2010,34378000,678
+Women,White,2010,35119000,682
+Women,White,2010,35267000,677
+Women,White,2010,35121000,695
+Women,White,2011,34636000,699
+Women,White,2011,34944000,705
+Women,White,2011,35082000,699
+Women,White,2011,35242000,709
+Women,White,2012,34523000,713
+Women,White,2012,35280000,701
+Women,White,2012,34967000,712
+Women,White,2012,35660000,712
+Women,White,2013,35269000,723
+Women,White,2013,35390000,718
+Women,White,2013,35791000,719
+Women,White,2013,36026000,728
+Women,White,2014,35899000,740
+Women,White,2014,36035000,725
+Women,White,2014,36299000,733
+Women,White,2014,36241000,738
+Women,White,2015,36416000,746
+Women,White,2015,36598000,742
+Women,White,2015,36617000,740
+Women,White,2015,37159000,745
+Women,White,2016,36744000,767
+Women,White,2016,37397000,759
+Women,White,2016,37550000,760
+Women,White,2016,36962000,778
+Women,White,2017,37043000,790
+Women,White,2017,37650000,808
+Women,White,2017,38018000,791
+Women,White,2017,38196000,791
+Women,White,2018,37684000,810
+Women,White,2018,38367000,815
+Women,White,2018,38728000,825
+Women,White,2018,38755000,816
+Women,White,2019,38537000,826
+Women,White,2019,38964000,835
+Women,White,2019,39078000,843
+Women,White,2019,39757000,859
+Women,White,2020,39417000,873
+Women,White,2020,34939000,929
+Women,White,2020,36523000,910
+Women,White,2020,37484000,912
+Men,White,2010,3517000,484
+Men,White,2010,3976000,449
+Men,White,2010,4640000,429
+Men,White,2010,3766000,461
+Men,White,2011,3612000,482
+Men,White,2011,4271000,450
+Men,White,2011,4607000,443
+Men,White,2011,4071000,475
+Men,White,2012,3834000,474
+Men,White,2012,4179000,471
+Men,White,2012,4505000,470
+Men,White,2012,4096000,485
+Men,White,2013,3871000,493
+Men,White,2013,4324000,492
+Men,White,2013,4689000,475
+Men,White,2013,4155000,500
+Men,White,2014,3984000,493
+Men,White,2014,4648000,495
+Men,White,2014,4697000,505
+Men,White,2014,4447000,519
+Men,White,2015,4031000,503
+Men,White,2015,4295000,507
+Men,White,2015,4793000,530
+Men,White,2015,4375000,550
+Men,White,2016,4189000,517
+Men,White,2016,4612000,510
+Men,White,2016,4986000,517
+Men,White,2016,4197000,541
+Men,White,2017,4184000,579
+Men,White,2017,4762000,523
+Men,White,2017,4876000,529
+Men,White,2017,4346000,593
+Men,White,2018,4319000,581
+Men,White,2018,4739000,556
+Men,White,2018,5010000,576
+Men,White,2018,4189000,624
+Men,White,2019,4400000,613
+Men,White,2019,4760000,617
+Men,White,2019,5060000,609
+Men,White,2019,4362000,623
+Men,White,2020,4176000,605
+Men,White,2020,3786000,639
+Men,White,2020,4381000,640
+Men,White,2020,4279000,645
+Women,White,2010,2799000,428
+Women,White,2010,3039000,421
+Women,White,2010,3338000,416
+Women,White,2010,2892000,445
+Women,White,2011,2862000,435
+Women,White,2011,2909000,419
+Women,White,2011,3154000,426
+Women,White,2011,2978000,426
+Women,White,2012,2758000,420
+Women,White,2012,3009000,421
+Women,White,2012,3104000,418
+Women,White,2012,3062000,433
+Women,White,2013,2792000,435
+Women,White,2013,3140000,426
+Women,White,2013,3300000,417
+Women,White,2013,3185000,459
+Women,White,2014,2923000,449
+Women,White,2014,3290000,455
+Women,White,2014,3364000,454
+Women,White,2014,3153000,465
+Women,White,2015,3097000,476
+Women,White,2015,3256000,457
+Women,White,2015,3385000,455
+Women,White,2015,3264000,457
+Women,White,2016,2977000,488
+Women,White,2016,3349000,483
+Women,White,2016,3657000,489
+Women,White,2016,3224000,509
+Women,White,2017,3034000,493
+Women,White,2017,3251000,511
+Women,White,2017,3618000,499
+Women,White,2017,3394000,515
+Women,White,2018,3039000,562
+Women,White,2018,3483000,513
+Women,White,2018,3768000,522
+Women,White,2018,3393000,553
+Women,White,2019,3460000,556
+Women,White,2019,3632000,536
+Women,White,2019,3880000,541
+Women,White,2019,3417000,578
+Women,White,2020,3385000,591
+Women,White,2020,2928000,593
+Women,White,2020,3147000,580
+Women,White,2020,3225000,599
+Men,White,2010,40523000,913
+Men,White,2010,41795000,888
+Men,White,2010,42373000,895
+Men,White,2010,42151000,901
+Men,White,2011,41100000,902
+Men,White,2011,42302000,909
+Men,White,2011,42668000,907
+Men,White,2011,42811000,919
+Men,White,2012,41920000,928
+Men,White,2012,42586000,943
+Men,White,2012,42787000,911
+Men,White,2012,42780000,947
+Men,White,2013,42293000,936
+Men,White,2013,42899000,936
+Men,White,2013,43208000,925
+Men,White,2013,42772000,945
+Men,White,2014,42652000,948
+Men,White,2014,43862000,942
+Men,White,2014,44033000,951
+Men,White,2014,43908000,960
+Men,White,2015,43560000,969
+Men,White,2015,44490000,969
+Men,White,2015,44869000,972
+Men,White,2015,44569000,986
+Men,White,2016,44293000,988
+Men,White,2016,44629000,997
+Men,White,2016,45245000,992
+Men,White,2016,45091000,1006
+Men,White,2017,44841000,1025
+Men,White,2017,45465000,1020
+Men,White,2017,45899000,1019
+Men,White,2017,45640000,1028
+Men,White,2018,45525000,1055
+Men,White,2018,46144000,1044
+Men,White,2018,46329000,1070
+Men,White,2018,46023000,1086
+Men,White,2019,46245000,1102
+Men,White,2019,46561000,1096
+Men,White,2019,46419000,1104
+Men,White,2019,46634000,1127
+Men,White,2020,45729000,1154
+Men,White,2020,42280000,1173
+Men,White,2020,43577000,1174
+Men,White,2020,43994000,1163
+Women,White,2010,31579000,716
+Women,White,2010,32079000,715
+Women,White,2010,31929000,720
+Women,White,2010,32229000,725
+Women,White,2011,31774000,732
+Women,White,2011,32034000,735
+Women,White,2011,31928000,737
+Women,White,2011,32264000,740
+Women,White,2012,31765000,746
+Women,White,2012,32271000,736
+Women,White,2012,31863000,746
+Women,White,2012,32598000,744
+Women,White,2013,32477000,751
+Women,White,2013,32249000,753
+Women,White,2013,32492000,755
+Women,White,2013,32841000,761
+Women,White,2014,32976000,771
+Women,White,2014,32745000,758
+Women,White,2014,32936000,767
+Women,White,2014,33089000,773
+Women,White,2015,33319000,776
+Women,White,2015,33341000,774
+Women,White,2015,33232000,781
+Women,White,2015,33895000,782
+Women,White,2016,33768000,801
+Women,White,2016,34049000,797
+Women,White,2016,33893000,805
+Women,White,2016,33738000,822
+Women,White,2017,34010000,827
+Women,White,2017,34399000,845
+Women,White,2017,34400000,839
+Women,White,2017,34802000,828
+Women,White,2018,34645000,845
+Women,White,2018,34884000,857
+Women,White,2018,34960000,867
+Women,White,2018,35363000,859
+Women,White,2019,35078000,864
+Women,White,2019,35332000,874
+Women,White,2019,35198000,895
+Women,White,2019,36340000,898
+Women,White,2020,36032000,910
+Women,White,2020,32010000,971
+Women,White,2020,33375000,952
+Women,White,2020,34259000,951
+Men,White,2010,32639000,893
+Men,White,2010,33590000,869
+Men,White,2010,34060000,871
+Men,White,2010,33886000,879
+Men,White,2011,33002000,876
+Men,White,2011,33833000,887
+Men,White,2011,33922000,888
+Men,White,2011,34141000,893
+Men,White,2012,33050000,903
+Men,White,2012,33829000,925
+Men,White,2012,33753000,892
+Men,White,2012,33405000,916
+Men,White,2013,33115000,919
+Men,White,2013,33670000,907
+Men,White,2013,33724000,905
+Men,White,2013,33210000,909
+Men,White,2014,33072000,929
+Men,White,2014,34067000,919
+Men,White,2014,34250000,918
+Men,White,2014,33966000,925
+Men,White,2015,33720000,945
+Men,White,2015,34332000,943
+Men,White,2015,34585000,941
+Men,White,2015,34286000,950
+Men,White,2016,34154000,955
+Men,White,2016,34539000,971
+Men,White,2016,34810000,964
+Men,White,2016,34791000,974
+Men,White,2017,34374000,1009
+Men,White,2017,34705000,1005
+Men,White,2017,34871000,990
+Men,White,2017,34929000,1000
+Men,White,2018,34889000,1030
+Men,White,2018,35089000,1008
+Men,White,2018,35215000,1037
+Men,White,2018,34887000,1043
+Men,White,2019,35125000,1068
+Men,White,2019,35157000,1063
+Men,White,2019,34962000,1070
+Men,White,2019,35016000,1097
+Men,White,2020,34507000,1128
+Men,White,2020,31918000,1153
+Men,White,2020,32766000,1154
+Men,White,2020,32927000,1147
+Women,White,2010,24891000,717
+Women,White,2010,25191000,711
+Women,White,2010,24981000,710
+Women,White,2010,25317000,720
+Women,White,2011,24783000,725
+Women,White,2011,25151000,728
+Women,White,2011,24899000,730
+Women,White,2011,25033000,737
+Women,White,2012,24503000,736
+Women,White,2012,24843000,731
+Women,White,2012,24520000,737
+Women,White,2012,25065000,736
+Women,White,2013,24890000,744
+Women,White,2013,24533000,743
+Women,White,2013,24920000,746
+Women,White,2013,25168000,754
+Women,White,2014,25141000,771
+Women,White,2014,24775000,752
+Women,White,2014,25326000,760
+Women,White,2014,25235000,768
+Women,White,2015,25289000,773
+Women,White,2015,25352000,768
+Women,White,2015,25327000,772
+Women,White,2015,25670000,780
+Women,White,2016,25443000,791
+Women,White,2016,25657000,799
+Women,White,2016,25788000,799
+Women,White,2016,25637000,823
+Women,White,2017,25553000,820
+Women,White,2017,25906000,835
+Women,White,2017,26020000,821
+Women,White,2017,26282000,824
+Women,White,2018,26111000,848
+Women,White,2018,26307000,839
+Women,White,2018,26168000,869
+Women,White,2018,26595000,850
+Women,White,2019,26313000,857
+Women,White,2019,26552000,868
+Women,White,2019,26347000,901
+Women,White,2019,27388000,896
+Women,White,2020,27155000,906
+Women,White,2020,24018000,967
+Women,White,2020,24883000,951
+Women,White,2020,25749000,939
+Men,White,2010,7884000,990
+Men,White,2010,8206000,968
+Men,White,2010,8313000,997
+Men,White,2010,8266000,1007
+Men,White,2011,8098000,1009
+Men,White,2011,8469000,996
+Men,White,2011,8745000,985
+Men,White,2011,8670000,1040
+Men,White,2012,8870000,1012
+Men,White,2012,8757000,1020
+Men,White,2012,9034000,990
+Men,White,2012,9376000,1073
+Men,White,2013,9177000,1000
+Men,White,2013,9229000,1061
+Men,White,2013,9484000,1012
+Men,White,2013,9562000,1094
+Men,White,2014,9580000,1006
+Men,White,2014,9795000,1017
+Men,White,2014,9784000,1071
+Men,White,2014,9943000,1058
+Men,White,2015,9840000,1060
+Men,White,2015,10157000,1080
+Men,White,2015,10284000,1106
+Men,White,2015,10283000,1144
+Men,White,2016,10138000,1135
+Men,White,2016,10090000,1114
+Men,White,2016,10434000,1134
+Men,White,2016,10301000,1153
+Men,White,2017,10467000,1098
+Men,White,2017,10760000,1104
+Men,White,2017,11028000,1161
+Men,White,2017,10711000,1150
+Men,White,2018,10636000,1146
+Men,White,2018,11055000,1165
+Men,White,2018,11114000,1166
+Men,White,2018,11136000,1218
+Men,White,2019,11120000,1204
+Men,White,2019,11404000,1193
+Men,White,2019,11457000,1183
+Men,White,2019,11618000,1220
+Men,White,2020,11223000,1265
+Men,White,2020,10362000,1242
+Men,White,2020,10811000,1271
+Men,White,2020,11067000,1223
+Women,White,2010,6689000,712
+Women,White,2010,6888000,729
+Women,White,2010,6949000,747
+Women,White,2010,6912000,739
+Women,White,2011,6991000,753
+Women,White,2011,6883000,762
+Women,White,2011,7030000,761
+Women,White,2011,7231000,749
+Women,White,2012,7262000,782
+Women,White,2012,7428000,758
+Women,White,2012,7343000,774
+Women,White,2012,7533000,768
+Women,White,2013,7587000,776
+Women,White,2013,7717000,783
+Women,White,2013,7572000,785
+Women,White,2013,7673000,788
+Women,White,2014,7835000,772
+Women,White,2014,7970000,772
+Women,White,2014,7610000,793
+Women,White,2014,7853000,792
+Women,White,2015,8030000,788
+Women,White,2015,7989000,811
+Women,White,2015,7905000,810
+Women,White,2015,8225000,789
+Women,White,2016,8325000,835
+Women,White,2016,8392000,791
+Women,White,2016,8105000,820
+Women,White,2016,8101000,821
+Women,White,2017,8456000,855
+Women,White,2017,8493000,875
+Women,White,2017,8381000,889
+Women,White,2017,8520000,840
+Women,White,2018,8534000,838
+Women,White,2018,8577000,919
+Women,White,2018,8793000,861
+Women,White,2018,8768000,894
+Women,White,2019,8765000,888
+Women,White,2019,8780000,894
+Women,White,2019,8851000,877
+Women,White,2019,8952000,908
+Women,White,2020,8877000,925
+Women,White,2020,7993000,981
+Women,White,2020,8492000,952
+Women,White,2020,8510000,993
+Men,Black or African American,2010,5140000,635
+Men,Black or African American,2010,5431000,632
+Men,Black or African American,2010,5398000,634
+Men,Black or African American,2010,5535000,629
+Men,Black or African American,2011,5324000,621
+Men,Black or African American,2011,5376000,673
+Men,Black or African American,2011,5420000,661
+Men,Black or African American,2011,5533000,660
+Men,Black or African American,2012,5626000,677
+Men,Black or African American,2012,5785000,668
+Men,Black or African American,2012,5771000,633
+Men,Black or African American,2012,5841000,680
+Men,Black or African American,2013,5784000,666
+Men,Black or African American,2013,5876000,666
+Men,Black or African American,2013,5898000,682
+Men,Black or African American,2013,5846000,646
+Men,Black or African American,2014,5863000,708
+Men,Black or African American,2014,6056000,667
+Men,Black or African American,2014,6297000,679
+Men,Black or African American,2014,6300000,667
+Men,Black or African American,2015,6268000,694
+Men,Black or African American,2015,6442000,696
+Men,Black or African American,2015,6582000,652
+Men,Black or African American,2015,6486000,674
+Men,Black or African American,2016,6492000,732
+Men,Black or African American,2016,6838000,704
+Men,Black or African American,2016,6849000,732
+Men,Black or African American,2016,6733000,706
+Men,Black or African American,2017,6629000,722
+Men,Black or African American,2017,6988000,702
+Men,Black or African American,2017,7131000,744
+Men,Black or African American,2017,6962000,681
+Men,Black or African American,2018,7136000,723
+Men,Black or African American,2018,7234000,720
+Men,Black or African American,2018,7461000,726
+Men,Black or African American,2018,7295000,773
+Men,Black or African American,2019,7168000,772
+Men,Black or African American,2019,7402000,761
+Men,Black or African American,2019,7552000,768
+Men,Black or African American,2019,7391000,778
+Men,Black or African American,2020,7065000,823
+Men,Black or African American,2020,6298000,828
+Men,Black or African American,2020,6687000,869
+Men,Black or African American,2020,6785000,810
+Women,Black or African American,2010,6235000,584
+Women,Black or African American,2010,6228000,585
+Women,Black or African American,2010,6363000,590
+Women,Black or African American,2010,6303000,605
+Women,Black or African American,2011,6129000,590
+Women,Black or African American,2011,6236000,592
+Women,Black or African American,2011,6213000,596
+Women,Black or African American,2011,6185000,601
+Women,Black or African American,2012,6309000,602
+Women,Black or African American,2012,6413000,616
+Women,Black or African American,2012,6569000,590
+Women,Black or African American,2012,6604000,594
+Women,Black or African American,2013,6648000,597
+Women,Black or African American,2013,6476000,610
+Women,Black or African American,2013,6672000,594
+Women,Black or African American,2013,6556000,621
+Women,Black or African American,2014,6638000,606
+Women,Black or African American,2014,6680000,631
+Women,Black or African American,2014,6898000,608
+Women,Black or African American,2014,6909000,602
+Women,Black or African American,2015,6972000,614
+Women,Black or African American,2015,7124000,615
+Women,Black or African American,2015,7260000,608
+Women,Black or African American,2015,7212000,621
+Women,Black or African American,2016,7090000,625
+Women,Black or African American,2016,7116000,646
+Women,Black or African American,2016,7360000,639
+Women,Black or African American,2016,7374000,650
+Women,Black or African American,2017,7456000,645
+Women,Black or African American,2017,7516000,676
+Women,Black or African American,2017,7596000,658
+Women,Black or African American,2017,7806000,654
+Women,Black or African American,2018,7579000,671
+Women,Black or African American,2018,7717000,644
+Women,Black or African American,2018,7877000,631
+Women,Black or African American,2018,7866000,665
+Women,Black or African American,2019,8063000,709
+Women,Black or African American,2019,7900000,691
+Women,Black or African American,2019,8291000,683
+Women,Black or African American,2019,8072000,738
+Women,Black or African American,2020,7837000,742
+Women,Black or African American,2020,6811000,779
+Women,Black or African American,2020,7181000,768
+Women,Black or African American,2020,7513000,775
+Men,Black or African American,2010,426000,403
+Men,Black or African American,2010,472000,409
+Men,Black or African American,2010,514000,392
+Men,Black or African American,2010,587000,406
+Men,Black or African American,2011,515000,420
+Men,Black or African American,2011,450000,398
+Men,Black or African American,2011,517000,418
+Men,Black or African American,2011,519000,413
+Men,Black or African American,2012,525000,401
+Men,Black or African American,2012,599000,392
+Men,Black or African American,2012,617000,408
+Men,Black or African American,2012,555000,372
+Men,Black or African American,2013,457000,417
+Men,Black or African American,2013,532000,383
+Men,Black or African American,2013,623000,378
+Men,Black or African American,2013,479000,400
+Men,Black or African American,2014,507000,386
+Men,Black or African American,2014,565000,403
+Men,Black or African American,2014,590000,421
+Men,Black or African American,2014,724000,427
+Men,Black or African American,2015,616000,398
+Men,Black or African American,2015,580000,417
+Men,Black or African American,2015,666000,465
+Men,Black or African American,2015,725000,500
+Men,Black or African American,2016,631000,426
+Men,Black or African American,2016,626000,462
+Men,Black or African American,2016,662000,448
+Men,Black or African American,2016,642000,404
+Men,Black or African American,2017,638000,416
+Men,Black or African American,2017,702000,505
+Men,Black or African American,2017,735000,478
+Men,Black or African American,2017,717000,470
+Men,Black or African American,2018,670000,466
+Men,Black or African American,2018,783000,438
+Men,Black or African American,2018,766000,512
+Men,Black or African American,2018,702000,502
+Men,Black or African American,2019,650000,491
+Men,Black or African American,2019,753000,513
+Men,Black or African American,2019,811000,577
+Men,Black or African American,2019,719000,598
+Men,Black or African American,2020,587000,457
+Men,Black or African American,2020,474000,606
+Men,Black or African American,2020,639000,547
+Men,Black or African American,2020,677000,584
+Women,Black or African American,2010,539000,380
+Women,Black or African American,2010,529000,396
+Women,Black or African American,2010,554000,424
+Women,Black or African American,2010,512000,411
+Women,Black or African American,2011,538000,390
+Women,Black or African American,2011,480000,412
+Women,Black or African American,2011,524000,384
+Women,Black or African American,2011,541000,368
+Women,Black or African American,2012,580000,392
+Women,Black or African American,2012,612000,369
+Women,Black or African American,2012,581000,390
+Women,Black or African American,2012,533000,371
+Women,Black or African American,2013,635000,389
+Women,Black or African American,2013,578000,400
+Women,Black or African American,2013,654000,388
+Women,Black or African American,2013,518000,384
+Women,Black or African American,2014,513000,381
+Women,Black or African American,2014,556000,406
+Women,Black or African American,2014,603000,429
+Women,Black or African American,2014,622000,475
+Women,Black or African American,2015,604000,375
+Women,Black or African American,2015,710000,399
+Women,Black or African American,2015,728000,395
+Women,Black or African American,2015,657000,427
+Women,Black or African American,2016,658000,415
+Women,Black or African American,2016,612000,408
+Women,Black or African American,2016,764000,400
+Women,Black or African American,2016,669000,474
+Women,Black or African American,2017,752000,452
+Women,Black or African American,2017,754000,413
+Women,Black or African American,2017,694000,501
+Women,Black or African American,2017,692000,489
+Women,Black or African American,2018,646000,490
+Women,Black or African American,2018,705000,483
+Women,Black or African American,2018,786000,485
+Women,Black or African American,2018,741000,462
+Women,Black or African American,2019,746000,457
+Women,Black or African American,2019,757000,460
+Women,Black or African American,2019,839000,512
+Women,Black or African American,2019,777000,511
+Women,Black or African American,2020,618000,501
+Women,Black or African American,2020,485000,552
+Women,Black or African American,2020,512000,579
+Women,Black or African American,2020,624000,559
+Men,Black or African American,2010,4714000,661
+Men,Black or African American,2010,4959000,657
+Men,Black or African American,2010,4884000,668
+Men,Black or African American,2010,4947000,678
+Men,Black or African American,2011,4809000,657
+Men,Black or African American,2011,4926000,698
+Men,Black or African American,2011,4903000,691
+Men,Black or African American,2011,5014000,698
+Men,Black or African American,2012,5101000,715
+Men,Black or African American,2012,5186000,704
+Men,Black or African American,2012,5154000,674
+Men,Black or African American,2012,5286000,713
+Men,Black or African American,2013,5327000,702
+Men,Black or African American,2013,5344000,695
+Men,Black or African American,2013,5275000,719
+Men,Black or African American,2013,5367000,674
+Men,Black or African American,2014,5356000,742
+Men,Black or African American,2014,5491000,696
+Men,Black or African American,2014,5707000,720
+Men,Black or African American,2014,5576000,716
+Men,Black or African American,2015,5652000,731
+Men,Black or African American,2015,5862000,732
+Men,Black or African American,2015,5916000,709
+Men,Black or African American,2015,5762000,709
+Men,Black or African American,2016,5860000,761
+Men,Black or African American,2016,6212000,731
+Men,Black or African American,2016,6187000,765
+Men,Black or African American,2016,6091000,740
+Men,Black or African American,2017,5991000,756
+Men,Black or African American,2017,6286000,727
+Men,Black or African American,2017,6396000,801
+Men,Black or African American,2017,6246000,712
+Men,Black or African American,2018,6466000,751
+Men,Black or African American,2018,6451000,768
+Men,Black or African American,2018,6695000,767
+Men,Black or African American,2018,6593000,805
+Men,Black or African American,2019,6518000,807
+Men,Black or African American,2019,6649000,832
+Men,Black or African American,2019,6741000,817
+Men,Black or African American,2019,6672000,809
+Men,Black or African American,2020,6478000,880
+Men,Black or African American,2020,5824000,869
+Men,Black or African American,2020,6048000,931
+Men,Black or African American,2020,6108000,850
+Women,Black or African American,2010,5697000,611
+Women,Black or African American,2010,5699000,604
+Women,Black or African American,2010,5809000,617
+Women,Black or African American,2010,5792000,625
+Women,Black or African American,2011,5591000,610
+Women,Black or African American,2011,5756000,610
+Women,Black or African American,2011,5689000,611
+Women,Black or African American,2011,5644000,621
+Women,Black or African American,2012,5729000,625
+Women,Black or African American,2012,5801000,658
+Women,Black or African American,2012,5988000,610
+Women,Black or African American,2012,6071000,608
+Women,Black or African American,2013,6013000,624
+Women,Black or African American,2013,5899000,639
+Women,Black or African American,2013,6019000,618
+Women,Black or African American,2013,6038000,645
+Women,Black or African American,2014,6125000,624
+Women,Black or African American,2014,6124000,663
+Women,Black or African American,2014,6295000,631
+Women,Black or African American,2014,6286000,620
+Women,Black or African American,2015,6368000,654
+Women,Black or African American,2015,6414000,654
+Women,Black or African American,2015,6531000,650
+Women,Black or African American,2015,6555000,647
+Women,Black or African American,2016,6432000,663
+Women,Black or African American,2016,6504000,684
+Women,Black or African American,2016,6596000,682
+Women,Black or African American,2016,6704000,679
+Women,Black or African American,2017,6704000,672
+Women,Black or African American,2017,6762000,707
+Women,Black or African American,2017,6902000,686
+Women,Black or African American,2017,7114000,670
+Women,Black or African American,2018,6933000,699
+Women,Black or African American,2018,7012000,676
+Women,Black or African American,2018,7091000,658
+Women,Black or African American,2018,7125000,697
+Women,Black or African American,2019,7317000,740
+Women,Black or African American,2019,7143000,720
+Women,Black or African American,2019,7452000,707
+Women,Black or African American,2019,7295000,773
+Women,Black or African American,2020,7219000,768
+Women,Black or African American,2020,6325000,811
+Women,Black or African American,2020,6669000,793
+Women,Black or African American,2020,6889000,813
+Men,Black or African American,2010,3950000,651
+Men,Black or African American,2010,4168000,655
+Men,Black or African American,2010,4087000,656
+Men,Black or African American,2010,4167000,661
+Men,Black or African American,2011,4037000,648
+Men,Black or African American,2011,4106000,689
+Men,Black or African American,2011,4061000,685
+Men,Black or African American,2011,4177000,690
+Men,Black or African American,2012,4162000,714
+Men,Black or African American,2012,4270000,693
+Men,Black or African American,2012,4243000,655
+Men,Black or African American,2012,4293000,703
+Men,Black or African American,2013,4299000,690
+Men,Black or African American,2013,4362000,695
+Men,Black or African American,2013,4345000,704
+Men,Black or African American,2013,4372000,669
+Men,Black or African American,2014,4365000,731
+Men,Black or African American,2014,4491000,683
+Men,Black or African American,2014,4691000,683
+Men,Black or African American,2014,4528000,696
+Men,Black or African American,2015,4595000,721
+Men,Black or African American,2015,4754000,726
+Men,Black or African American,2015,4848000,660
+Men,Black or African American,2015,4673000,703
+Men,Black or African American,2016,4743000,755
+Men,Black or African American,2016,5058000,718
+Men,Black or African American,2016,5015000,751
+Men,Black or African American,2016,4862000,743
+Men,Black or African American,2017,4834000,753
+Men,Black or African American,2017,5015000,715
+Men,Black or African American,2017,5101000,777
+Men,Black or African American,2017,5108000,701
+Men,Black or African American,2018,5220000,743
+Men,Black or African American,2018,5099000,753
+Men,Black or African American,2018,5330000,766
+Men,Black or African American,2018,5366000,793
+Men,Black or African American,2019,5228000,799
+Men,Black or African American,2019,5281000,823
+Men,Black or African American,2019,5357000,824
+Men,Black or African American,2019,5406000,815
+Men,Black or African American,2020,5168000,891
+Men,Black or African American,2020,4575000,862
+Men,Black or African American,2020,4801000,925
+Men,Black or African American,2020,4891000,817
+Women,Black or African American,2010,4755000,607
+Women,Black or African American,2010,4716000,600
+Women,Black or African American,2010,4751000,623
+Women,Black or African American,2010,4773000,626
+Women,Black or African American,2011,4569000,604
+Women,Black or African American,2011,4763000,609
+Women,Black or African American,2011,4697000,615
+Women,Black or African American,2011,4590000,621
+Women,Black or African American,2012,4624000,621
+Women,Black or African American,2012,4734000,652
+Women,Black or African American,2012,4944000,609
+Women,Black or African American,2012,4915000,605
+Women,Black or African American,2013,4857000,618
+Women,Black or African American,2013,4743000,623
+Women,Black or African American,2013,4846000,616
+Women,Black or African American,2013,4857000,635
+Women,Black or African American,2014,4999000,615
+Women,Black or African American,2014,4938000,653
+Women,Black or African American,2014,5059000,612
+Women,Black or African American,2014,5019000,608
+Women,Black or African American,2015,5126000,633
+Women,Black or African American,2015,5151000,647
+Women,Black or African American,2015,5275000,642
+Women,Black or African American,2015,5189000,641
+Women,Black or African American,2016,5214000,655
+Women,Black or African American,2016,5244000,675
+Women,Black or African American,2016,5316000,686
+Women,Black or African American,2016,5401000,658
+Women,Black or African American,2017,5412000,661
+Women,Black or African American,2017,5457000,700
+Women,Black or African American,2017,5517000,674
+Women,Black or African American,2017,5757000,665
+Women,Black or African American,2018,5558000,698
+Women,Black or African American,2018,5575000,681
+Women,Black or African American,2018,5629000,657
+Women,Black or African American,2018,5683000,681
+Women,Black or African American,2019,5655000,736
+Women,Black or African American,2019,5647000,718
+Women,Black or African American,2019,5871000,702
+Women,Black or African American,2019,5709000,765
+Women,Black or African American,2020,5670000,767
+Women,Black or African American,2020,5015000,777
+Women,Black or African American,2020,5174000,790
+Women,Black or African American,2020,5399000,802
+Men,Black or African American,2010,764000,736
+Men,Black or African American,2010,792000,678
+Men,Black or African American,2010,797000,738
+Men,Black or African American,2010,780000,771
+Men,Black or African American,2011,772000,718
+Men,Black or African American,2011,820000,751
+Men,Black or African American,2011,842000,754
+Men,Black or African American,2011,837000,734
+Men,Black or African American,2012,939000,722
+Men,Black or African American,2012,916000,792
+Men,Black or African American,2012,911000,779
+Men,Black or African American,2012,992000,753
+Men,Black or African American,2013,1029000,734
+Men,Black or African American,2013,982000,702
+Men,Black or African American,2013,931000,819
+Men,Black or African American,2013,995000,728
+Men,Black or African American,2014,991000,789
+Men,Black or African American,2014,999000,751
+Men,Black or African American,2014,1016000,835
+Men,Black or African American,2014,1047000,833
+Men,Black or African American,2015,1057000,764
+Men,Black or African American,2015,1108000,756
+Men,Black or African American,2015,1069000,795
+Men,Black or African American,2015,1089000,726
+Men,Black or African American,2016,1117000,801
+Men,Black or African American,2016,1154000,819
+Men,Black or African American,2016,1172000,844
+Men,Black or African American,2016,1229000,729
+Men,Black or African American,2017,1157000,768
+Men,Black or African American,2017,1272000,769
+Men,Black or African American,2017,1295000,884
+Men,Black or African American,2017,1138000,768
+Men,Black or African American,2018,1247000,794
+Men,Black or African American,2018,1352000,841
+Men,Black or African American,2018,1365000,771
+Men,Black or African American,2018,1228000,907
+Men,Black or African American,2019,1290000,849
+Men,Black or African American,2019,1368000,870
+Men,Black or African American,2019,1384000,798
+Men,Black or African American,2019,1266000,780
+Men,Black or African American,2020,1311000,836
+Men,Black or African American,2020,1249000,905
+Men,Black or African American,2020,1247000,945
+Men,Black or African American,2020,1217000,1042
+Women,Black or African American,2010,941000,633
+Women,Black or African American,2010,983000,617
+Women,Black or African American,2010,1058000,587
+Women,Black or African American,2010,1019000,622
+Women,Black or African American,2011,1023000,662
+Women,Black or African American,2011,992000,615
+Women,Black or African American,2011,992000,587
+Women,Black or African American,2011,1053000,620
+Women,Black or African American,2012,1105000,648
+Women,Black or African American,2012,1067000,727
+Women,Black or African American,2012,1044000,613
+Women,Black or African American,2012,1156000,624
+Women,Black or African American,2013,1156000,680
+Women,Black or African American,2013,1156000,738
+Women,Black or African American,2013,1173000,635
+Women,Black or African American,2013,1180000,708
+Women,Black or African American,2014,1125000,673
+Women,Black or African American,2014,1186000,698
+Women,Black or African American,2014,1236000,745
+Women,Black or African American,2014,1268000,739
+Women,Black or African American,2015,1242000,720
+Women,Black or African American,2015,1263000,680
+Women,Black or African American,2015,1256000,688
+Women,Black or African American,2015,1366000,680
+Women,Black or African American,2016,1218000,694
+Women,Black or African American,2016,1260000,739
+Women,Black or African American,2016,1280000,666
+Women,Black or African American,2016,1304000,751
+Women,Black or African American,2017,1291000,708
+Women,Black or African American,2017,1304000,741
+Women,Black or African American,2017,1386000,724
+Women,Black or African American,2017,1357000,693
+Women,Black or African American,2018,1375000,701
+Women,Black or African American,2018,1436000,640
+Women,Black or African American,2018,1461000,668
+Women,Black or African American,2018,1442000,791
+Women,Black or African American,2019,1661000,747
+Women,Black or African American,2019,1496000,728
+Women,Black or African American,2019,1581000,723
+Women,Black or African American,2019,1587000,843
+Women,Black or African American,2020,1549000,769
+Women,Black or African American,2020,1311000,973
+Women,Black or African American,2020,1494000,798
+Women,Black or African American,2020,1490000,853
+Men,Asian,2010,2670000,940
+Men,Asian,2010,2836000,901
+Men,Asian,2010,2737000,963
+Men,Asian,2010,2771000,947
+Men,Asian,2011,2952000,948
+Men,Asian,2011,2872000,972
+Men,Asian,2011,2895000,1015
+Men,Asian,2011,2929000,960
+Men,Asian,2012,3099000,1027
+Men,Asian,2012,3101000,1092
+Men,Asian,2012,3338000,1043
+Men,Asian,2012,3385000,1051
+Men,Asian,2013,3255000,1058
+Men,Asian,2013,3356000,1117
+Men,Asian,2013,3473000,1027
+Men,Asian,2013,3419000,1019
+Men,Asian,2014,3516000,1045
+Men,Asian,2014,3512000,1139
+Men,Asian,2014,3612000,1087
+Men,Asian,2014,3314000,1067
+Men,Asian,2015,3684000,1090
+Men,Asian,2015,3612000,1085
+Men,Asian,2015,3813000,1133
+Men,Asian,2015,3628000,1178
+Men,Asian,2016,3721000,1159
+Men,Asian,2016,3963000,1147
+Men,Asian,2016,3961000,1154
+Men,Asian,2016,3907000,1147
+Men,Asian,2017,3934000,1205
+Men,Asian,2017,3970000,1254
+Men,Asian,2017,4132000,1147
+Men,Asian,2017,4022000,1237
+Men,Asian,2018,4032000,1199
+Men,Asian,2018,4196000,1245
+Men,Asian,2018,4281000,1252
+Men,Asian,2018,4167000,1256
+Men,Asian,2019,4187000,1299
+Men,Asian,2019,4418000,1331
+Men,Asian,2019,4356000,1360
+Men,Asian,2019,4377000,1335
+Men,Asian,2020,4404000,1360
+Men,Asian,2020,3771000,1479
+Men,Asian,2020,3952000,1542
+Men,Asian,2020,4209000,1457
+Women,Asian,2010,2132000,767
+Women,Asian,2010,2196000,854
+Women,Asian,2010,2263000,773
+Women,Asian,2010,2180000,719
+Women,Asian,2011,2267000,762
+Women,Asian,2011,2308000,748
+Women,Asian,2011,2221000,712
+Women,Asian,2011,2341000,771
+Women,Asian,2012,2679000,830
+Women,Asian,2012,2439000,771
+Women,Asian,2012,2649000,762
+Women,Asian,2012,2472000,752
+Women,Asian,2013,2606000,831
+Women,Asian,2013,2729000,861
+Women,Asian,2013,2668000,795
+Women,Asian,2013,2788000,792
+Women,Asian,2014,2838000,876
+Women,Asian,2014,2807000,855
+Women,Asian,2014,2695000,795
+Women,Asian,2014,2797000,826
+Women,Asian,2015,2886000,869
+Women,Asian,2015,2996000,836
+Women,Asian,2015,2994000,818
+Women,Asian,2015,2939000,943
+Women,Asian,2016,3021000,933
+Women,Asian,2016,3122000,907
+Women,Asian,2016,3176000,865
+Women,Asian,2016,3250000,908
+Women,Asian,2017,3144000,892
+Women,Asian,2017,3306000,931
+Women,Asian,2017,3377000,902
+Women,Asian,2017,3395000,894
+Women,Asian,2018,3298000,941
+Women,Asian,2018,3439000,918
+Women,Asian,2018,3477000,965
+Women,Asian,2018,3683000,937
+Women,Asian,2019,3606000,1017
+Women,Asian,2019,3534000,965
+Women,Asian,2019,3417000,1138
+Women,Asian,2019,3696000,1008
+Women,Asian,2020,3332000,1106
+Women,Asian,2020,3056000,1141
+Women,Asian,2020,3403000,1224
+Women,Asian,2020,3285000,1091
+Men,Asian,2010,131000,496
+Men,Asian,2010,166000,423
+Men,Asian,2010,138000,474
+Men,Asian,2010,137000,551
+Men,Asian,2011,157000,420
+Men,Asian,2011,146000,564
+Men,Asian,2011,147000,465
+Men,Asian,2011,146000,509
+Men,Asian,2012,183000,530
+Men,Asian,2012,201000,514
+Men,Asian,2012,194000,472
+Men,Asian,2012,240000,547
+Men,Asian,2013,211000,541
+Men,Asian,2013,209000,518
+Men,Asian,2013,208000,413
+Men,Asian,2013,239000,567
+Men,Asian,2014,198000,498
+Men,Asian,2014,209000,492
+Men,Asian,2014,248000,672
+Men,Asian,2014,162000,691
+Men,Asian,2015,181000,493
+Men,Asian,2015,195000,602
+Men,Asian,2015,268000,508
+Men,Asian,2015,184000,612
+Men,Asian,2016,182000,630
+Men,Asian,2016,212000,520
+Men,Asian,2016,258000,591
+Men,Asian,2016,258000,621
+Men,Asian,2017,278000,569
+Men,Asian,2017,175000,701
+Men,Asian,2017,309000,600
+Men,Asian,2017,185000,732
+Men,Asian,2018,223000,722
+Men,Asian,2018,177000,546
+Men,Asian,2018,273000,691
+Men,Asian,2018,234000,787
+Men,Asian,2019,200000,815
+Men,Asian,2019,257000,677
+Men,Asian,2019,274000,710
+Men,Asian,2019,218000,706
+Men,Asian,2020,217000,849
+Men,Asian,2020,164000,745
+Men,Asian,2020,199000,677
+Men,Asian,2020,181000,647
+Women,Asian,2010,112000,412
+Women,Asian,2010,126000,623
+Women,Asian,2010,158000,539
+Women,Asian,2010,103000,551
+Women,Asian,2011,149000,453
+Women,Asian,2011,160000,473
+Women,Asian,2011,148000,542
+Women,Asian,2011,121000,493
+Women,Asian,2012,132000,468
+Women,Asian,2012,120000,417
+Women,Asian,2012,163000,513
+Women,Asian,2012,160000,475
+Women,Asian,2013,136000,472
+Women,Asian,2013,155000,487
+Women,Asian,2013,162000,574
+Women,Asian,2013,164000,430
+Women,Asian,2014,144000,419
+Women,Asian,2014,168000,468
+Women,Asian,2014,138000,418
+Women,Asian,2014,182000,522
+Women,Asian,2015,147000,650
+Women,Asian,2015,149000,511
+Women,Asian,2015,217000,537
+Women,Asian,2015,168000,602
+Women,Asian,2016,201000,560
+Women,Asian,2016,180000,515
+Women,Asian,2016,280000,554
+Women,Asian,2016,204000,597
+Women,Asian,2017,202000,630
+Women,Asian,2017,210000,629
+Women,Asian,2017,261000,528
+Women,Asian,2017,164000,603
+Women,Asian,2018,215000,680
+Women,Asian,2018,211000,688
+Women,Asian,2018,233000,502
+Women,Asian,2018,229000,623
+Women,Asian,2019,253000,612
+Women,Asian,2019,166000,757
+Women,Asian,2019,238000,652
+Women,Asian,2019,169000,737
+Women,Asian,2020,188000,738
+Women,Asian,2020,164000,795
+Women,Asian,2020,227000,682
+Women,Asian,2020,187000,833
+Men,Asian,2010,2539000,955
+Men,Asian,2010,2670000,951
+Men,Asian,2010,2599000,1005
+Men,Asian,2010,2634000,986
+Men,Asian,2011,2795000,987
+Men,Asian,2011,2726000,992
+Men,Asian,2011,2749000,1058
+Men,Asian,2011,2784000,983
+Men,Asian,2012,2916000,1113
+Men,Asian,2012,2900000,1137
+Men,Asian,2012,3144000,1130
+Men,Asian,2012,3145000,1091
+Men,Asian,2013,3044000,1106
+Men,Asian,2013,3147000,1155
+Men,Asian,2013,3265000,1083
+Men,Asian,2013,3180000,1070
+Men,Asian,2014,3317000,1088
+Men,Asian,2014,3304000,1176
+Men,Asian,2014,3364000,1142
+Men,Asian,2014,3152000,1096
+Men,Asian,2015,3503000,1129
+Men,Asian,2015,3417000,1109
+Men,Asian,2015,3544000,1201
+Men,Asian,2015,3444000,1240
+Men,Asian,2016,3539000,1200
+Men,Asian,2016,3751000,1190
+Men,Asian,2016,3703000,1208
+Men,Asian,2016,3649000,1172
+Men,Asian,2017,3655000,1247
+Men,Asian,2017,3795000,1291
+Men,Asian,2017,3823000,1200
+Men,Asian,2017,3837000,1293
+Men,Asian,2018,3809000,1235
+Men,Asian,2018,4019000,1270
+Men,Asian,2018,4008000,1350
+Men,Asian,2018,3933000,1324
+Men,Asian,2019,3986000,1349
+Men,Asian,2019,4161000,1365
+Men,Asian,2019,4082000,1440
+Men,Asian,2019,4158000,1374
+Men,Asian,2020,4187000,1383
+Men,Asian,2020,3607000,1519
+Men,Asian,2020,3753000,1588
+Men,Asian,2020,4028000,1504
+Women,Asian,2010,2019000,789
+Women,Asian,2010,2070000,876
+Women,Asian,2010,2105000,798
+Women,Asian,2010,2077000,736
+Women,Asian,2011,2118000,776
+Women,Asian,2011,2148000,768
+Women,Asian,2011,2073000,731
+Women,Asian,2011,2221000,803
+Women,Asian,2012,2547000,856
+Women,Asian,2012,2319000,807
+Women,Asian,2012,2486000,787
+Women,Asian,2012,2312000,772
+Women,Asian,2013,2469000,862
+Women,Asian,2013,2574000,896
+Women,Asian,2013,2506000,827
+Women,Asian,2013,2623000,835
+Women,Asian,2014,2694000,921
+Women,Asian,2014,2639000,895
+Women,Asian,2014,2557000,818
+Women,Asian,2014,2615000,875
+Women,Asian,2015,2739000,881
+Women,Asian,2015,2847000,863
+Women,Asian,2015,2778000,889
+Women,Asian,2015,2770000,960
+Women,Asian,2016,2820000,973
+Women,Asian,2016,2942000,945
+Women,Asian,2016,2896000,924
+Women,Asian,2016,3046000,933
+Women,Asian,2017,2942000,921
+Women,Asian,2017,3096000,958
+Women,Asian,2017,3116000,941
+Women,Asian,2017,3231000,913
+Women,Asian,2018,3083000,979
+Women,Asian,2018,3228000,943
+Women,Asian,2018,3244000,1026
+Women,Asian,2018,3454000,964
+Women,Asian,2019,3353000,1102
+Women,Asian,2019,3368000,974
+Women,Asian,2019,3179000,1158
+Women,Asian,2019,3527000,1072
+Women,Asian,2020,3144000,1140
+Women,Asian,2020,2892000,1157
+Women,Asian,2020,3176000,1300
+Women,Asian,2020,3097000,1124
+Men,Asian,2010,2149000,971
+Men,Asian,2010,2230000,999
+Men,Asian,2010,2186000,1021
+Men,Asian,2010,2181000,1004
+Men,Asian,2011,2311000,1021
+Men,Asian,2011,2257000,1018
+Men,Asian,2011,2298000,1101
+Men,Asian,2011,2312000,1011
+Men,Asian,2012,2429000,1145
+Men,Asian,2012,2393000,1157
+Men,Asian,2012,2615000,1149
+Men,Asian,2012,2648000,1135
+Men,Asian,2013,2544000,1145
+Men,Asian,2013,2621000,1166
+Men,Asian,2013,2675000,1136
+Men,Asian,2013,2629000,1120
+Men,Asian,2014,2743000,1127
+Men,Asian,2014,2775000,1204
+Men,Asian,2014,2717000,1159
+Men,Asian,2014,2591000,1140
+Men,Asian,2015,2875000,1146
+Men,Asian,2015,2884000,1121
+Men,Asian,2015,2926000,1240
+Men,Asian,2015,2735000,1247
+Men,Asian,2016,2878000,1207
+Men,Asian,2016,3029000,1249
+Men,Asian,2016,2987000,1241
+Men,Asian,2016,3081000,1212
+Men,Asian,2017,3015000,1271
+Men,Asian,2017,3185000,1337
+Men,Asian,2017,3159000,1218
+Men,Asian,2017,3198000,1342
+Men,Asian,2018,3084000,1256
+Men,Asian,2018,3321000,1331
+Men,Asian,2018,3246000,1413
+Men,Asian,2018,3225000,1370
+Men,Asian,2019,3258000,1361
+Men,Asian,2019,3368000,1403
+Men,Asian,2019,3372000,1479
+Men,Asian,2019,3446000,1419
+Men,Asian,2020,3366000,1429
+Men,Asian,2020,2926000,1564
+Men,Asian,2020,3159000,1628
+Men,Asian,2020,3276000,1489
+Women,Asian,2010,1678000,791
+Women,Asian,2010,1767000,886
+Women,Asian,2010,1769000,824
+Women,Asian,2010,1722000,748
+Women,Asian,2011,1766000,787
+Women,Asian,2011,1750000,789
+Women,Asian,2011,1727000,752
+Women,Asian,2011,1816000,830
+Women,Asian,2012,2087000,893
+Women,Asian,2012,1967000,849
+Women,Asian,2012,2033000,805
+Women,Asian,2012,1861000,805
+Women,Asian,2013,2020000,905
+Women,Asian,2013,2097000,926
+Women,Asian,2013,2032000,853
+Women,Asian,2013,2117000,850
+Women,Asian,2014,2217000,944
+Women,Asian,2014,2118000,908
+Women,Asian,2014,2060000,866
+Women,Asian,2014,2103000,894
+Women,Asian,2015,2210000,918
+Women,Asian,2015,2234000,871
+Women,Asian,2015,2183000,955
+Women,Asian,2015,2186000,966
+Women,Asian,2016,2223000,976
+Women,Asian,2016,2407000,982
+Women,Asian,2016,2252000,976
+Women,Asian,2016,2446000,934
+Women,Asian,2017,2366000,921
+Women,Asian,2017,2550000,974
+Women,Asian,2017,2506000,969
+Women,Asian,2017,2557000,941
+Women,Asian,2018,2496000,993
+Women,Asian,2018,2607000,964
+Women,Asian,2018,2616000,1100
+Women,Asian,2018,2693000,994
+Women,Asian,2019,2685000,1160
+Women,Asian,2019,2717000,1020
+Women,Asian,2019,2572000,1230
+Women,Asian,2019,2765000,1125
+Women,Asian,2020,2548000,1200
+Women,Asian,2020,2393000,1221
+Women,Asian,2020,2558000,1360
+Women,Asian,2020,2449000,1165
+Men,Asian,2010,390000,790
+Men,Asian,2010,440000,768
+Men,Asian,2010,414000,832
+Men,Asian,2010,453000,859
+Men,Asian,2011,484000,798
+Men,Asian,2011,469000,903
+Men,Asian,2011,450000,980
+Men,Asian,2011,471000,910
+Men,Asian,2012,487000,987
+Men,Asian,2012,507000,980
+Men,Asian,2012,528000,981
+Men,Asian,2012,498000,880
+Men,Asian,2013,500000,958
+Men,Asian,2013,526000,1095
+Men,Asian,2013,590000,852
+Men,Asian,2013,551000,914
+Men,Asian,2014,574000,942
+Men,Asian,2014,529000,1011
+Men,Asian,2014,648000,968
+Men,Asian,2014,560000,935
+Men,Asian,2015,627000,1034
+Men,Asian,2015,533000,1034
+Men,Asian,2015,618000,1030
+Men,Asian,2015,709000,1200
+Men,Asian,2016,660000,1188
+Men,Asian,2016,722000,943
+Men,Asian,2016,716000,1101
+Men,Asian,2016,568000,984
+Men,Asian,2017,640000,1112
+Men,Asian,2017,610000,1022
+Men,Asian,2017,663000,1125
+Men,Asian,2017,639000,1135
+Men,Asian,2018,725000,1154
+Men,Asian,2018,698000,1014
+Men,Asian,2018,762000,1073
+Men,Asian,2018,708000,1150
+Men,Asian,2019,728000,1239
+Men,Asian,2019,793000,1118
+Men,Asian,2019,711000,1237
+Men,Asian,2019,713000,1213
+Men,Asian,2020,820000,1142
+Men,Asian,2020,681000,1122
+Men,Asian,2020,594000,1321
+Men,Asian,2020,752000,1709
+Women,Asian,2010,342000,783
+Women,Asian,2010,303000,767
+Women,Asian,2010,336000,663
+Women,Asian,2010,355000,657
+Women,Asian,2011,351000,703
+Women,Asian,2011,399000,713
+Women,Asian,2011,347000,626
+Women,Asian,2011,405000,731
+Women,Asian,2012,460000,701
+Women,Asian,2012,352000,625
+Women,Asian,2012,453000,699
+Women,Asian,2012,451000,571
+Women,Asian,2013,449000,652
+Women,Asian,2013,477000,768
+Women,Asian,2013,474000,686
+Women,Asian,2013,506000,778
+Women,Asian,2014,477000,838
+Women,Asian,2014,522000,808
+Women,Asian,2014,497000,644
+Women,Asian,2014,512000,786
+Women,Asian,2015,530000,749
+Women,Asian,2015,613000,838
+Women,Asian,2015,595000,677
+Women,Asian,2015,584000,930
+Women,Asian,2016,597000,949
+Women,Asian,2016,535000,833
+Women,Asian,2016,644000,714
+Women,Asian,2016,601000,931
+Women,Asian,2017,576000,921
+Women,Asian,2017,547000,860
+Women,Asian,2017,610000,710
+Women,Asian,2017,673000,823
+Women,Asian,2018,588000,885
+Women,Asian,2018,621000,744
+Women,Asian,2018,628000,722
+Women,Asian,2018,760000,863
+Women,Asian,2019,668000,899
+Women,Asian,2019,651000,863
+Women,Asian,2019,607000,865
+Women,Asian,2019,762000,912
+Women,Asian,2020,596000,863
+Women,Asian,2020,499000,985
+Women,Asian,2020,618000,1030
+Women,Asian,2020,648000,958
