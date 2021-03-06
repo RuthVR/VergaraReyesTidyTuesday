@@ -1,0 +1,91 @@
+year,brand,view_count,like_count,dislike_count,comment_count,published_at,title,channel_title,category_id,Characteristics,Value,percent_liked
+2001,Bud Light,60774,269,10,18,2012-02-14T10:39:19Z,Bud Light Funny Pencil Advertisement,Tan Jian Wei,23,Funny,TRUE,0.4426234903083555
+2001,Bud Light,60774,269,10,18,2012-02-14T10:39:19Z,Bud Light Funny Pencil Advertisement,Tan Jian Wei,23,Danger,TRUE,0.4426234903083555
+2001,Bud Light,60774,269,10,18,2012-02-14T10:39:19Z,Bud Light Funny Pencil Advertisement,Tan Jian Wei,23,Sexual,TRUE,0.4426234903083555
+2001,Bud Light,998,3,0,0,2013-01-29T21:49:04Z,Bud Light - Cedric Date,SuperBowlsSpots,22,Funny,TRUE,0.30060120240480964
+2001,Bud Light,998,3,0,0,2013-01-29T21:49:04Z,Bud Light - Cedric Date,SuperBowlsSpots,22,Celebrity,TRUE,0.30060120240480964
+2001,Bud Light,998,3,0,0,2013-01-29T21:49:04Z,Bud Light - Cedric Date,SuperBowlsSpots,22,Sexual,TRUE,0.30060120240480964
+2002,Budweiser,121400,642,10,50,2014-09-11T08:13:48Z,"Budweiser - Respect (2002, USA)",The Hall of Advertising,24,Patriotic,TRUE,0.528830313014827
+2002,Budweiser,121400,642,10,50,2014-09-11T08:13:48Z,"Budweiser - Respect (2002, USA)",The Hall of Advertising,24,Animals,TRUE,0.528830313014827
+2002,Pepsi,385777,5929,73,261,2017-05-31T19:28:56Z,Britney Spears - Pepsi Now and Then Commercial [HD Master],Britney Online,10,Celebrity,TRUE,1.5368982598755239
+2002,Pepsi,385777,5929,73,261,2017-05-31T19:28:56Z,Britney Spears - Pepsi Now and Then Commercial [HD Master],Britney Online,10,Sexual,TRUE,1.5368982598755239
+2002,Bud Light,4641,19,0,2,2017-12-27T08:00:03Z,Bud Light - Cedric the entertainer Superbowl XXXVI Commercial 2002,Unknown Classics!,24,Funny,TRUE,0.4093945270415859
+2002,Bud Light,4641,19,0,2,2017-12-27T08:00:03Z,Bud Light - Cedric the entertainer Superbowl XXXVI Commercial 2002,Unknown Classics!,24,Celebrity,TRUE,0.4093945270415859
+2002,Bud Light,4641,19,0,2,2017-12-27T08:00:03Z,Bud Light - Cedric the entertainer Superbowl XXXVI Commercial 2002,Unknown Classics!,24,Danger,TRUE,0.4093945270415859
+2002,Bud Light,4641,19,0,2,2017-12-27T08:00:03Z,Bud Light - Cedric the entertainer Superbowl XXXVI Commercial 2002,Unknown Classics!,24,Sexual,TRUE,0.4093945270415859
+2004,Bud Light,3739,115,1,59,2014-02-21T23:23:43Z,Frank the Monkey Bud Light,Richard jrr.,23,Funny,TRUE,3.0756886868146562
+2004,Bud Light,3739,115,1,59,2014-02-21T23:23:43Z,Frank the Monkey Bud Light,Richard jrr.,23,Animals,TRUE,3.0756886868146562
+2004,Bud Light,3739,115,1,59,2014-02-21T23:23:43Z,Frank the Monkey Bud Light,Richard jrr.,23,Sexual,TRUE,3.0756886868146562
+2005,Bud Light,16997,69,3,2,2021-01-15T17:41:05Z,Bud Light Legends - Skydiver,Bud Light,10,Funny,TRUE,0.40595399188092013
+2009,Pepsi,1294,7,0,2,2009-08-09T23:12:05Z,Pepsi Super Bowl 2009 Commercial: Anthem,FunnyAdsWorldCom,10,Patriotic,TRUE,0.5409582689335394
+2009,Pepsi,1294,7,0,2,2009-08-09T23:12:05Z,Pepsi Super Bowl 2009 Commercial: Anthem,FunnyAdsWorldCom,10,Celebrity,TRUE,0.5409582689335394
+2009,Pepsi,1294,7,0,2,2009-08-09T23:12:05Z,Pepsi Super Bowl 2009 Commercial: Anthem,FunnyAdsWorldCom,10,Danger,TRUE,0.5409582689335394
+2010,Bud Light,34565,100,6,15,2010-02-08T01:52:12Z,t-pain bud light superbowl 44 commercial hd,corymahler1,17,Funny,TRUE,0.28930999566035004
+2010,Bud Light,34565,100,6,15,2010-02-08T01:52:12Z,t-pain bud light superbowl 44 commercial hd,corymahler1,17,Celebrity,TRUE,0.28930999566035004
+2011,Pepsi,204026,476,159,9,2014-01-17T00:07:33Z,PEPSI MAX - LOVE HURTS,bbosley,1,Funny,TRUE,0.2333035985609677
+2011,Pepsi,204026,476,159,9,2014-01-17T00:07:33Z,PEPSI MAX - LOVE HURTS,bbosley,1,Danger,TRUE,0.2333035985609677
+2011,Pepsi,204026,476,159,9,2014-01-17T00:07:33Z,PEPSI MAX - LOVE HURTS,bbosley,1,Sexual,TRUE,0.2333035985609677
+2012,Bud Light,14579,42,1,0,2012-02-07T23:48:37Z,Bud Light - Rescue Dog,powerofthepitt,1,Funny,TRUE,0.2880856025790521
+2012,Bud Light,14579,42,1,0,2012-02-07T23:48:37Z,Bud Light - Rescue Dog,powerofthepitt,1,Animals,TRUE,0.2880856025790521
+2012,Bud Light,14579,42,1,0,2012-02-07T23:48:37Z,Bud Light - Rescue Dog,powerofthepitt,1,Sexual,TRUE,0.2880856025790521
+2012,Pepsi,582575,1526,138,304,2012-02-03T16:36:54Z,Super Bowl 2012 Commercial: Pepsi - King's Court,selectionadawards,22,Celebrity,TRUE,0.2619405226794833
+2012,Coca-Cola,10925,71,18,3,2013-10-28T06:50:01Z,"Coke 2012 Commercial - Coca-Cola Open Happiness - ""Superstition""",Coca-Cola Open Happiness,22,Animals,TRUE,0.6498855835240275
+2012,Budweiser,10,0,0,0,2019-05-14T10:33:01Z,Budweiser Return of the King 2012 Super Bowl commercial,Best Ads Channel,22,Patriotic,TRUE,0
+2012,Budweiser,10,0,0,0,2019-05-14T10:33:01Z,Budweiser Return of the King 2012 Super Bowl commercial,Best Ads Channel,22,Animals,TRUE,0
+2012,Coca-Cola,22849816,92333,42386,592,2012-02-04T00:12:24Z,"Coke 2012 Commercial: ""Catch"" starring NE_Bear",Coca-Cola,24,Danger,TRUE,0.40408640489708975
+2012,Coca-Cola,22849816,92333,42386,592,2012-02-04T00:12:24Z,"Coke 2012 Commercial: ""Catch"" starring NE_Bear",Coca-Cola,24,Animals,TRUE,0.40408640489708975
+2012,Budweiser,220292,572,100,271,2012-02-05T03:27:52Z,"The Cult "" She Sells Sanctuary"" - Budweiser: 'Eternal Optimism' Ad",TheCULTFamily,10,Patriotic,TRUE,0.2596553665135366
+2012,Budweiser,220292,572,100,271,2012-02-05T03:27:52Z,"The Cult "" She Sells Sanctuary"" - Budweiser: 'Eternal Optimism' Ad",TheCULTFamily,10,Animals,TRUE,0.2596553665135366
+2012,Budweiser,220292,572,100,271,2012-02-05T03:27:52Z,"The Cult "" She Sells Sanctuary"" - Budweiser: 'Eternal Optimism' Ad",TheCULTFamily,10,Sexual,TRUE,0.2596553665135366
+2013,Budweiser,1171,5,2,0,2013-02-05T09:16:01Z,"Budweiser Black Crown ""Coronation"" - 2013 Super Bowl Commercial",YessianMusic,24,Sexual,TRUE,0.4269854824935952
+2013,Budweiser,246619,2225,64,67,2013-01-31T21:08:09Z,"The Clydesdales ""Brotherhood"" - 2013 Budweiser Super Bowl  [Commercial]",PegaseBuzz,1,Animals,TRUE,0.9022013713460845
+2013,Pepsi,987,2,0,0,2013-02-05T01:38:13Z,Pepsi Super Bowl Commercial TV AD 2013 Party HD,TheNewsthatmatters1,22,Funny,TRUE,0.2026342451874367
+2013,Pepsi,987,2,0,0,2013-02-05T01:38:13Z,Pepsi Super Bowl Commercial TV AD 2013 Party HD,TheNewsthatmatters1,22,Sexual,TRUE,0.2026342451874367
+2014,Coca-Cola,3900,14,3,0,2014-02-03T02:29:16Z,"Coca Cola Super Bowl Commercial 2014 ""Going all the Way""",Trailer Tube,24,Funny,TRUE,0.358974358974359
+2014,Bud Light,134186,405,27,29,2014-01-31T22:14:41Z,Bud Light Super Bowl 2014 Commercial - FULL VERSION,AdFibs.Com,24,Celebrity,TRUE,0.3018198619826211
+2014,Bud Light,134186,405,27,29,2014-01-31T22:14:41Z,Bud Light Super Bowl 2014 Commercial - FULL VERSION,AdFibs.Com,24,Animals,TRUE,0.3018198619826211
+2014,Bud Light,134186,405,27,29,2014-01-31T22:14:41Z,Bud Light Super Bowl 2014 Commercial - FULL VERSION,AdFibs.Com,24,Sexual,TRUE,0.3018198619826211
+2014,Coca-Cola,92878,450,88,139,2014-02-03T00:56:01Z,"Coca Cola Super Bowl Commercial 2014 ""Its Beautiful"" HD 720p",Trailer Tube,24,Patriotic,TRUE,0.48450655698873796
+2014,Coca-Cola,92878,450,88,139,2014-02-03T00:56:01Z,"Coca Cola Super Bowl Commercial 2014 ""Its Beautiful"" HD 720p",Trailer Tube,24,Animals,TRUE,0.48450655698873796
+2014,Budweiser,81183,232,38,10,2014-01-31T18:59:10Z,"Budweiser Puppy Commercial - Budweiser super bowl commercial 2014 ""Puppy love"" [EXTENDED]",Sherwood Forest,24,Patriotic,TRUE,0.2857741152704384
+2014,Budweiser,81183,232,38,10,2014-01-31T18:59:10Z,"Budweiser Puppy Commercial - Budweiser super bowl commercial 2014 ""Puppy love"" [EXTENDED]",Sherwood Forest,24,Animals,TRUE,0.2857741152704384
+2015,Budweiser,491630,2327,37,104,2015-02-01T04:04:01Z,2015 Budweiser Super Bowl XLIX Commercial Lost Dog Puppy BestBuds  TV Ad Spot,Michelle Priddy,23,Patriotic,TRUE,0.4733234342900149
+2015,Budweiser,491630,2327,37,104,2015-02-01T04:04:01Z,2015 Budweiser Super Bowl XLIX Commercial Lost Dog Puppy BestBuds  TV Ad Spot,Michelle Priddy,23,Danger,TRUE,0.4733234342900149
+2015,Budweiser,491630,2327,37,104,2015-02-01T04:04:01Z,2015 Budweiser Super Bowl XLIX Commercial Lost Dog Puppy BestBuds  TV Ad Spot,Michelle Priddy,23,Animals,TRUE,0.4733234342900149
+2016,Pepsi,40818,320,19,13,2016-08-09T14:14:01Z,"Greatest SuperBowl Ads, Pepsi Cola Ad",IceTv Ads,22,Celebrity,TRUE,0.78396785731785
+2016,Coca-Cola,6428474,58957,2673,813,2017-05-07T14:37:08Z,Hulk vs. Ant-Man - Coca-Cola: Coke Mini,ClipsyBox,1,Funny,TRUE,0.9171227883942596
+2016,Coca-Cola,6428474,58957,2673,813,2017-05-07T14:37:08Z,Hulk vs. Ant-Man - Coca-Cola: Coke Mini,ClipsyBox,1,Celebrity,TRUE,0.9171227883942596
+2016,Coca-Cola,6428474,58957,2673,813,2017-05-07T14:37:08Z,Hulk vs. Ant-Man - Coca-Cola: Coke Mini,ClipsyBox,1,Danger,TRUE,0.9171227883942596
+2016,Budweiser,136,0,0,0,2016-02-08T18:22:21Z,Budweiser The Best Super Bowl 2016 Commercial  Ad,Ad Bowl 2016,22,Celebrity,TRUE,0
+2017,Budweiser,28785122,48423,17113,9190,2017-01-31T13:18:04Z,Budweiser 2017 Super Bowl Commercial | “Born The Hard Way”,Budweiser,24,Patriotic,TRUE,0.16822231984981686
+2017,Budweiser,28785122,48423,17113,9190,2017-01-31T13:18:04Z,Budweiser 2017 Super Bowl Commercial | “Born The Hard Way”,Budweiser,24,Danger,TRUE,0.16822231984981686
+2018,Coca-Cola,301,2,0,1,2018-04-04T10:35:34Z,"Life is Short, Have a Diet Coke   Because I Can Diet Coke",Tofe Lofe,22,Celebrity,TRUE,0.6644518272425249
+2018,Pepsi,669906,2849,181,324,2018-02-01T18:48:48Z,"Pepsi Super Bowl Commercial 2018 Cindy Crawford, Britney Spears",Funny Commercials,1,Patriotic,TRUE,0.42528354724394163
+2018,Pepsi,669906,2849,181,324,2018-02-01T18:48:48Z,"Pepsi Super Bowl Commercial 2018 Cindy Crawford, Britney Spears",Funny Commercials,1,Celebrity,TRUE,0.42528354724394163
+2018,Bud Light,33766,144,23,17,2021-01-15T17:41:05Z,Bud Light Legends - Bud Knight,Bud Light,10,Funny,TRUE,0.42646449090801397
+2018,Bud Light,33766,144,23,17,2021-01-15T17:41:05Z,Bud Light Legends - Bud Knight,Bud Light,10,Danger,TRUE,0.42646449090801397
+2018,Bud Light,33766,144,23,17,2021-01-15T17:41:05Z,Bud Light Legends - Bud Knight,Bud Light,10,Animals,TRUE,0.42646449090801397
+2018,Bud Light,41441,224,7,9,2018-01-21T23:46:31Z,Bud Light | Battle Pep Talk Dilly Dilly,Timmy Shouts,22,Funny,TRUE,0.5405274969233368
+2018,Bud Light,41441,224,7,9,2018-01-21T23:46:31Z,Bud Light | Battle Pep Talk Dilly Dilly,Timmy Shouts,22,Danger,TRUE,0.5405274969233368
+2018,Bud Light,41441,224,7,9,2018-01-21T23:46:31Z,Bud Light | Battle Pep Talk Dilly Dilly,Timmy Shouts,22,Animals,TRUE,0.5405274969233368
+2018,Coca-Cola,179,1,0,0,2020-02-24T20:20:40Z,"Diet Coke Twisted Mango Super Bowl 2018 TV Commercial, 'Groove' Ft  Hayley Magnus",Super Bowl Commercials,22,Sexual,TRUE,0.5586592178770949
+2019,Pepsi,69050,773,37,65,2019-01-29T16:36:29Z,Pepsi: More Than OK,Ads of Brands,24,Funny,TRUE,1.119478638667632
+2019,Pepsi,69050,773,37,65,2019-01-29T16:36:29Z,Pepsi: More Than OK,Ads of Brands,24,Celebrity,TRUE,1.119478638667632
+2019,Pepsi,69050,773,37,65,2019-01-29T16:36:29Z,Pepsi: More Than OK,Ads of Brands,24,Sexual,TRUE,1.119478638667632
+2019,Pepsi,128792,961,15,35,2019-02-01T11:29:56Z,Michael Buble vs Bubly Super Bowl 2019 Commercial,PatriotsNation,22,Funny,TRUE,0.7461643580346605
+2019,Pepsi,128792,961,15,35,2019-02-01T11:29:56Z,Michael Buble vs Bubly Super Bowl 2019 Commercial,PatriotsNation,22,Celebrity,TRUE,0.7461643580346605
+2019,Bud Light,36683,65,117,32,2019-02-04T02:23:36Z,Ad Meter 2019: Bud Light Medieval Barbers,USA TODAY,25,Funny,TRUE,0.17719379549109943
+2019,Bud Light,125,2,0,0,2019-10-19T00:00:06Z,Bud Light When the Trojan horse goes wrong Commercial,Red Shirt Media,1,Funny,TRUE,1.6
+2019,Bud Light,7658201,94799,12789,7431,2019-02-04T00:19:31Z,Game of Thrones X Bud Light | Official Super Bowl LIII Ad | Extended Version | HBO,GameofThrones,1,Funny,TRUE,1.237875579395213
+2019,Bud Light,7658201,94799,12789,7431,2019-02-04T00:19:31Z,Game of Thrones X Bud Light | Official Super Bowl LIII Ad | Extended Version | HBO,GameofThrones,1,Danger,TRUE,1.237875579395213
+2019,Bud Light,7658201,94799,12789,7431,2019-02-04T00:19:31Z,Game of Thrones X Bud Light | Official Super Bowl LIII Ad | Extended Version | HBO,GameofThrones,1,Animals,TRUE,1.237875579395213
+2020,Bud Light,47752,485,14,14,2020-01-31T21:04:13Z,Bud Light: Post Malone #PostyStore Inside Post's Brain,VCU Brandcenter,27,Funny,TRUE,1.015664265371084
+2020,Bud Light,47752,485,14,14,2020-01-31T21:04:13Z,Bud Light: Post Malone #PostyStore Inside Post's Brain,VCU Brandcenter,27,Celebrity,TRUE,1.015664265371084
+2020,Bud Light,47752,485,14,14,2020-01-31T21:04:13Z,Bud Light: Post Malone #PostyStore Inside Post's Brain,VCU Brandcenter,27,Danger,TRUE,1.015664265371084
+2020,Coca-Cola,304254,1470,384,227,2020-01-31T14:58:00Z,Coca-Cola Energy - Show Up ft. Jonah Hill & Martin Scorsese,Coca-Cola,24,Funny,TRUE,0.4831489479185155
+2020,Coca-Cola,304254,1470,384,227,2020-01-31T14:58:00Z,Coca-Cola Energy - Show Up ft. Jonah Hill & Martin Scorsese,Coca-Cola,24,Celebrity,TRUE,0.4831489479185155
+2020,Coca-Cola,304254,1470,384,227,2020-01-31T14:58:00Z,Coca-Cola Energy - Show Up ft. Jonah Hill & Martin Scorsese,Coca-Cola,24,Animals,TRUE,0.4831489479185155
+2020,Budweiser,782,7,0,0,2020-01-24T14:04:00Z,Budweiser - Typical American,DossierNet,24,Patriotic,TRUE,0.8951406649616368
+2020,Budweiser,782,7,0,0,2020-01-24T14:04:00Z,Budweiser - Typical American,DossierNet,24,Celebrity,TRUE,0.8951406649616368
+2020,Budweiser,782,7,0,0,2020-01-24T14:04:00Z,Budweiser - Typical American,DossierNet,24,Danger,TRUE,0.8951406649616368
+2020,Pepsi,29219,146,38,29,2020-01-30T18:32:01Z,Pepsi | Zero Sugar | SuperBowl Commercials 2020,Telling Things,24,Celebrity,TRUE,0.4996748690920292
