@@ -64,3 +64,5 @@ ggplot(data = superbowl_commercials_drinks,
         panel.background = element_rect(fill = "white"))+
   scale_color_manual(values = cal_palette(name = "fire", type = "continuous"))
 
+ggsave(here("tidy_tuesday_2", "output", "Characteristics_Superbowl_beverage_comm_plot.png"),
+       width = 10, height = 7)     
