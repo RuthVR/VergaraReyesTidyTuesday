@@ -45,13 +45,14 @@ rollcall_clean <- roll_calls %>%
 Roll_vote_data <- inner_join(rollcall_clean,unvotes)   ### How I put together two data sets
 
 countries <- c("United States","Russia","Sweden",
-               "Norway","Mexico","Cuba")               ### How I got the countries that I want to look at 
+               "Norway","Mexico","Cuba")               ### The countries that I want to look at 
 
 FullData <- inner_join(Roll_vote_data,issues)%>%       ### How I got all the data sets together
   select(-date, -unres, -short,-descr,
          -short_name,-country_code, -importantvote)%>% ### How I got rid of columns I won't be using.
   filter(complete.cases(.))%>%                         ### filters out everything that is not a complete row
-  filter(country %in% countries)
+  filter(country %in% countries)%>%                    ### Filtered out the data for the countries I wanted.
+  write_csv(here("tidy_tuesday_5", "data", "voting_data.csv"))  ### How I saved data into a csv file 
 
 ```
 
@@ -62,24 +63,24 @@ ggplot(data = FullData,
        mapping = aes(x = year,
                      y = country,
                      color = vote,
-                     fill = vote))+
-  geom_point()+
-  facet_wrap(~issue)+
-  theme_classic()+
+                     fill = vote))+                     ### This is what I put in each axis
+  geom_point()+                                         ### The type of plot I made
+  facet_wrap(~issue)+                                   ### How I created my facet wrap
+  theme_classic()+                                      ### THe overall theme of the plot
   labs(x = "Year",
        y = "",
        title = "How Countries have voted while in the UN",
        subtitle = "This plot shows how the following countries voted for the different issues
-       between 1946-1984")+  ### new labels ##
+       between 1946-1984")+                             ### new labels for the plot ##
   theme(legend.box = "none",
         axis.title = element_text(size = 10),
         title = element_text(size = 16),
         plot.subtitle = element_text(size = 11),
         legend.position = "bottom")+
-  scale_color_manual(values = cal_palette("chaparral1"))
+  scale_color_manual(values = cal_palette("chaparral1"))### How I changed certain aspects of the plot 
 
 ggsave(here("tidy_tuesday_5", "output", "voting.png"),
-       width = 10, height = 7)  
+       width = 10, height = 7)                          ### How I saved my plot
 
 ```
 
