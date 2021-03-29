@@ -1,0 +1,87 @@
+---
+title: "Tidy Tuesday 5"
+author: "Ruth Vergara Reyes"
+date: "3/27/2021"
+output: 
+  html_document:
+    toc: TRUE 
+    toc_float: TRUE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,
+                      message = FALSE)
+```
+# Introduction 
+This is the 5th TidyTuesday that I have done. The data this week involves voting results from the United Nations. 
+
+
+# Load Libraries
+```{r}
+library(tidyverse)
+library(tidytuesdayR)
+library(here)
+library(calecopal)
+library(lubridate)
+```
+
+
+# Load Data
+```{r, message =FALSE}
+tidydata <- tidytuesdayR::tt_load(2021, week = 13)
+issues <- tidydata$issues
+roll_calls <- tidydata$roll_calls
+unvotes <- tidydata$unvotes
+```
+
+# Data Analysis 
+
+### Cleaning up the data
+```{r}
+rollcall_clean <- roll_calls %>%
+  mutate(date = ymd(date)) %>%                         ### how I got all of them in correct date format
+  mutate(year = year(date))                            ###  how I extracted the year from the date
+
+Roll_vote_data <- inner_join(rollcall_clean,unvotes)   ### How I put together two data sets
+
+countries <- c("United States","Russia","Sweden",
+               "Norway","Mexico","Cuba")               ### How I got the countries that I want to look at 
+
+FullData <- inner_join(Roll_vote_data,issues)%>%       ### How I got all the data sets together
+  select(-date, -unres, -short,-descr,
+         -short_name,-country_code, -importantvote)%>% ### How I got rid of columns I won't be using.
+  filter(complete.cases(.))%>%                         ### filters out everything that is not a complete row
+  filter(country %in% countries)
+
+```
+
+
+### Making the Plot
+```{r}
+ggplot(data = FullData,
+       mapping = aes(x = year,
+                     y = country,
+                     color = vote,
+                     fill = vote))+
+  geom_point()+
+  facet_wrap(~issue)+
+  theme_classic()+
+  labs(x = "Year",
+       y = "",
+       title = "How Countries have voted while in the UN",
+       subtitle = "This plot shows how the following countries voted for the different issues
+       between 1946-1984")+  ### new labels ##
+  theme(legend.box = "none",
+        axis.title = element_text(size = 10),
+        title = element_text(size = 16),
+        plot.subtitle = element_text(size = 11),
+        legend.position = "bottom")+
+  scale_color_manual(values = cal_palette("chaparral1"))
+
+ggsave(here("tidy_tuesday_5", "output", "voting.png"),
+       width = 10, height = 7)  
+
+```
+
+
+
