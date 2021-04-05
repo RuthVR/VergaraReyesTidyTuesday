@@ -1,0 +1,137 @@
+---
+title: "6th Tidy Tuesday"
+author: "Ruth Vergara Reyes"
+date: "4/1/2021"
+output:
+  html_document:
+    toc: yes
+    toc_float: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,
+                      message = FALSE)
+```
+
+# Introduction
+
+This is the 6th tidy tuesday I make
+
+# Load Libraries
+```{r}
+library(tidyverse)
+library(here)
+library(RColorBrewer)
+library(tidytuesdayR)
+library(patchwork)
+```
+
+
+# Load Data
+```{r, message=FALSE}
+
+tues_data <- tidytuesdayR::tt_load(2021, week = 14)
+ulta <- tues_data$ulta
+sephora <- tues_data$sephora
+allShades <- tues_data$allShades
+allNumbers <- tues_data$allNumbers
+allCategories <- tues_data$allCategories
+
+```
+
+
+# Data Analysis 
+
+I will be looking at the color range of foundation available in Sephora and Ulta. I will be comparing ranges avalible at the different places and then one brand they have that is supposed to have wider ranges. 
+
+### Cleaning up the data 
+```{r}
+top_brands_sephora <- c("Anastasia Beverly Hills", "bareMinerals", "Lancôme", "FENTY BEAUTY by Rihanna")  ### Three brands that are the same as Ulta and one that is supposed to have a wider range. #
+
+top_brands_ulta <- c("Anastasia Beverly Hills","bareMinerals","Lancôme", "Maybelline")                    ### Three brands that are the same as Sephora and one that is supposed to have a wider range. #
+
+clean_sephora <- sephora %>%
+  filter (brand %in% top_brands_sephora) %>%            ### How I got the brands I wanted
+  arrange(brand) %>%                                    ### How I got the brands to be in alphabetical order
+  select(-url, -imgSrc, -imgAlt, -name)                 ### How I got rid of columns that I did not need
+
+clean_ulta <- ulta %>%
+  filter(brand %in% top_brands_ulta) %>%                ### How I got the brands I wanted to look at 
+  select(-url, -imgSrc, -imgAlt,-name)%>%               ### How I got rid of columns that I did not need
+  arrange(brand)                                        ### How I got the brands to get into alphabetical order
+
+clean_seph_num <- allNumbers %>%                        ### This is how I cleaned the numbers data so I can join with precious data
+  filter(brand %in% top_brands_sephora)%>%              ### How I got the information that I needed from the numbers data
+  select(-name, -hex)                                   ### How I got rid of columns that I do not need
+
+Seph_data <- inner_join(clean_seph_num, clean_sephora)  ### How I joined the two sets of data for Sephora into one big data set
+
+clean_ulta_num <- allNumbers %>%                        ### This is the data set I will be joining with the previous ULta data set
+  filter(brand %in% top_brands_ulta)%>%                 ### How I cleaned up the numbers data for the ulta brands
+  select(-name, -hex)                                   ### How I got rid of columns that I do not need
+
+ulta_data <- inner_join(clean_ulta_num, clean_ulta)     ### How I joined the two data sets for Ulta into one 
+
+```
+
+### Making the Plots
+I will first  make two plots then combine them into one.
+
+```{r}
+##### Sephora Plot #####
+
+seph_plot <- Seph_data %>%
+  ggplot(aes(x = numbers,             
+             y = lightness,
+             color = lightness))+               ### What I chose for my x/y axis
+  geom_point()+                                 ### Type of plot I used
+  facet_wrap(~brand, scales = "free")+          ### How I got each brand to have its own small plot
+  theme_classic()+                              ### Theme 
+  labs(x = "Foundation Number",
+       y = "Shade Range ",
+       title = "Foundation Range by Popular Brands",
+       subtitle = "This plot shows the shade ranges 
+of foundation avaliable at Sephora based on the brand.")+ ### new labels for the plot ##
+  theme(legend.box = "none",
+        axis.title = element_text(size = 10),
+        title = element_text(size = 16),
+        plot.subtitle = element_text(size = 11),
+        legend.position = "none")+              ### How I changed certain aspects of the plot
+ ggsave(here("tidy_tuesday_6", "output", "seph_plot.png"),
+       width = 10, height = 7)
+seph_plot
+
+##### Ulta Plot #####
+
+ulta_plot <- ulta_data %>%
+  ggplot(aes(x = numbers,             
+             y = lightness,
+             color = lightness))+               ### What I chose for my x/y axis
+  geom_point()+                                 ### Type of plot I used
+  facet_wrap(~brand, scales = "free")+          ### How I got each brand to have its own small plot
+  theme_classic()+                              ### Theme 
+  labs(x = "Foundation Number",
+       y = "Shade Range",
+       subtitle = "This plot shows the shade ranges of foundation 
+avaliable at Ulta based on the brand.")+        ### new labels for the plot ##
+  theme(legend.box = "none",
+        axis.title = element_text(size = 10),
+        title = element_text(size = 16),
+        plot.subtitle = element_text(size = 11),
+        legend.position = "none")+             ### How I changed certain aspects of the plot
+  ggsave(here("tidy_tuesday_6", "output", "ulta_plot.png"),
+       width = 10, height = 7)
+
+ulta_plot
+```
+
+
+### Putting the plots together 
+```{r}
+seph_plot+ulta_plot +
+  plot_layout(guides = 'collect')+
+ggsave(here("tidy_tuesday_6", "output", "seph_ulta_plot.png"),
+       width = 10, height = 7)
+```
+
+
