@@ -1,0 +1,126 @@
+---
+title: "7th Tidy Tuesday"
+author: "Ruth Vergara Reyes"
+date: "4/20/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,
+                      message = FALSE,
+                      warning = FALSE)
+```
+
+#Introduction 
+
+My plot is inspired by Rebecca Stevick, who posted her plot on twitter. 
+https://twitter.com/rjstevick/status/1384574073737515011?s=21 
+
+# Load Libraries 
+```{r}
+library(tidyverse)
+library(hrbrthemes)
+library(ggimage)
+library(ggtext)
+library(here)
+```
+
+
+# Load Data
+```{r}
+tidy_data <- tidytuesdayR::tt_load(2021, week = 17)
+netflix_data <- tidy_data$netflix_titles
+## This weeks data
+
+images <- tibble(image=c("https://i.pinimg.com/originals/87/9f/35/879f354dfe3834de15865303aa22995a.png"))   
+## cartoon image of the TV for plot
+```
+
+
+# Cleaning up the Data 
+```{r}
+clean_netflix <- netflix_data %>%
+  filter(type == "Movie")%>%                  ## selecting only movies 
+  separate(col = date_added,
+           into = c("month", "day", "year"),
+           sep = " ")%>%                      ## How I extracted the date
+  select(-cast, -month, -day,
+         -release_year, -description)%>%      ## removing columns that I don't need
+  rename(year_added = year)%>%                ## renaming the year to better describe the column
+  separate_rows(listed_in, sep = ", ")%>%
+  filter(listed_in != "International Movies",
+         listed_in != "Movies",
+         listed_in != "Independent Movies",
+         listed_in != "Dramas",
+         listed_in != "Comedies")%>%          ## How I filtered down the data to be more detailed  
+  mutate(listed_in = recode(listed_in, 
+                            "Classic Movies" = "Classics",
+                            "Children & Family Movies" = "Children & Family",
+                            "Sports Movies" = "Sports",
+                            "Romantic Movies" = "Romantic",
+                            "Horror Movies" = "Horror",
+                            "LGBTQ Movies" = "LGBTQ",
+                            "Anime Features" = "Anime",
+                            "Cult Movies" = "Cults"))%>%      ## How I renamed characters within columns
+  separate(col = duration,
+           into = c("duration_min", "min"),
+           sep = " ")%>%                      ## How I got duration to be numerical 
+  select(-min) %>%                            ## Getting rid of the column that is empty
+  write_csv(here("tidy_tuesday_7", "data", "netflix_data.csv"))  ## saving the new data into a csv file
+
+netflix_2021_data <- clean_netflix %>%
+  filter(year_added != 2008, year_added != 2013,
+         year_added != 2009, year_added != 2014,
+         year_added != 2010, year_added != 2015,
+         year_added != 2011, year_added != 2016,
+         year_added != 2012, year_added != 2017,
+         year_added != 2018, year_added != 2019)%>%
+  write_csv(here("tidy_tuesday_7", "data", "netflix_2020_2021_data.csv"))  ## saving the new data into a csv file
+
+```
+
+
+# Making the Plot
+```{r}
+ggplot(data = netflix_2021_data,
+         aes(y = 0,
+             x = 0))+                                ## Making the beginning of the plots 
+  facet_wrap(~listed_in, ncol = 5 )+                 ## going to facet wrap by the genre of the movie
+  geom_image(data = images, 
+             aes(x=0.056, y=0.056, image = image), 
+             size = 1.4, by="width")+                ## Determining the width of the background image (cartoon tv)
+  annotate("rect", 
+           xmin = -0.38, ymin = -0.27, xmax = 0.37, ymax = 0.28, 
+           fill = "black", color = "black")+         ## Making the background of the plot black and determining the diameters
+  geom_jitter(aes(y = -0.04, 
+                  size = duration,
+                  color = rating),                   ## making the colors based on the ratings of the films. 
+              size = 1, width = 0.35, height = 0.2,  ## determining the size of the points 
+              color = "red")+                        ## determining the color of the points in the plot
+  stat_summary(aes(color = rating, 
+                   x = 0, y = 0.23, 
+                   label = listed_in), 
+               fun = "mean", 
+               geom = "text", 
+               size = 3, family = "Bebas Neue", 
+               color = "white", 
+               lineheight = 0.8)+                    ## Editing the writing within the plot
+  theme_ft_rc()+                                     ## Used to make sure nothing is being cut of in the plots
+  coord_cartesian(clip = 'off')+ 
+  theme(legend.position = "none", 
+        panel.spacing = unit(1.2, "lines"), 
+        strip.text = element_blank(), 
+        panel.grid.major = element_blank(), panel.grid.minor = element_blank(),
+        axis.text.x = element_blank(), axis.text.y = element_blank(),
+        plot.title = element_markdown(hjust = 0.5, family = "Bebas Neue", 
+                                      size = 30, color = "white"))+       ## Editing theme elements of the plot
+  labs(title = "Movies added to <span style='color:red;'>**Netflix**</span> 2020/2021",
+       x = NULL, y = NULL)                           ## editing the title of the plot
+
+
+ggsave(here("tidy_tuesday_7", "output", "Netflix_plot.png"),
+       width = 10, height = 7)                       ## saving the plot as an  
+  
+
+```
+
