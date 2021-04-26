@@ -74,7 +74,7 @@ netflix_2021_data <- clean_netflix %>%
          year_added != 2010, year_added != 2015,
          year_added != 2011, year_added != 2016,
          year_added != 2012, year_added != 2017,
-         year_added != 2018, year_added != 2019)%>%
+         year_added != 2018, year_added != 2019)%>%  ## getting rid of the years I don't want for the plot
   write_csv(here("tidy_tuesday_7", "data", "netflix_2020_2021_data.csv"))  ## saving the new data into a csv file
 
 ```
@@ -85,46 +85,48 @@ netflix_2021_data <- clean_netflix %>%
 netflix_2021_data %>%
   ggplot(aes(x = 1,
              y = 1))+                                ## Making the beginning of the plots 
-  scale_x_continuous(limits = c(-0.4, 0.4))+                                 
-  scale_y_continuous(limits = c(-0.5, 0.5))+
-  facet_wrap(~listed_in, ncol = 5)+                ## going to facet wrap by the genre of the movie
+  scale_x_continuous(limits = c(-0.4, 0.4))+         ## Making limitations for the axis                      
+  scale_y_continuous(limits = c(-0.5, 0.5))+         ## Making limitations for the axis 
+  facet_wrap(~listed_in, ncol = 5)+                  ## going to facet wrap by the genre of the movie
   geom_image(data = images, 
-             aes(x=0.01, y=0.20, image = image), 
-             size = 1.3, by="height")+          ## Determining the width of the background image (cartoon tv)
+             aes(x=0.01, y=0.20,                     ## Determining the middle of the x/y axis within the image
+                 image = image),      
+             size = 1.3, by="height")+               ## Determining the size of the background image (cartoon tv)
   annotate("rect", 
-           xmin = -0.40, ymin = -0.21, xmax = 0.32, ymax = 0.48, 
-           fill = "black", color = "black")+        ## Making the background of the plot black and determining the diameters
+           xmin = -0.40, ymin = -0.21, xmax = 0.32, ymax = 0.48,   ## Determining the limits of the plot 
+           fill = "black", color = "black")+         ## Making the background of the plot black and determining the diameters
   geom_jitter(aes(x = -0.02,
                   y = 0,
                   color = rating),                   ## making the colors based on the ratings of the films.
-              shape = 20, width = 0.35, height = 0.2,  ## determining the size of the points 
-              color = "red")+                     ## determining the color of the points in the plot
+              shape = 20, width = 0.35, height = 0.2,## determining the size of the points 
+              color = "red")+                        ## determining the color of the points in the plot
   stat_summary(aes(color = rating, 
                    x = 0, y = 0.40, 
-                   label = listed_in), 
+                   label = listed_in),               ## Making the headings for each plot
                fun = "mean", 
                geom = "text", 
                size = 2.7, 
                color = "white", 
                lineheight = 0.8)+                    ## Editing the writing within the plot
-  coord_cartesian(clip = 'off')+
-  theme(legend.position = "none", 
-        panel.spacing = unit(1.2, "lines"),
-        plot.background = element_rect(fill = "black"),
-        panel.background = element_rect(fill = "black"),
+  coord_cartesian(clip = 'off')+                     ## To ensure nothing gets cut off 
+  theme(legend.position = "none",                    ## getting rid of any legend
+        panel.spacing = unit(1.2, "lines"),          ## making the space between the images/plots
+        plot.background = element_rect(fill = "black"),            ## Making entire panel background white
+        panel.background = element_rect(fill = "black"),           ## Maing the plots behind the images black 
         strip.text = element_blank(), 
         panel.grid.major = element_blank(), 
         panel.grid.minor = element_blank(),
-        axis.text.x = element_blank(), axis.text.y = element_blank(),
+        axis.text.x = element_blank(), 
+        axis.text.y = element_blank(),
         plot.title = element_markdown(hjust = 0.5,  
                                       size = 30, 
-                                      color = "white"))+       ## Editing theme elements of the plot
+                                      color = "white"))+           ## Editing theme elements of the plot
   labs(title = "Movies added to <span style='color:red;'>**Netflix**</span> 2020/2021",
-       x = NULL, y = NULL)                           ## editing the title of the plot
+       x = NULL, y = NULL)                                         ## editing the title of the plot
 
 
 ggsave(here("tidy_tuesday_7", "output", "Netflix_plot.png"),
-       width = 10, height = 7)                       ## saving the plot as an  
+       width = 10, height = 7)                                    ## saving the plot  into the output folder   
   
 
 ```
