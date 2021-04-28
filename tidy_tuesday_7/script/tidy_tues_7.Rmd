@@ -2,7 +2,11 @@
 title: "7th Tidy Tuesday"
 author: "Ruth Vergara Reyes"
 date: "4/20/2021"
-output: html_document
+output: 
+  html_document:
+    toc: TRUE
+    toc_float: TRUE
+    theme: journal
 ---
 
 ```{r setup, include=FALSE}

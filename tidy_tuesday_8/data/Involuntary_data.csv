@@ -1,0 +1,1350 @@
+dismissal_dataset_id,coname,gvkey,fyear,co_per_rol,exec_fullname,departure_code,CEO_left_due_to
+13,AMERICAN AIRLINES GROUP INC,1045,2002,3,Donald J. Carty,3,Poor Job Performance
+28,AARON'S INC,1076,2011,17979,Robert Charles Loudermilk Jr.,2,Illness
+29,AARON'S INC,1076,2014,45024,Ronald W. Allen,3,Poor Job Performance
+36,ACETO CORP,1094,2017,49265,Salvatore J. Guccione,3,Poor Job Performance
+37,ACETO CORP,1094,2018,60744,William C. Kennally III,3,Poor Job Performance
+44,ADVANCED MICRO DEVICES,1161,2008,21115,Hector de Jesus Ruiz,3,Poor Job Performance
+45,ADVANCED MICRO DEVICES,1161,2010,26736,Derrick R. Meyer,3,Poor Job Performance
+49,WORLDCOM INC,1164,2001,2627,Bernard John Ebbers,4,Legal Violation
+59,IDNA INC,1183,2000,22635,David L. Huber,3,Poor Job Performance
+67,AIR PRODUCTS & CHEMICALS INC,1209,2014,28244,John E. McGlade,3,Poor Job Performance
+69,AIRBORNE INC,1213,2001,2631,Robert S. Cline,3,Poor Job Performance
+78,ALBERTSON'S INC,1240,2000,38,Gary Glenn Michael,3,Poor Job Performance
+96,ALLEGHENY ENERGY INC,1279,2002,2649,Alan J. Noia,3,Poor Job Performance
+100,HONEYWELL INTERNATIONAL INC,1300,2001,18549,Michael R. Bonsignore,3,Poor Job Performance
+115,AMCAST INDUSTRIAL CORP,1372,2000,5647,John H. Shuey,3,Poor Job Performance
+136,US ECOLOGY INC,1439,2012,49518,James R. Baumgardner,3,Poor Job Performance
+162,AMERICAN INTERNATIONAL GROUP,1487,2004,134,Maurice R. Greenberg,4,Legal Violation
+163,AMERICAN INTERNATIONAL GROUP,1487,2007,27280,Martin John Sullivan,3,Poor Job Performance
+166,AMERICAN INTERNATIONAL GROUP,1487,2016,43633,Peter D. Hancock,3,Poor Job Performance
+170,AMERICAN MANAGEMENT SYSTEMS,1500,2001,21822,William M. Purdy,3,Poor Job Performance
+203,ANALOG DEVICES,1632,2012,2669,Jerald G. Fishman,1,Death
+215,SCHOOL SPECIALTY INC,1634,2007,20390,Michael J. LaVelle,3,Poor Job Performance
+216,ANALYSTS INTERNATIONAL CORP,1634,2009,34327,Elmer N. Baldwin,3,Poor Job Performance
+220,ANDREW CORP,1651,2001,20681,Guy M Campbell,3,Poor Job Performance
+235,K2 INC,1677,2002,10266,Richard M. Rodstein,3,Poor Job Performance
+238,APACHE CORP,1678,2014,2691,G. Steven Farris,3,Poor Job Performance
+246,APPLE INC,1690,2011,13898,Steven P. Jobs,2,Illness
+250,APPLIED MATERIALS INC,1704,2013,26646,Michael R. Splinter,3,Poor Job Performance
+254,ACTUANT CORP -CL A,1706,2015,24868,Mark E. Goldstein,3,Poor Job Performance
+280,ASHLAND GLOBAL HOLDINGS INC,1794,2002,212,Paul W. Chellgren,3,Poor Job Performance
+282,ASHLAND GLOBAL HOLDINGS INC,1794,2018,51698,William A. Wulfsohn,3,Poor Job Performance
+302,AUTODESK INC,1878,2016,25457,Carl Bass,4,Legal Violation
+306,AUTOMATIC DATA PROCESSING,1891,2011,231,Gary C. Butler,4,Legal Violation
+314,AVNET INC,1919,2016,26411,Richard P. Hamada,3,Poor Job Performance
+315,AVNET INC,1919,2018,55553,William Joseph Amelio,3,Poor Job Performance
+318,AVON PRODUCTS,1920,2011,14197,Andrea Jung,3,Poor Job Performance
+319,AVON PRODUCTS,1920,2018,46963,Sherilyn S. D. McCoy,3,Poor Job Performance
+321,AZZ INC,1926,2013,38049,David H. Dingus,1,Death
+323,BMC INDUSTRIES INC,1943,2001,5681,Paul B. Burke,3,Poor Job Performance
+346,CONSTELLATION ENERGY GRP INC,1995,2001,258,Christian H. Poindexter,3,Poor Job Performance
+364,BANK OF NEW YORK MELLON CORP,2019,2011,34028,Robert P. Kelly,3,Poor Job Performance
+365,BANK OF NEW YORK MELLON CORP,2019,2017,14209,Gerald Lee Hassell,3,Poor Job Performance
+390,BARRICK GOLD CORP,2055,2002,12354,Randall Oliphant,3,Poor Job Performance
+391,BARRICK GOLD CORP,2055,2007,301,Gregory C. Wilkins,2,Illness
+393,BARRICK GOLD CORP,2055,2011,38821,Aaron William Regent F.C.A. FCPA B.A. C.A,3,Poor Job Performance
+394,BARRICK GOLD CORP,2055,2014,24625,Jamie Calvin Sokalsky C.A. C.P.A. CA Honours B,3,Poor Job Performance
+401,BAUSCH & LOMB HLDGS -REDH,2085,2001,9447,William M. Carpenter,3,Poor Job Performance
+404,BAXTER INTERNATIONAL INC,2086,2003,4696,Harry M. Jansen Kraemer Jr.,3,Poor Job Performance
+422,BELL INDUSTRIES INC,2138,2004,5710,Tracy A. Edwards,3,Poor Job Performance
+441,BEST BUY CO INC,2184,2011,29475,Brian J. Dunn,4,Legal Violation
+455,SAVIENT PHARMACEUTICALS INC,2222,2010,33029,Paul R. Hamelin R.Ph.,3,Poor Job Performance
+461,BIOGEN INC-OLD,2226,2002,12813,James C. Mullen,3,Poor Job Performance
+471,BLOCK H & R INC,2269,2007,17173,Mark A. Ernst,3,Poor Job Performance
+479,BLOUNT INTL INC,2271,2000,13412,John M. Panettiere,3,Poor Job Performance
+480,BLOUNT INTL INC,2271,2002,13415,Harold E. Layman,3,Poor Job Performance
+482,BLOUNT INTL INC,2271,2015,42489,Joshua L. Collins,3,Poor Job Performance
+485,BOB EVANS FARMS,2282,2004,2768,Stewart K. Owens,3,Poor Job Performance
+487,BOB EVANS FARMS,2282,2014,33594,Steven A. Davis,3,Poor Job Performance
+491,BOEING CO,2285,2003,381,Philip M. Condit,3,Poor Job Performance
+492,BOEING CO,2285,2004,14087,Harry C. Stonecipher,4,Legal Violation
+495,BOEING CO,2285,2018,45065,Dennis A. Muilenburg,3,Poor Job Performance
+509,RESOLUTE FOREST PRODUCTS INC,2337,2010,33448,David J. Paterson,3,Poor Job Performance
+516,BRADY CORP,2352,2013,16580,Frank M. Jaehnert,3,Poor Job Performance
+526,BRISTOL-MYERS SQUIBB CO,2403,2006,21065,Peter R. Dolan,4,Legal Violation
+567,UNISYS CORP,2504,2008,18641,Joseph W. McGrath,3,Poor Job Performance
+568,UNISYS CORP,2504,2014,37582,J. Edward Coleman,3,Poor Job Performance
+575,LIVERAMP HOLDINGS INC,2536,2010,35500,John A. Meyer,3,Poor Job Performance
+582,CDI CORP,2538,2001,21622,Allen M. Levantin,3,Poor Job Performance
+584,CDI CORP,2538,2013,45079,H. Paulett Eberhart,3,Poor Job Performance
+586,CDI CORP,2538,2016,50466,Scott Freidheim,3,Poor Job Performance
+593,CPI CORP,2555,2003,24404,J. David Pierson,3,Poor Job Performance
+595,CPI CORP,2555,2006,31291,Paul Rasmussen,3,Poor Job Performance
+596,CPI CORP,2555,2011,31292,Renato Cataldo Jr.,3,Poor Job Performance
+606,CSX CORP,2574,2016,23632,Michael Jon Ward,3,Poor Job Performance
+607,CSX CORP,2574,2017,59865,"E. Hunter Harrison, LL.D.",1,Death
+615,CABOT CORP,2593,2015,36682,Patrick M. Prevost,2,Illness
+620,CACI INTL INC -CL A,2596,2013,44709,Daniel D. Allen,3,Poor Job Performance
+624,CALAMP CORP,2615,2007,47791,Fred M. Sturm,3,Poor Job Performance
+626,CALAMP CORP,2615,2017,47790,Michael J. Burdiek,3,Poor Job Performance
+632,ADAPTIVE BROADBAND CORP.,2625,2000,15811,Frederick D. Lawrence,3,Poor Job Performance
+637,CAMPBELL SOUP CO,2663,2000,11564,Dale F. Morrison,3,Poor Job Performance
+638,CAMPBELL SOUP CO,2663,2011,22930,Douglas R. Conant,3,Poor Job Performance
+639,CAMPBELL SOUP CO,2663,2018,35888,Denise Mullen Morrison,3,Poor Job Performance
+641,CONSTELLATION BRANDS -CL A,2710,2006,13119,Richard Sands,3,Poor Job Performance
+647,CARDINAL HEALTH INC,2751,2018,35861,George S. Barrett,3,Poor Job Performance
+654,PROGRESS ENERGY INC,2783,2007,16565,Robert B. McGehee,1,Death
+655,PROGRESS ENERGY INC,2783,2011,21449,William Dean Johnson,3,Poor Job Performance
+659,CARPENTER TECHNOLOGY CORP,2787,2010,35315,Anne L. Stevens,3,Poor Job Performance
+675,CASTLE (A M) & CO,2811,2012,32789,Michael H. Goldberg,3,Poor Job Performance
+676,CASTLE (A M) & CO,2811,2014,46645,Scott J. Dolan,3,Poor Job Performance
+689,CAVCO INDUSTRIES INC,2820,2018,53153,Joseph H. Stegmayer,4,Legal Violation
+706,CLECO CORP,2859,2016,38862,Darren J. Olagues,4,Legal Violation
+714,CHAMPION ENTERPRISES INC,2916,2002,5786,Walter R. Young,3,Poor Job Performance
+716,CHAMPION ENTERPRISES INC,2916,2008,28608,William C. Griffiths,3,Poor Job Performance
+720,CHARMING SHOPPES INC,2938,2007,9960,Dorrit M. Bern,3,Poor Job Performance
+722,CHARMING SHOPPES INC,2938,2010,42495,James P. Fogarty,3,Poor Job Performance
+726,MAGELLAN HEALTH INC,2940,2002,22889,Daniel S. Messina,3,Poor Job Performance
+730,CANTEL MEDICAL CORP,2942,2008,38512,R. Scott Jones,3,Poor Job Performance
+732,CANTEL MEDICAL CORP,2942,2019,48111,Jorgen B. Hansen,3,Poor Job Performance
+738,CHECKPOINT SYSTEMS INC,2953,2012,34491,Robert P. Van Der Merwe,3,Poor Job Performance
+747,CHESAPEAKE CORP,2982,2005,14153,Thomas H. Johnson,3,Poor Job Performance
+748,CHESAPEAKE CORP,2982,2007,9481,Andrew J. Kohut,3,Poor Job Performance
+751,CHEVRON CORP,2991,2017,23862,John S. Watson,3,Poor Job Performance
+771,CINCINNATI BELL INC,3036,2002,14479,Richard G. Ellenberger,3,Poor Job Performance
+782,CIRCUIT CITY STORES INC,3054,2007,29490,Philip J. Schoonover,3,Poor Job Performance
+792,CLAIRES STORES INC,3087,2002,2916,Rowland Schaefer,2,Illness
+795,CLAIRES STORES INC,3087,2011,38872,Eugene S. Kahn,3,Poor Job Performance
+797,CLAIRES STORES INC,3087,2013,47511,James D. Fielding,3,Poor Job Performance
+798,CLAIRES STORES INC,3087,2015,46426,Beatrice Lafon,3,Poor Job Performance
+799,CLAIRES STORES INC,3087,2017,55179,Ronald Marshall,3,Poor Job Performance
+815,CLEVELAND-CLIFFS INC,3107,2013,31629,Joseph A. Carrabba,3,Poor Job Performance
+816,CLEVELAND-CLIFFS INC,3107,2014,49278,Gary Bernard Halverson,3,Poor Job Performance
+819,CLOROX CO/DE,3121,2006,13531,Gerald E. Johnston,3,Poor Job Performance
+833,COCA-COLA CO,3144,2016,32193,Muhtar Kent,3,Poor Job Performance
+857,COMDISCO HOLDING CO INC,3230,2000,5281,Nicholas K. Pontikes,3,Poor Job Performance
+858,COMDISCO HOLDING CO INC,3230,2002,24641,Norman P. Blake Jr.,3,Poor Job Performance
+868,CITIGROUP INC,3243,2007,24992,Charles Prince III,3,Poor Job Performance
+869,CITIGROUP INC,3243,2012,34038,Vikram Shankar Pandit,3,Poor Job Performance
+872,COMMERCIAL METALS,3246,2011,24717,Murray R. McClean,3,Poor Job Performance
+878,COMMONWLTH TELE ENTER,3265,2005,26260,Michael J. Mahoney,3,Poor Job Performance
+892,CA INC,3310,2003,608,Sanjay Kumar,4,Legal Violation
+901,DXC TECHNOLOGY COMPANY,3336,2017,46162,John Michael Lawrie,3,Poor Job Performance
+902,COMPUTER TASK GROUP INC,3342,2000,14381,Gale S. Fitzgerald,3,Poor Job Performance
+904,COMPUTER TASK GROUP INC,3342,2014,14383,James R. Boldt,1,Death
+905,COMPUTER TASK GROUP INC,3342,2016,52443,Clifford B. Bleustein M.D. MBA,3,Poor Job Performance
+912,CONAGRA BRANDS INC,3362,2014,31430,Gary M. Rodkin,3,Poor Job Performance
+929,BIGLARI HOLDINGS INC,3424,2003,13505,Alan B. Gilman,3,Poor Job Performance
+930,BIGLARI HOLDINGS INC,3424,2007,26550,Peter M. Dunn,3,Poor Job Performance
+931,BIGLARI HOLDINGS INC,3424,2008,13505,Alan B. Gilman,3,Poor Job Performance
+935,CMS ENERGY CORP,3439,2001,2962,William T. McCormick Jr.,4,Legal Violation
+954,COOPER TIRE & RUBBER CO,3502,2016,34520,Roy V. Armes,3,Poor Job Performance
+977,CRACKER BARREL OLD CTRY STOR,3570,2011,11593,Michael A. Woodhouse,3,Poor Job Performance
+994,CUBIC CORP,3639,2012,26044,Walter J. Zable,1,Death
+1008,DST SYSTEMS INC,3707,2012,17178,Thomas A. McDonnell,3,Poor Job Performance
+1015,DANA INC,3734,2003,712,Joseph M. Magliochetti,1,Death
+1016,DANA INC,3734,2007,28652,Michael J. Burns,3,Poor Job Performance
+1017,DANA INC,3734,2008,37841,Gary L. Convis,4,Legal Violation
+1029,DATASCOPE CORP,3786,2008,3000,Lawrence Saper,4,Legal Violation
+1033,TARGET CORP,3813,2007,719,Robert J. Ulrich,3,Poor Job Performance
+1034,TARGET CORP,3813,2013,4746,Gregg W. Steinhafel,3,Poor Job Performance
+1038,DPL INC,3814,2003,8870,Stephen F. Koziar Jr.,4,Legal Violation
+1047,DELTA AIR LINES INC,3851,2003,15586,Leo F. Mullin,3,Poor Job Performance
+1061,ADTALEM GLOBAL EDUCATION INC,3905,2016,26490,Daniel M. Hamburger,4,Legal Violation
+1075,DIEBOLD NIXDORF INC,3946,2005,18458,Walden W. O'Dell,4,Legal Violation
+1076,DIEBOLD NIXDORF INC,3946,2012,30390,Thomas W. Swidarski,3,Poor Job Performance
+1077,DIEBOLD NIXDORF INC,3946,2017,48362,Andreas Walter Mattes,3,Poor Job Performance
+1080,VERITAS DGC INC,3949,2000,20323,Richard C. White,3,Poor Job Performance
+1081,VERITAS DGC INC,3949,2004,19252,David B. Robson,2,Illness
+1091,DISNEY (WALT) CO,3980,2005,758,Michael D. Eisner,3,Poor Job Performance
+1094,DOLLAR GENERAL CORP,4016,2002,3046,Cal Turner Jr.,3,Poor Job Performance
+1103,DONALDSON CO INC,4036,2015,15615,William M. Cook,3,Poor Job Performance
+1107,DONNELLEY (R R) & SONS CO,4040,2003,13789,William L. Davis,3,Poor Job Performance
+1118,DOWDUPONT INC,4060,2002,8893,Michael D. Parker,3,Poor Job Performance
+1122,DOW JONES & CO INC,4062,2005,787,Peter R. Kann,3,Poor Job Performance
+1127,DOWNEY FINANCIAL CORP,4065,2003,16393,Daniel D. Rosenthal,3,Poor Job Performance
+1128,DOWNEY FINANCIAL CORP,4065,2004,28498,Marangal I. Domingo,3,Poor Job Performance
+1129,DOWNEY FINANCIAL CORP,4065,2007,16393,Daniel D. Rosenthal,3,Poor Job Performance
+1135,ASCENA RETAIL GROUP INC,4072,2015,43052,Michael W. Rayden,3,Poor Job Performance
+1136,ASCENA RETAIL GROUP INC,4072,2018,8903,David R. Jaffe,3,Poor Job Performance
+1144,DU PONT (E I) DE NEMOURS,4087,2015,32552,Ellen J. Kullman,3,Poor Job Performance
+1148,DUKE ENERGY CORP,4093,2003,805,Richard B. Priory,3,Poor Job Performance
+1158,DUN & BRADSTREET CORP,4094,2018,48708,Robert P. Carrigan,3,Poor Job Performance
+1209,EL PASO ELECTRIC CO,4241,2007,34613,"Ershel C. Redd, Jr.",3,Poor Job Performance
+1211,EL PASO ELECTRIC CO,4241,2011,37387,David Wayne Stevens,3,Poor Job Performance
+1214,EL PASO CORP,4242,2002,3092,William A. Wise,3,Poor Job Performance
+1219,ELKCORP,4251,2006,23019,Thomas D. Karol,3,Poor Job Performance
+1220,ELECTRO SCIENTIFIC INDS INC,4274,2001,15419,Donald R. VanLuvanee,2,Illness
+1223,ELECTRO SCIENTIFIC INDS INC,4274,2013,28084,Nicholas Konidaris,3,Poor Job Performance
+1224,ELECTRO SCIENTIFIC INDS INC,4274,2015,49540,Edward C. Grady,3,Poor Job Performance
+1227,EMS TECHNOLOGIES INC,4279,2009,36206,Paul B. Domorski,3,Poor Job Performance
+1237,WEATHERFORD INTL PLC,4367,2016,15226,Bernard J. Duroc-Danner Ph.D.,3,Poor Job Performance
+1257,EQUIFAX INC,4423,2017,30608,Richard F. Smith,3,Poor Job Performance
+1276,EXAR CORP,4476,2015,46165,Louis DiNardo BA,3,Poor Job Performance
+1277,EXPEDITORS INTL WASH INC,4494,2013,9975,Peter J. Rose,3,Poor Job Performance
+1301,FEDERAL-MOGUL HOLDINGS CORP,4600,2000,12456,Richard A. Snell,3,Poor Job Performance
+1305,FEDERAL-MOGUL HOLDINGS CORP,4600,2014,49285,Kevin P. Freeland,3,Poor Job Performance
+1309,FANNIE MAE,4601,2004,892,Franklin D. Raines,3,Poor Job Performance
+1310,FANNIE MAE,4601,2008,21930,Daniel H. Mudd,4,Legal Violation
+1314,FEDERAL REALTY INVESTMENT TR,4605,2003,10862,Steven Jay Guttman,3,Poor Job Performance
+1316,FEDERAL SIGNAL CORP,4608,2003,3124,Joseph J. Ross,4,Legal Violation
+1317,FEDERAL SIGNAL CORP,4608,2007,27033,Robert D. Welding,3,Poor Job Performance
+1319,FEDERAL SIGNAL CORP,4608,2010,38386,William H. Osborne,3,Poor Job Performance
+1327,FERRO CORP,4622,2005,3131,Hector R. Ortino,1,Death
+1328,FERRO CORP,4622,2012,31719,James F. Kirsch,3,Poor Job Performance
+1341,REGIONS FINANCIAL CORP,4674,2009,32370,C. Dowd Ritter,3,Poor Job Performance
+1356,M & T BANK CORP,4699,2004,10867,Robert G. Wilmers,1,Death
+1372,FIRST HORIZON NATIONAL CORP,4737,2006,3167,J. Kenneth Glass,3,Poor Job Performance
+1373,FIRST HORIZON NATIONAL CORP,4737,2008,28562,Gerald L. Baker,3,Poor Job Performance
+1376,WACHOVIA CORP,4739,2007,16118,G. Kennedy Thompson,3,Poor Job Performance
+1389,FLEMING COMPANIES INC,4769,2001,16640,Mark S. Hansen,3,Poor Job Performance
+1410,FORD MOTOR CO,4839,2001,12282,Jacques A. Nasser,3,Poor Job Performance
+1414,FORD MOTOR CO,4839,2016,30827,Mark Fields,3,Poor Job Performance
+1417,FOREST LABORATORIES -CL A,4843,2013,3190,Howard Solomon,3,Poor Job Performance
+1419,FOREST OIL CORP -OLD,4844,2012,23943,H. Craig Clark,3,Poor Job Performance
+1430,FRANKLIN RESOURCES INC,4885,2003,3195,Charles B. Johnson,4,Legal Violation
+1440,FULLER (H. B.) CO,4926,2010,30246,Michele Volpi,3,Poor Job Performance
+1444,G&K SERVICES INC -CL A,4936,2004,5993,Thomas Moberly,2,Illness
+1448,GATX CORP,4941,2004,5325,Ronald H. Zech,3,Poor Job Performance
+1456,TEGNA INC,4988,2011,25073,Craig A. Dubow,2,Illness
+1460,GAP INC,4990,2002,968,Millard S. Drexler,3,Poor Job Performance
+1461,GAP INC,4990,2006,25249,Paul S. Pressler,3,Poor Job Performance
+1469,AEROJET ROCKETDYNE HOLDINGS,5018,2015,43325,Scott J. Seymour,3,Poor Job Performance
+1482,GENERAL ELECTRIC CO,5047,2017,21042,Jeffrey R. Immelt,3,Poor Job Performance
+1483,GENERAL ELECTRIC CO,5047,2018,58716,John L. Flannery,3,Poor Job Performance
+1492,GENERAL MOTORS CO,5073,2009,997,G. Richard Wagoner Jr.,3,Poor Job Performance
+1497,ELECTRONIC DATA SYSTEMS CORP,5074,2002,19291,Richard H. Brown,3,Poor Job Performance
+1504,SPX CORP,5087,2004,17354,John B. Blystone,3,Poor Job Performance
+1521,GERBER SCIENTIFIC INC,5142,2001,13221,Michael J. Cheshire,3,Poor Job Performance
+1532,GILLETTE CO,5169,2000,4788,Michael C. Hawley,3,Poor Job Performance
+1568,GREAT ATLANTIC & PAC TEA CO,5301,2008,27915,Eric A. Claus,3,Poor Job Performance
+1570,GREAT ATLANTIC & PAC TEA CO,5301,2010,44392,Samuel Martin,3,Poor Job Performance
+1573,GREAT LAKES CHEMICAL CORP,5306,2003,16586,Mark P. Bulriss,3,Poor Job Performance
+1581,GREIF INC -CL A,5338,2015,36073,David B. Fischer,3,Poor Job Performance
+1585,MONEYGRAM INTERNATIONAL INC,5342,2008,19114,Philip W. Milne,3,Poor Job Performance
+1586,MONEYGRAM INTERNATIONAL INC,5342,2009,28963,Anthony P. Ryan,3,Poor Job Performance
+1619,HARSCO CORP,5496,2011,12444,Salvatore D. Fazzolari CPA CPA CISA,3,Poor Job Performance
+1626,HARTMARX CORP,5505,2001,1112,Elbert O. Hand,3,Poor Job Performance
+1632,HAWAIIAN ELECTRIC INDS,5526,2005,3269,Robert F. Clarke,3,Poor Job Performance
+1634,HAWKINS INC,5530,2010,44088,John R. Hawkins,1,Death
+1646,KRAFT HEINZ CO,5568,2018,48399,Bernardo Vieira Hees,3,Poor Job Performance
+1647,HELEN OF TROY LTD,5572,2013,38097,Gerald J. Rubin,3,Poor Job Performance
+1655,HERCULES INC,5589,2000,1136,Vincent J. Corbo,3,Poor Job Performance
+1660,HERSHEY CO,5597,2007,23541,Richard H. Lenny,3,Poor Job Performance
+1665,HP INC,5606,2004,17914,Carleton S. Fiorina,3,Poor Job Performance
+1667,HP INC,5606,2010,30132,Mark Vincent Hurd,4,Legal Violation
+1668,HP INC,5606,2011,45165,Leo Apotheker,3,Poor Job Performance
+1672,HIBERNIA CORP -CL A,5619,2000,6056,Stephen A. Hansel,3,Poor Job Performance
+1675,HILL-ROM HOLDINGS INC,5639,2005,20963,Frederick W. Rockwood,3,Poor Job Performance
+1685,PINNACLE ENTERTAINMENT INC,5671,2001,20147,Paul R. Alanis,4,Legal Violation
+1686,PINNACLE ENTERTAINMENT INC,5671,2009,26027,Daniel R. Lee CFA,4,Legal Violation
+1690,HOME DEPOT INC,5680,2006,21712,Robert L. Nardelli,3,Poor Job Performance
+1701,HOOPER HOLMES INC,5697,2007,33188,James Calver,3,Poor Job Performance
+1702,HOOPER HOLMES INC,5697,2010,37529,Roy H. Bubbs,3,Poor Job Performance
+1703,HOOPER HOLMES INC,5697,2012,43705,Ransom J. Parker,3,Poor Job Performance
+1710,STARWOOD HOTELS&RESORTS WRLD,5723,2006,29568,Steven J. Heyer,3,Poor Job Performance
+1711,STARWOOD HOTELS&RESORTS WRLD,5723,2015,34104,Frits D. Van Paasschen,3,Poor Job Performance
+1717,HSBC FINANCE CORP,5735,2010,38973,Niall Scott Kilgour Brooker,3,Poor Job Performance
+1721,CENTERPOINT ENERGY INC,5742,2002,1176,R. Steve Letbetter,3,Poor Job Performance
+1725,URSTADT BIDDLE PROPERTIES,5763,2013,36479,Charles J. Urstadt,3,Poor Job Performance
+1741,HUTCHINSON TECHNOLOGY INC,5791,2012,15481,Wayne M. Fortun,3,Poor Job Performance
+1765,ILLINOIS TOOL WORKS,5878,2012,14161,David B. Speer,2,Illness
+1787,INNOVEX INC,5973,2008,28249,Terry M. Dauenhauer,3,Poor Job Performance
+1791,AEGION CORP,5978,2014,37325,J. Joseph Burgess,3,Poor Job Performance
+1799,INTEGRATED DEVICE TECH INC,6003,2013,38174,Theodore L. Tewksbury III,3,Poor Job Performance
+1804,INTEL CORP,6008,2017,47026,Brian M. Krzanich,4,Legal Violation
+1805,INTEL CORP,6008,2019,54622,Robert H. Swan,3,Poor Job Performance
+1810,FURNITURE BRANDS INTL INC,6025,2006,16006,William G. Holliman,3,Poor Job Performance
+1837,NAVISTAR INTERNATIONAL CORP,6081,2012,11849,Daniel C. Ustian,4,Legal Violation
+1857,INTL RECTIFIER CORP,6109,2008,6126,Alexander Lidow Ph.D.,4,Legal Violation
+1864,IT GROUP INC,6121,2000,3343,Anthony J. DeLuca,3,Poor Job Performance
+1869,ENRON CORP,6127,2000,1245,Kenneth Lee Lay,4,Legal Violation
+1871,INTERPUBLIC GROUP OF COS,6136,2002,9591,John J. Dooner Jr.,3,Poor Job Performance
+1875,INTERSTATE BAKERIES CORP,6140,2003,26238,James R. Elsesser,3,Poor Job Performance
+1882,INVACARE CORP,6158,2010,6155,A. Malachi Mixon III,2,Illness
+1883,INVACARE CORP,6158,2014,6157,Gerald B. Blouch,3,Poor Job Performance
+1896,IPALCO ENTERPRISES INC,6178,2018,51573,Craig L. Jackson,3,Poor Job Performance
+1904,JACOBS ENGINEERING GROUP INC,6216,2015,23291,Craig L. Martin,2,Illness
+1915,SMURFIT-STONE CONTAINER CORP,6242,2002,25271,Ray M. Curran,3,Poor Job Performance
+1918,JOHNSON & JOHNSON,6266,2011,18522,William C. Weldon,3,Poor Job Performance
+1923,JOHNSON CONTROLS INTL PLC,6268,2017,38449,Alex A. Molinaroli,4,Legal Violation
+1942,SEARS HOLDINGS CORP,6307,2001,21503,Charles C. Conaway,4,Legal Violation
+1947,SEARS HOLDINGS CORP,6307,2007,30369,Aylwin B. Lewis,3,Poor Job Performance
+1948,SEARS HOLDINGS CORP,6307,2010,30371,William Bruce Johnson,3,Poor Job Performance
+1950,SEARS HOLDINGS CORP,6307,2017,47031,Edward Scott Lampert,3,Poor Job Performance
+1958,GREAT PLAINS ENERGY INC,6334,2000,3361,A. Drue Jennings,3,Poor Job Performance
+1967,EVERGY INC,6338,2002,12942,David C. Wittig,4,Legal Violation
+1972,CKE RESTAURANTS INC,6346,2011,19887,Andrew F. Puzder,4,Legal Violation
+1983,KEANE INC,6362,2005,12566,Brian T. Keane,4,Legal Violation
+1989,KELLOGG CO,6375,2017,28564,John A. Bryant,3,Poor Job Performance
+1995,KELLY SERVICES INC -CL A,6379,2016,14688,Carl Thurman Camden,3,Poor Job Performance
+2000,KENNAMETAL INC,6386,2016,51576,Donald A. Nolan,3,Poor Job Performance
+2008,KIMBERLY-CLARK CORP,6435,2018,4834,Thomas J. Falk,3,Poor Job Performance
+2025,LSB INDUSTRIES INC,6528,2015,6218,Barry H. Golsen,3,Poor Job Performance
+2032,LA-Z-BOY INC,6543,2002,13101,Gerald L. Kiser,3,Poor Job Performance
+2037,LAIDLAW INTERNATIONAL INC,6557,2000,9618,James R. Bullock,3,Poor Job Performance
+2038,LAIDLAW INTERNATIONAL INC,6557,2006,28272,Kevin E. Benson,3,Poor Job Performance
+2041,LAM RESEARCH CORP,6565,2018,31744,Martin B. Anstice,4,Legal Violation
+2046,SNYDERS-LANCE INC,6574,2004,3399,Paul A. Stroup III,3,Poor Job Performance
+2048,SNYDERS-LANCE INC,6574,2016,45201,"Carl E. Lee, Jr.",3,Poor Job Performance
+2063,LEGG MASON INC,6653,2007,6227,Raymond Adams Mason,3,Poor Job Performance
+2064,LEGG MASON INC,6653,2012,27944,Mark Raymond Fetting,3,Poor Job Performance
+2078,LILLY (ELI) & CO,6730,2016,23418,John C. Lechleiter,2,Illness
+2133,LOWE'S COMPANIES INC,6829,2017,27559,Robert Alan Niblock,3,Poor Job Performance
+2139,LUBYS INC,6831,2001,15838,Barry J. C. Parker,3,Poor Job Performance
+2145,LYDALL INC,6845,2002,14967,Christopher R. Skomorowski,3,Poor Job Performance
+2158,MTS SYSTEMS CORP,6900,2011,28266,Laura B. Hamilton,4,Legal Violation
+2180,MARSH & MCLENNAN COS,7065,2004,12188,Jeffrey W. Greenberg,4,Legal Violation
+2181,MARSH & MCLENNAN COS,7065,2007,28814,Michael Griffin Cherkasky,3,Poor Job Performance
+2185,MARSHALL & ILSLEY CORP,7067,2006,3477,Dennis J. Kuester,3,Poor Job Performance
+2197,MATERIAL SCIENCES CORP,7107,2002,6265,Gerald G. Nadig,3,Poor Job Performance
+2198,MATERIAL SCIENCES CORP,7107,2003,27899,Michael J. Callahan,3,Poor Job Performance
+2204,MATTEL INC,7116,2014,27482,Bryan G. Stockton,3,Poor Job Performance
+2206,MATTEL INC,7116,2017,59947,Mary Margaret Hastings Georgiadis,3,Poor Job Performance
+2211,MAY DEPARTMENT STORES CO,7127,2004,12752,Eugene S. Kahn,3,Poor Job Performance
+2213,MAYTAG CORP,7139,2000,12409,Lloyd D. Ward,3,Poor Job Performance
+2230,MCDONALD'S CORP,7154,2002,1446,Jack M. Greenberg,3,Poor Job Performance
+2231,MCDONALD'S CORP,7154,2003,1445,James R. Cantalupo,1,Death
+2232,MCDONALD'S CORP,7154,2004,25368,Charles H. Bell,2,Illness
+2234,MCDONALD'S CORP,7154,2014,43736,Donald Thompson,3,Poor Job Performance
+2235,MCDONALD'S CORP,7154,2017,50557,Stephen J. Easterbrook,4,Legal Violation
+2244,MCKESSON CORP,7171,2018,13072,John H. Hammergren,3,Poor Job Performance
+2255,MEDTRONIC PLC,7228,2006,1472,Arthur D. Collins Jr.,3,Poor Job Performance
+2256,MEDTRONIC PLC,7228,2010,26030,William A. Hawkins III,3,Poor Job Performance
+2276,MERCK & CO,7257,2004,4856,Raymond V. Gilmartin,3,Poor Job Performance
+2284,MERRILL LYNCH & CO INC,7267,2002,1502,David H. Komansky,4,Legal Violation
+2285,MERRILL LYNCH & CO INC,7267,2007,13867,Ernest Stanley O'Neal,3,Poor Job Performance
+2290,METHODE ELECTRONICS INC,7291,2000,11618,William J. McGinley,1,Death
+2296,MICHAELS COS INC,7316,2012,40617,John B. Menzer,2,Illness
+2297,MICHAELS COS INC,7316,2017,49291,Carl S. Rubin,3,Poor Job Performance
+2302,MICRON TECHNOLOGY INC,7343,2011,3532,Steven R. Appleton,1,Death
+2347,MOLEX INC,7506,2004,4865,J. Joseph King,3,Poor Job Performance
+2366,RUBY TUESDAY INC,7566,2012,3565,Samuel E. Beall III,3,Poor Job Performance
+2367,RUBY TUESDAY INC,7566,2016,47827,James J. Buettgen,3,Poor Job Performance
+2376,MOTOROLA SOLUTIONS INC,7585,2003,1548,Christopher B. Galvin,3,Poor Job Performance
+2385,MURPHY OIL CORP,7620,2011,34266,David M. Wood,3,Poor Job Performance
+2398,BANK OF AMERICA CORP,7647,2009,1555,Kenneth D. Lewis,4,Legal Violation
+2400,NCR CORP,7648,2002,11827,Lars Nyberg,3,Poor Job Performance
+2403,NCR CORP,7648,2017,30276,William R. Nuti,2,Illness
+2407,NUI CORP,7668,2003,20096,John Kean Jr.,4,Legal Violation
+2413,NANOMETRICS INC,7682,2007,44405,John D. Heaton,3,Poor Job Performance
+2426,NATIONAL CITY CORP,7711,2006,4874,David A. Daberko,3,Poor Job Performance
+2440,AVATEX CORP,7745,2001,1574,Melvyn J. Estrin,3,Poor Job Performance
+2441,AVATEX CORP,7745,2001,1573,Abbey J. Butler,3,Poor Job Performance
+2442,TENET HEALTHCARE CORP,7750,2002,1579,Jeffrey C. Barbakow,3,Poor Job Performance
+2445,TENET HEALTHCARE CORP,7750,2017,10390,Trevor Fetter,3,Poor Job Performance
+2453,NATIONAL SEMICONDUCTOR CORP,7772,2008,10397,Brian L. Halla,3,Poor Job Performance
+2457,NATIONAL SERVICE INDS INC,7773,2002,13572,Brock A. Hattox,2,Illness
+2463,NATURES SUNSHINE PRODS INC,7799,2003,14960,Daniel P. Howells,3,Poor Job Performance
+2464,NATURES SUNSHINE PRODS INC,7799,2009,6341,Douglas Faggioli,4,Legal Violation
+2465,NATURES SUNSHINE PRODS INC,7799,2011,44095,Michael D. Dean,3,Poor Job Performance
+2466,NATURES SUNSHINE PRODS INC,7799,2018,45906,Gregory L. Probert,3,Poor Job Performance
+2470,NV ENERGY INC,7824,2000,17066,Michael R. Niggli,3,Poor Job Performance
+2487,NEW YORK TIMES CO -CL A,7866,2011,16067,Janet L. Robinson,3,Poor Job Performance
+2491,NEWELL BRANDS INC,7875,2000,16583,John J. McDonough,3,Poor Job Performance
+2492,NEWELL BRANDS INC,7875,2005,23639,Joseph Galli Jr.,3,Poor Job Performance
+2497,NEWMONT MINING CORP,7881,2006,1607,Wayne W. Murdy B.Sc. C.P.A. CPA,2,Illness
+2498,NEWMONT MINING CORP,7881,2012,30283,Richard T. OBrien,3,Poor Job Performance
+2506,NICOR INC,7904,2004,1617,Thomas L. Fisher,3,Poor Job Performance
+2509,NIKE INC -CL B,7906,2005,29649,William D. Perez,3,Poor Job Performance
+2519,NORDSTROM INC,7922,2000,1630,John J. Whitacre,3,Poor Job Performance
+2520,NORDSTROM INC,7922,2017,16522,Blake W. Nordstrom,1,Death
+2544,NORTEL NETWORKS CORP,7980,2001,5140,John Andrew Roth,3,Poor Job Performance
+2545,NORTEL NETWORKS CORP,7980,2003,21494,Frank A. Dunn,3,Poor Job Performance
+2546,NORTEL NETWORKS CORP,7980,2005,29429,William A. Owens,3,Poor Job Performance
+2547,NORTEL NETWORKS CORP,7980,2009,31798,Mike Svetozar Zafirovski,3,Poor Job Performance
+2564,NORTHWESTERN CORP,8001,2002,18269,Merle D. Lewis,4,Legal Violation
+2566,NORTHWESTERN CORP,8001,2008,19079,Michael J. Hanson,3,Poor Job Performance
+2572,WELLS FARGO & CO,8007,2016,25056,John G. Stumpf,4,Legal Violation
+2573,WELLS FARGO & CO,8007,2018,45253,"Timothy J. Sloan, M.B.A.",3,Poor Job Performance
+2589,OAKWOOD HOMES CORP,8067,2000,13593,William G. Edwards,3,Poor Job Performance
+2590,OAKWOOD HOMES CORP,8067,2001,22895,Duane D. Daggett,3,Poor Job Performance
+2591,OCCIDENTAL PETROLEUM CORP,8068,2010,1674,Ray R. Irani,3,Poor Job Performance
+2608,FIRSTENERGY CORP,8099,2003,1686,H. Peter Burg,2,Illness
+2612,OGE ENERGY CORP,8113,2007,3667,Steven E. Moore,1,Death
+2621,OMNICARE INC,8133,2010,6404,Joel F. Gemunder,3,Poor Job Performance
+2623,OMNICARE INC,8133,2013,42263,John L. Workman,3,Poor Job Performance
+2626,ONEOK INC,8151,2000,1692,Larry W. Brummett,1,Death
+2640,OVERSEAS SHIPHOLDING GROUP,8210,2012,29417,Morten Arntzen,3,Poor Job Performance
+2647,OWENS & MINOR INC,8213,2018,52544,Paul Cody Phipps,3,Poor Job Performance
+2648,OWENS CORNING,8214,2001,1705,Glen H. Hiner,3,Poor Job Performance
+2652,OWENS-ILLINOIS INC,8215,2006,29894,Steven R. McCracken,2,Illness
+2657,PHH CORP,8240,2009,39084,Terence W. Edwards,3,Poor Job Performance
+2658,PHH CORP,8240,2011,42517,Jerome John Selitto,3,Poor Job Performance
+2659,PHH CORP,8240,2016,45909,Glen A. Messina,3,Poor Job Performance
+2675,PG&E CORP,8264,2010,21738,Peter A. Darbee,3,Poor Job Performance
+2678,PG&E CORP,8264,2019,52548,Geisha J. Williams,3,Poor Job Performance
+2681,SEMPRA ENERGY,8272,2005,16245,Stephen L. Baum,3,Poor Job Performance
+2703,PAR PHARMACEUTCL HLDGS -REDH,8333,2006,17425,Scott L. Tarriff,3,Poor Job Performance
+2717,PATRICK INDUSTRIES INC,8386,2008,53552,Paul E. Hassler,3,Poor Job Performance
+2728,PENN VIRGINIA CORP,8440,2015,29001,H. Baird Whitehead,3,Poor Job Performance
+2732,PENNEY (J C) CO,8446,2000,1764,James E. Oesterreicher,3,Poor Job Performance
+2734,PENNEY (J C) CO,8446,2011,29215,Myron E. Ullman III,3,Poor Job Performance
+2735,PENNEY (J C) CO,8446,2012,45278,Ronald B. Johnson,3,Poor Job Performance
+2749,PEOPLES ENERGY CORP,8470,2006,9087,Thomas M. Patrick,4,Legal Violation
+2751,PEP BOYS-MANNY MOE & JACK,8475,2005,27752,Lawrence N. Stevenson,3,Poor Job Performance
+2754,PEP BOYS-MANNY MOE & JACK,8475,2014,35273,Michael R. Odell,3,Poor Job Performance
+2763,PDC ENERGY INC,8512,2010,36367,Richard W. McCullough,4,Legal Violation
+2767,PFIZER INC,8530,2005,1794,Henry A. McKinnell,3,Poor Job Performance
+2769,PFIZER INC,8530,2010,25042,Jeffrey B. Kindler,3,Poor Job Performance
+2791,PVH CORP,8551,2005,3712,Mark Weber,3,Poor Job Performance
+2800,PIER 1 IMPORTS INC/DE,8579,2016,33390,Alexander W. Smith,3,Poor Job Performance
+2801,PIER 1 IMPORTS INC/DE,8579,2018,59963,Alasdair B. James,3,Poor Job Performance
+2810,AGILYSYS INC,8599,2008,6481,Arthur Rhein,3,Poor Job Performance
+2811,AGILYSYS INC,8599,2010,27948,Martin F. Ellis,3,Poor Job Performance
+2826,PLAINS RESOURCES INC,8627,2002,24504,James C. Flores,3,Poor Job Performance
+2839,POPE & TALBOT INC,8675,2006,6509,Michael Flannery,3,Poor Job Performance
+2853,POWELL INDUSTRIES INC,8699,2015,46460,Michael Allan Lucas,3,Poor Job Performance
+2868,PROCTER & GAMBLE CO,8762,2000,1850,Durk I. Jager,3,Poor Job Performance
+2895,PUGET ENERGY INC,8818,2001,3759,William S. Weaver,3,Poor Job Performance
+2901,PULTEGROUP INC,8823,2016,25169,Richard J. Dugas Jr.,3,Poor Job Performance
+2921,QUANTUM CORP,8867,2018,33443,Jonathan W. Gacek,3,Poor Job Performance
+2939,RAYTHEON CO,8972,2002,16454,Daniel P. Burnham,3,Poor Job Performance
+2947,REGIS CORP/MN,9023,2012,10413,Paul D. Finkelstein,3,Poor Job Performance
+2952,HSBC USA INC,9061,2014,44426,Irene Mitchell Dorner,3,Poor Job Performance
+2953,HSBC USA INC,9061,2015,50102,Patrick J. Burke,3,Poor Job Performance
+2961,REYNOLDS & REYNOLDS -CL A,9112,2004,17916,Lloyd G. Waterhouse,4,Legal Violation
+2967,RIGGS NATIONAL CORP,9142,2000,6555,Joe L. Allbritton,4,Legal Violation
+2968,RIGGS NATIONAL CORP,9142,2004,24297,Robert L. Allbritton,4,Legal Violation
+2971,RITE AID CORP,9155,2002,20250,Robert G. Miller,3,Poor Job Performance
+2973,RITE AID CORP,9155,2018,22492,John T. Standley,3,Poor Job Performance
+2986,ROCKWELL AUTOMATION,9203,2016,17907,Keith D. Nosbusch,3,Poor Job Performance
+2996,SAFETY-KLEEN CORP,9224,2000,13852,Kenneth W. Winger,3,Poor Job Performance
+3004,ROUSE PROPERTIES INC,9256,2003,26919,Anthony W. Deering,1,Death
+3016,KID BRANDS INC,9289,2002,6565,Russell Berrie,1,Death
+3028,RYLAND GROUP INC,9302,2008,6576,R. Chad Dreier,3,Poor Job Performance
+3037,VALEANT PHARMACEUTICALS -OLD,9340,2001,13420,Milan Panic,3,Poor Job Performance
+3040,VALEANT PHARMACEUTICALS -OLD,9340,2009,37362,J. Michael Pearson,4,Legal Violation
+3042,SAFECO CORP,9351,2000,1941,Roger H. Eigsti,3,Poor Job Performance
+3049,SAFEGUARD SCIENTIFICS INC,9355,2017,33187,Stephen T. Zarrilli,3,Poor Job Performance
+3056,ST JUDE MEDICAL INC,9372,2003,10038,Terry L. Shepherd,2,Illness
+3066,HILLSHIRE BRANDS CO,9411,2005,1977,C. Steven McMillan,3,Poor Job Performance
+3067,HILLSHIRE BRANDS CO,9411,2010,29898,Brenda C. Barnes,2,Illness
+3072,SBARRO INC,9441,2009,39148,Peter J. Beaudrault,3,Poor Job Performance
+3075,SCANA CORP,9445,2017,14472,Kevin B. Marsh,3,Poor Job Performance
+3079,SCHERING-PLOUGH,9459,2002,1978,Richard Jay Kogan,4,Legal Violation
+3081,SCHLUMBERGER LTD,9465,2002,1983,D. Euan Baird,3,Poor Job Performance
+3085,SCHULMAN (A.) INC,9472,2007,3839,Terry L. Haines,4,Legal Violation
+3087,SCHULMAN (A.) INC,9472,2016,36509,Bernard Rzepka,3,Poor Job Performance
+3108,SEITEL INC,9589,2002,6603,Paul A. Frame,4,Legal Violation
+3113,SEMTECH CORP,9599,2005,27751,Jason L. Carlson,3,Poor Job Performance
+3125,SERVICEMASTER CO,9613,2005,23622,Jonathan P. Ward,3,Poor Job Performance
+3127,SERVICEMASTER CO,9613,2012,45313,Harry J. Mullany III,3,Poor Job Performance
+3128,SERVICEMASTER CO,9613,2013,48467,Robert J. Gillette,3,Poor Job Performance
+3148,SIGMA-ALDRICH CORP,9699,2010,23761,Jai P. Nagarkatti Ph.D.,1,Death
+3159,SKYLINE CORP,9761,2014,35677,Bruce G. Page,3,Poor Job Performance
+3173,SNAP-ON INC,9778,2000,2043,Robert A. Cornog,3,Poor Job Performance
+3174,SNAP-ON INC,9778,2004,21095,Dale F. Elliott,3,Poor Job Performance
+3179,KEYCORP,9783,2000,2048,Robert W. Gillespie,3,Poor Job Performance
+3184,SONOCO PRODUCTS CO,9815,2000,4950,Peter C. Browning,3,Poor Job Performance
+3187,SONOCO PRODUCTS CO,9815,2018,39169,Robert C. Tiede,3,Poor Job Performance
+3207,SOUTHWEST AIRLINES,9882,2004,3918,James F. Parker,3,Poor Job Performance
+3216,SOUTHWESTERN ENERGY CO,9904,2015,37167,Steven L. Mueller,3,Poor Job Performance
+3233,CALATLANTIC GROUP INC,10002,2007,10041,Stephen J. Scarborough,3,Poor Job Performance
+3234,CALATLANTIC GROUP INC,10002,2008,38332,Jeffrey V. Peterson,3,Poor Job Performance
+3252,ENESCO GROUP INC,10013,2003,24244,Daniel DalleMolle,1,Death
+3262,STATE STREET CORP,10035,2003,3937,David A. Spina,2,Illness
+3273,STEWART & STEVENSON SERVICES,10085,2003,19493,Michael L. Grimes,3,Poor Job Performance
+3279,STEWART INFORMATION SERVICES,10086,2011,22976,Stewart Morris Jr.,3,Poor Job Performance
+3286,PUBLIC STORAGE,10096,2019,27509,Ronald L. Havner Jr.,3,Poor Job Performance
+3299,STRYKER CORP,10115,2011,26675,Stephen P. MacMillan,4,Legal Violation
+3304,NAVIENT CORP,10121,2006,16567,Thomas J. Fitzpatrick,4,Legal Violation
+3321,SUNSHINE MINING & REFINING,10174,2000,6725,John S. Simko,3,Poor Job Performance
+3330,SUPERVALU INC,10190,2008,2115,Jeffrey Noddle,3,Poor Job Performance
+3331,SUPERVALU INC,10190,2011,42532,Craig R. Herkert,3,Poor Job Performance
+3333,SUPERVALU INC,10190,2015,47709,Sammy K. Duncan,3,Poor Job Performance
+3337,SUPERIOR INDUSTRIES INTL,10195,2018,50605,Donald J. Stebbins,3,Poor Job Performance
+3341,SILVERBOW RESOURCES INC,10221,2016,20287,Terry E. Swift,3,Poor Job Performance
+3344,SYMBOL TECHNOLOGIES,10232,2002,3985,Tomo Razmilovic,4,Legal Violation
+3365,TECO ENERGY INC,10277,2004,18452,Robert D. Fagan,3,Poor Job Performance
+3379,BOMBAY CO INC,10331,2002,16811,Carmie Mehrlander,3,Poor Job Performance
+3384,RS LEGACY CORP,10332,2005,18595,David J. Edmondson,4,Legal Violation
+3385,RS LEGACY CORP,10332,2010,32496,Julian C. Day,3,Poor Job Performance
+3386,RS LEGACY CORP,10332,2012,32497,James Frederick Gooch,3,Poor Job Performance
+3387,RS LEGACY CORP,10332,2013,48809,Joseph C. Magnacca,3,Poor Job Performance
+3389,TEAM INC,10353,2017,53424,Ted W. Owen,3,Poor Job Performance
+3393,PULSE ELECTRONICS CORP,10374,2014,45335,Ralph E. Faison,3,Poor Job Performance
+3394,TECUMSEH PRODUCTS CO,10386,2006,4000,Todd W. Herrick,3,Poor Job Performance
+3395,TECUMSEH PRODUCTS CO,10386,2009,35102,Edwin L. Buker,3,Poor Job Performance
+3396,TECUMSEH PRODUCTS CO,10386,2011,38366,James E. Wainright,3,Poor Job Performance
+3397,TECUMSEH PRODUCTS CO,10386,2014,43392,James J. Connor,3,Poor Job Performance
+3404,ALLEGHENY TECHNOLOGIES INC,10405,2000,18777,Thomas A. Corcoran,3,Poor Job Performance
+3411,TELEFLEX INC,10407,2010,23969,Jeffrey P. Black,3,Poor Job Performance
+3418,TELLABS INC,10420,2007,28633,Krish A. Prabhu Ph.D.,3,Poor Job Performance
+3419,TELLABS INC,10420,2012,37067,Robert W. Pullen,1,Death
+3436,ANDEAVOR,10466,2009,35638,Bruce A. Smith,3,Poor Job Performance
+3440,TEXACO INC,10482,2000,2167,Peter I. Bijur,4,Legal Violation
+3459,THOMAS & BETTS CORP,10540,2000,2184,Clyde R. Moore,3,Poor Job Performance
+3463,THOR INDUSTRIES INC,10549,2009,6784,Wade F. B. Thompson,1,Death
+3466,THORATEC CORP,10550,2014,37694,Gerhard F. Burbach,3,Poor Job Performance
+3476,SIX FLAGS ENTERTAINMENT CORP,10567,2005,17407,Kieran E. Burke,3,Poor Job Performance
+3477,SIX FLAGS ENTERTAINMENT CORP,10567,2009,31164,Mark S. Shapiro,3,Poor Job Performance
+3479,SIX FLAGS ENTERTAINMENT CORP,10567,2017,43402,John M. Duffey,4,Legal Violation
+3488,TOOTSIE ROLL INDUSTRIES INC,10609,2013,10986,Melvin J. Gordon,1,Death
+3492,TORCHMARK CORP,10614,2011,16098,Mark S. McAndrew,3,Poor Job Performance
+3509,TOYS R US INC,10639,2005,2212,Richard L. Markee,3,Poor Job Performance
+3510,TOYS R US INC,10639,2012,33735,Gerald L. Storch,3,Poor Job Performance
+3519,TRIBUNE MEDIA CO,10726,2016,49592,Peter Liguori,3,Poor Job Performance
+3530,TYCO INTERNATIONAL PLC,10787,2002,2230,L. Dennis Kozlowski,4,Legal Violation
+3537,TYSON FOODS INC -CL A,10793,2008,23289,Richard L. Bond,3,Poor Job Performance
+3539,TYSON FOODS INC -CL A,10793,2016,36559,Donnie Smith,3,Poor Job Performance
+3540,TYSON FOODS INC -CL A,10793,2018,53892,Thomas P. Hayes,3,Poor Job Performance
+3543,UNITED CONTINENTAL HLDGS INC,10795,2001,14284,James E. Goodwin,3,Poor Job Performance
+3546,UNITED CONTINENTAL HLDGS INC,10795,2015,43794,Jeffery A. Smisek,3,Poor Job Performance
+3559,UNIFI INC,10839,2007,17830,Brian R. Parke,3,Poor Job Performance
+3560,UNIFI INC,10839,2016,35557,William L. Jasper,4,Legal Violation
+3561,UNIFI INC,10839,2018,55597,Kevin Duane Hall,3,Poor Job Performance
+3562,UNIFIRST CORP,10840,2017,33807,Ronald D. Croatti,1,Death
+3575,UNION PACIFIC CORP,10867,2011,21013,James R. Young,2,Illness
+3578,UNION PLANTERS CORP,10868,2000,6819,Benjamin W. Rawlins Jr.,1,Death
+3584,CHIQUITA BRANDS INTL INC,10884,2001,6824,Carl H. Lindner,3,Poor Job Performance
+3585,CHIQUITA BRANDS INTL INC,10884,2003,26208,Cyrus F. Freidheim Jr.,3,Poor Job Performance
+3586,CHIQUITA BRANDS INTL INC,10884,2012,29263,Fernando G. Aguirre,3,Poor Job Performance
+3590,UNITEDHEALTH GROUP INC,10903,2006,2267,William W. McGuire,4,Legal Violation
+3605,US AIRWAYS GROUP INC-OLD,10946,2001,12308,Rakesh Gangwal,3,Poor Job Performance
+3606,US AIRWAYS GROUP INC-OLD,10946,2003,26289,David N. Siegel,3,Poor Job Performance
+3625,UNITED TECHNOLOGIES CORP,10983,2014,21227,Louis R. Chenevert,3,Poor Job Performance
+3627,SPRINT CORP,10984,2002,2308,William T. Esrey,4,Legal Violation
+3628,SPRINT CORP,10984,2007,9182,Gary D. Forsee,3,Poor Job Performance
+3629,SPRINT CORP,10984,2013,30330,Daniel R. Hesse,3,Poor Job Performance
+3658,AQUILA INC,11056,2002,4075,Robert K. Green,3,Poor Job Performance
+3662,VF CORP,11060,2016,23594,Eric C. Wiseman,3,Poor Job Performance
+3677,VEECO INSTRUMENTS INC,11124,2018,35213,John R. Peeler,3,Poor Job Performance
+3683,VOLT INFO SCIENCES INC,11213,2005,11137,William Shaw,1,Death
+3684,VOLT INFO SCIENCES INC,11213,2011,18236,Steven A. Shaw,4,Legal Violation
+3685,VOLT INFO SCIENCES INC,11213,2015,48152,Ronald Kochman,3,Poor Job Performance
+3686,VOLT INFO SCIENCES INC,11213,2018,52086,Michael D. Dean,3,Poor Job Performance
+3688,VORNADO REALTY TRUST,11220,2012,29798,Michael D. Fascitelli,3,Poor Job Performance
+3702,WALMART INC,11259,2013,25394,Michael Terry Duke,4,Legal Violation
+3709,WALGREENS BOOTS ALLIANCE INC,11264,2008,24730,Jeffrey A. Rein,3,Poor Job Performance
+3728,AVISTA CORP,11304,2000,19805,Thomas M. Matthews,3,Poor Job Performance
+3742,WAUSAU PAPER CORP,11315,2013,39236,Henry C. Newell,3,Poor Job Performance
+3752,WENDY'S INTERNATIONAL INC,11366,2005,16186,John T. Schuessler,3,Poor Job Performance
+3768,WESTWOOD ONE INC -OLD,11450,2002,16893,Joel Hollander,3,Poor Job Performance
+3769,WESTWOOD ONE INC -OLD,11450,2005,27606,Shane E. Coppola,3,Poor Job Performance
+3771,WESTWOOD ONE INC -OLD,11450,2008,38057,Thomas F. X. Beusse,3,Poor Job Performance
+3774,WEYERHAEUSER CO,11456,2007,13918,Steven R. Rogel,3,Poor Job Performance
+3780,HANDY & HARMAN LTD,11462,2002,16884,Robert D. LeBlanc,3,Poor Job Performance
+3793,WILEY (JOHN) & SONS -CL A,11499,2014,42774,Stephen M. Smith,2,Illness
+3812,WILLIAMS-SONOMA INC,11511,2002,24470,Dale W. Hilpert,3,Poor Job Performance
+3818,WILMINGTON TRUST CORP,11513,2009,4116,Ted Thomas Cecala,3,Poor Job Performance
+3824,WINN-DIXIE STORES INC,11535,2004,25213,Frank Lazaran,3,Poor Job Performance
+3833,WEC ENERGY GROUP INC,11550,2017,27080,Allen Lewis Leverett,2,Illness
+3875,ZALE CORP,11669,2001,15144,Beryl B. Raff,3,Poor Job Performance
+3877,ZALE CORP,11669,2006,15142,Mary L. Forte,3,Poor Job Performance
+3878,ZALE CORP,11669,2007,31747,Mary E. Burton,3,Poor Job Performance
+3879,ZALE CORP,11669,2009,35895,Neal Goldberg,3,Poor Job Performance
+3880,ZALE CORP,11669,2013,35896,Theophlius Killion,3,Poor Job Performance
+3900,PENFORD CORP,11748,2001,6987,Jeffrey T. Cook,3,Poor Job Performance
+3918,BEAR STEARNS COMPANIES INC,11818,2007,4145,James E. Cayne,3,Poor Job Performance
+3922,ASSOCIATED BANC-CORP,11842,2009,27047,Paul S. Beideman,3,Poor Job Performance
+3933,FIRST MIDWEST BANCORP INC,11896,2008,16091,John M. O'Meara,1,Death
+3938,NOVELL INC,11910,2006,23409,Jack L. Messman,3,Poor Job Performance
+3945,ANADARKO PETROLEUM CORP,11923,2002,4156,John N. Seitz,3,Poor Job Performance
+3950,NOBLE CORP PLC,11925,2007,21211,Mark A. Jackson,3,Poor Job Performance
+3952,TUESDAY MORNING CORP,11944,2012,31059,Kathleen Mason,3,Poor Job Performance
+3967,BALLY TECHNOLOGIES INC,12075,2014,39275,Ramesh Srinivasan,3,Poor Job Performance
+3970,GOTTSCHALKS INC,12122,2007,15085,James R. Famalette,3,Poor Job Performance
+3974,BIG LOTS INC,12123,2017,48838,David J. Campisi,2,Illness
+3976,MORGAN STANLEY,12124,2005,13800,Philip J. Purcell,3,Poor Job Performance
+3980,PACIFICARE HEALTH SYSTEMS,12126,2000,4178,Alan R. Hoops,3,Poor Job Performance
+3982,SUN MICROSYSTEMS INC,12136,2006,2462,Scott G. McNealy,3,Poor Job Performance
+3997,ORACLE CORP,12142,2017,44443,Mark Vincent Hurd,1,Death
+4005,COTY INC,12151,2018,53598,Camillo Pane,3,Poor Job Performance
+4007,TECH DATA CORP,12171,2006,7042,Steven A. Raymund,3,Poor Job Performance
+4020,TEKELEC,12212,2010,37709,Franco Plastina,3,Poor Job Performance
+4032,XOMA CORP,12252,2011,35239,Steven B. Engle,3,Poor Job Performance
+4049,REWARDS NETWORKS INC,12277,2004,36763,George S. Wiedemann,3,Poor Job Performance
+4053,HEALTH MANAGEMENT ASSOC,12338,2000,10889,William J. Schoen,3,Poor Job Performance
+4079,FREDS INC,12403,2017,51089,Michael K. R. Bloom,3,Poor Job Performance
+4093,WATTS WATER TECHNOLOGIES INC,12445,2002,4211,Timothy P. Horne,4,Legal Violation
+4094,WATTS WATER TECHNOLOGIES INC,12445,2010,26065,Patrick S. O'Keefe,2,Illness
+4116,ST JOE CO,12544,2014,62951,"L. Park Brady, Jr.",3,Poor Job Performance
+4118,HARTE HANKS INC,12545,2007,17168,Richard M. Hochhauser,3,Poor Job Performance
+4122,HARTE HANKS INC,12545,2018,52624,Karen A. Puckett,3,Poor Job Performance
+4131,MAGNETEK INC,12581,2006,29954,Thomas G. Boren,3,Poor Job Performance
+4138,ASCENTIAL SOFTWARE CORP,12587,2000,16956,Jean-Yves Dexmier,3,Poor Job Performance
+4140,ENCOMPASS HEALTH CORP,12589,2001,4242,Richard M. Scrushy,4,Legal Violation
+4144,CNO FINANCIAL GROUP INC,12603,2002,21794,Gary C. Wendt,3,Poor Job Performance
+4150,M/I HOMES INC,12615,2003,29888,Irving E. Schottenstein,2,Illness
+4166,SILICON GRAPHICS INC,12679,2006,4270,Robert R. Bishop,3,Poor Job Performance
+4167,SILICON GRAPHICS INC,12679,2007,33705,Dennis McKenna,3,Poor Job Performance
+4171,KB HOME,12689,2006,2478,Bruce Karatz,4,Legal Violation
+4175,UNUM GROUP,12726,2002,19281,J. Harold Chandler,3,Poor Job Performance
+4188,COCA-COLA EUROPEAN PARTNERS,12756,2005,4279,John R. Alm,3,Poor Job Performance
+4192,PILGRIM'S PRIDE CORP,12785,2007,28235,O. B. Goolsby Jr.,1,Death
+4193,PILGRIM'S PRIDE CORP,12785,2008,30101,J. Clinton Rivers,3,Poor Job Performance
+4200,LOJACK CORP,12789,2004,31524,Ronald J. Rossi,3,Poor Job Performance
+4209,CORELOGIC INC,12796,2015,42293,Anand K. Nallathambi,1,Death
+4211,GIGAMON INC,12803,2012,54731,Ted C. Ho,3,Poor Job Performance
+4214,HEARTLAND EXPRESS INC,12840,2011,7189,Russell A. Gerdin,2,Illness
+4218,CERNER CORP,12850,2016,7196,Neal L. Patterson,1,Death
+4221,QUIKSILVER INC,12868,2014,48498,Andrew P. Mooney,3,Poor Job Performance
+4222,QUIKSILVER INC,12868,2015,38334,Pierre Agnes,1,Death
+4223,COMVERSE TECHNOLOGY INC,12884,2004,7201,Kobi Alexander,4,Legal Violation
+4224,COMVERSE TECHNOLOGY INC,12884,2010,42937,Andre Dahan,4,Legal Violation
+4245,NETWORK EQUIPMENT TECH INC,13011,2004,19896,Hubert A. J. Whyte,3,Poor Job Performance
+4259,SYNOVUS FINANCIAL CORP,13041,2010,11991,Richard E. Anthony,2,Illness
+4287,HCP INC,13125,2013,35692,James F. Flaherty III CPA CPA,3,Poor Job Performance
+4295,INDYMAC BANCORP INC,13166,2007,21725,Michael W. Perry,3,Poor Job Performance
+4304,PHOTRONICS INC,13200,2003,23832,Daniel Del Rosario,3,Poor Job Performance
+4319,ORGANOGENESIS INC,13282,2000,19537,Philip M. Laughlin,4,Legal Violation
+4320,ORGANOGENESIS INC,13282,2002,16058,Michael L. Sabolinski,4,Legal Violation
+4354,KOMAG INC,13369,2006,16858,Thian Hoo Tan,3,Poor Job Performance
+4371,CALGON CARBON CORP,13406,2002,20928,James A. Cederna,3,Poor Job Performance
+4394,ADVANCED MARKETING SERVICES,13503,2002,22980,Michael M. Nicita,4,Legal Violation
+4402,HANCOCK FABRICS INC,13531,2010,33632,Jane F. Aggers,3,Poor Job Performance
+4411,MBIA INC,13561,2007,16479,Gary C. Dunton,3,Poor Job Performance
+4439,TIFFANY & CO,13646,2016,45423,Frederic Patrick Cumenal,3,Poor Job Performance
+4453,ALERIS CORP,13712,2003,7417,Don V. Ingram,3,Poor Job Performance
+4458,CBS CORP,13714,2005,12547,Sumner M. Redstone,2,Illness
+4459,CBS CORP,13714,2018,29214,Leslie Moonves II,4,Legal Violation
+4471,FAIR ISAAC CORP,13824,2007,20856,Thomas G. Grudnowski,3,Poor Job Performance
+4476,CAMBREX CORP,13839,2005,29006,John R. Leone,3,Poor Job Performance
+4480,FACTORY 2-U STORES INC,13842,2003,26231,William R. Fields,3,Poor Job Performance
+4481,BALLY TOTAL FITNESS HLDG CP,13853,2002,20807,Lee S. Hillman,4,Legal Violation
+4482,BALLY TOTAL FITNESS HLDG CP,13853,2006,21912,Paul A. Toback,3,Poor Job Performance
+4483,TILE SHOP HOLDINGS INC,13861,2014,53619,Robert A. Rucker,3,Poor Job Performance
+4488,MAYORS JEWELERS INC/DE,13866,2001,13043,Isaac Arguetty,3,Poor Job Performance
+4498,SCHWAB (CHARLES) CORP,13988,2004,4404,David S. Pottruck,3,Poor Job Performance
+4501,WARNACO GROUP INC,13990,2001,9852,Linda J. Wachner,3,Poor Job Performance
+4504,NEIMAN MARCUS GROUP INC,14007,2001,18527,Robert A. Smith,3,Poor Job Performance
+4516,FIRSTFED FINANCIAL CORP/CA,14129,2012,20731,James P. Giraldin,3,Poor Job Performance
+4523,LANDAUER INC,14169,2014,36291,William E. Saxelby,3,Poor Job Performance
+4534,COLONIAL BANCGROUP,14201,2008,22526,Robert E. Lowder,3,Poor Job Performance
+4553,BORLAND SOFTWARE CORP,14268,2005,20945,Dale L. Fuller,3,Poor Job Performance
+4558,AKORN INC,14304,2008,44975,Arthur S. Przybyl,3,Poor Job Performance
+4560,AKORN INC,14304,2019,44979,Rajat Rai,3,Poor Job Performance
+4578,OREGON STEEL MILLS INC,14384,2003,5535,Joe E. Corvin,3,Poor Job Performance
+4588,SOTHEBY'S,14412,2014,5536,William F. Ruprecht,3,Poor Job Performance
+4590,MGM RESORTS INTERNATIONAL,14418,2008,23744,J. Terrence Lanni,4,Legal Violation
+4598,WOLVERINE TUBE INC,14450,2007,16892,Johann R. Manning Jr.,3,Poor Job Performance
+4612,DELL TECHNOLOGIES INC,14489,2006,13047,Kevin B. Rollins,3,Poor Job Performance
+4633,OFFICE DEPOT INC,14624,2000,4483,David I. Fuente,3,Poor Job Performance
+4634,OFFICE DEPOT INC,14624,2004,16210,Bruce Nelson,3,Poor Job Performance
+4635,OFFICE DEPOT INC,14624,2009,30896,Stephen A. Odland,4,Legal Violation
+4637,OFFICE DEPOT INC,14624,2016,48877,Roland C. Smith,3,Poor Job Performance
+4641,PHOENIX TECHNOLOGIES LTD,14626,2009,33786,Woodson M. Hobbs,3,Poor Job Performance
+4644,BMC SOFTWARE INC,14650,2000,4493,Max P. Watson Jr.,3,Poor Job Performance
+4647,MERITAGE HOMES CORP,14790,2005,27419,John R. Landon,3,Poor Job Performance
+4665,ADVANCED TISSUE SCI -CL A,14836,2001,7520,Arthur J. Benvenuto,3,Poor Job Performance
+4674,STERLING CHEMICALS HLDGS INC,14885,2000,15791,Peter W. De Leeuw,3,Poor Job Performance
+4678,MGP INGREDIENTS INC,14891,2013,59105,Timothy W. Newkirk,3,Poor Job Performance
+4682,MERISEL INC,14895,2000,13403,Dwight A. Steffensen,3,Poor Job Performance
+4683,MERISEL INC,14895,2004,13404,Timothy N. Jenson,4,Legal Violation
+4687,VISX INC/DE,14897,2000,7546,Mark B. Logan,3,Poor Job Performance
+4689,3D SYSTEMS CORP,14898,2015,45435,Abraham N. Reichental,3,Poor Job Performance
+4692,PRIDE INTERNATIONAL INC,14908,2004,7552,Paul A. Bragg,3,Poor Job Performance
+4709,CALLON PETROLEUM CO/DE,15060,2016,55626,Fred L. Callon,1,Death
+4718,BECKMAN COULTER INC,15106,2010,24952,Scott T. Garrett,3,Poor Job Performance
+4733,FEDERAL HOME LOAN MORTG CORP,15208,2002,2514,Leland C. Brendsel,3,Poor Job Performance
+4734,FEDERAL HOME LOAN MORTG CORP,15208,2003,13185,Gregory J. Parseghian,3,Poor Job Performance
+4735,FEDERAL HOME LOAN MORTG CORP,15208,2008,27227,Richard Francis Syron,3,Poor Job Performance
+4750,ARMOR HOLDINGS INC,15290,2002,21937,Jonathan M. Spiller,3,Poor Job Performance
+4760,MUELLER INDUSTRIES,15343,2008,7603,William D. O'Hagan,2,Illness
+4766,ENTERASYS NETWORKS INC,15354,2001,19633,Piyush Patel,3,Poor Job Performance
+4771,HOUSE2HOME INC,15360,2000,4533,Herbert J. Zarkin,3,Poor Job Performance
+4789,TREDEGAR CORP,15459,2015,24965,Nancy M. Taylor,3,Poor Job Performance
+4794,SIGNET JEWELERS LTD,15520,2017,44836,Mark S. Light,2,Illness
+4796,STAPLES INC,15521,2016,9304,Ronald L. Sargent M.B.A.,3,Poor Job Performance
+4809,SYMANTEC CORP,15855,2011,15300,Enrique T. Salem,3,Poor Job Performance
+4810,SYMANTEC CORP,15855,2013,47884,Stephen M. Bennett,3,Poor Job Performance
+4811,SYMANTEC CORP,15855,2015,49614,Michael A. Brown,3,Poor Job Performance
+4812,NORTONLIFELOCK INC,15855,2018,55633,Gregory S. Clark,3,Poor Job Performance
+4821,WASHINGTON MUTUAL INC,16243,2007,11001,Kerry K. Killinger,3,Poor Job Performance
+4822,PEOPLE'S UNITED FINL INC,16245,2007,36578,John Albert Klein,2,Illness
+4823,PEOPLE'S UNITED FINL INC,16245,2010,36579,Philip Roger Sherringham,3,Poor Job Performance
+4828,CIRRUS LOGIC INC,16401,2006,17113,David Damian French,4,Legal Violation
+4836,LECHTERS INC,16454,2000,10578,Donald Jonas,3,Poor Job Performance
+4853,ZIX CORP,16531,2016,29193,Richard D. Spurr,3,Poor Job Performance
+4859,LATTICE SEMICONDUCTOR CORP,16597,2005,7686,Cyrus Y. Tsui,4,Legal Violation
+4860,LATTICE SEMICONDUCTOR CORP,16597,2007,13246,Stephen A. Skaggs,3,Poor Job Performance
+4862,LATTICE SEMICONDUCTOR CORP,16597,2017,44132,Darin G. Billerbeck,3,Poor Job Performance
+4873,BBX CAPITAL CORP,16681,2015,36151,Alan B. Levan,4,Legal Violation
+4875,BANKUNITED FINANCIAL CORP,16684,2007,35709,Alfred R. Camner,3,Poor Job Performance
+4887,ELECTRONIC ARTS INC,16721,2012,15252,John S. Riccitiello,3,Poor Job Performance
+4890,MIDGARDXXI INC,16729,2001,4564,William L. Marriner,3,Poor Job Performance
+4897,COMMERCE BANCORP INC/NJ,16784,2007,17552,Vernon W. Hill II,4,Legal Violation
+4900,FIRST BANCORP P R,16821,2005,16706,Angel Alvarez-Perez,4,Legal Violation
+4901,FIRST BANCORP P R,16821,2009,16708,Luis M. Beauchamp,4,Legal Violation
+4910,ELAH HOLDINGS INC,16878,2006,7728,Louis J. Rampino,4,Legal Violation
+4912,ELAH HOLDINGS INC,16878,2012,44467,Craig Forrest Noell,3,Poor Job Performance
+4913,ELAH HOLDINGS INC,16878,2016,48893,Craig T. Bouchard,3,Poor Job Performance
+4925,GBC BANCORP/CA,16938,2000,20101,Li-Pei Wu,3,Poor Job Performance
+4939,NATIONAL PENN BANCSHARES INC,17070,2010,34951,Glenn E. Moyer,3,Poor Job Performance
+4950,SANTANDER HOLDINGS USA INC,17130,2006,7764,Jay S. Sidhu,3,Poor Job Performance
+4951,SANTANDER HOLDINGS USA INC,17130,2008,21529,Joseph P. Campanelli,3,Poor Job Performance
+4955,SANTANDER HOLDINGS USA INC,17130,2013,45468,Jorge Moran Snchez,3,Poor Job Performance
+4956,SANTANDER HOLDINGS USA INC,17130,2014,48527,Roman Suarez Blanco,3,Poor Job Performance
+4960,WASHINGTON FEDERAL INC,17145,2017,20066,Roy M. Whitehead,3,Poor Job Performance
+4964,CORUS BANKSHARES INC,17160,2008,34568,Robert J. Glickman,3,Poor Job Performance
+4979,TRENWICK GROUP LTD,17243,2002,7776,James F. Billett Jr.,3,Poor Job Performance
+4986,HEALTHMARKETS INC,17254,2002,27457,Gregory T. Mutz,3,Poor Job Performance
+4987,HEALTHMARKETS INC,17254,2007,27458,William J. Gedwed,3,Poor Job Performance
+4992,SOUTH FINANCIAL GROUP INC,17640,2008,15567,Mack I. Whittle Jr.,3,Poor Job Performance
+4995,FIRST NBC BANK HOLDING CO,17709,2015,51362,Ashton Joseph Ryan Jr. CPA,3,Poor Job Performance
+5017,BRIXMOR PROPERTY GROUP INC,18383,2015,61188,Michael A. Carroll,4,Legal Violation
+5019,THIRD POINT REINSURANCE LTD,18441,2016,55657,John R. Berger,3,Poor Job Performance
+5020,THIRD POINT REINSURANCE LTD,18441,2018,55656,James Robert Bredahl,3,Poor Job Performance
+5038,TWITTER INC,18872,2014,60373,Richard Costolo,3,Poor Job Performance
+5048,SIMMONS FIRST NATL CP -CL A,19355,2013,38689,James Thomas May,2,Illness
+5052,DENNYS CORP,19398,2009,24874,Nelson J. Marchioli,3,Poor Job Performance
+5059,STERLING FINANCIAL CORP/WA,19538,2009,29920,Harold B. Gilkey,3,Poor Job Performance
+5065,TIME INC,19580,2016,49473,Joseph A. Ripp,2,Illness
+5096,ICONIX BRAND GROUP INC,20204,2015,34691,Neil Cole,4,Legal Violation
+5097,ICONIX BRAND GROUP INC,20204,2018,55260,John N. Haugh,3,Poor Job Performance
+5102,OPUS BANK,20277,2017,53219,Stephen H. Gordon,3,Poor Job Performance
+5106,WASHINGTON PRIME GROUP INC,20344,2016,53220,Michael P. Glimcher,3,Poor Job Performance
+5110,CAESARS ENTERTAINMENT CORP,20423,2014,16398,Gary William Loveman,3,Poor Job Performance
+5111,CAESARS ENTERTAINMENT CORP,20423,2018,52698,Mark P. Frissora,3,Poor Job Performance
+5124,ADEPTUS HEALTH INC,20672,2015,51761,Thomas S. Hall,3,Poor Job Performance
+5141,HOLOGIC INC,20904,2001,13511,S. David Ellenbogen,1,Death
+5142,HOLOGIC INC,20904,2009,23369,John W. Cumming,3,Poor Job Performance
+5147,PARAGON OFFSHORE PLC,20967,2016,50218,Randall D. Stilley,3,Poor Job Performance
+5153,LANTHEUS HOLDINGS INC,21004,2012,55268,Donald R. Kiepert Jr.,3,Poor Job Performance
+5158,BRIGHTSPHERE INVEST GRP INC,21019,2018,64504,Stephen H. Belgrad,3,Poor Job Performance
+5178,TETRA TECHNOLOGIES INC/DE,21237,2008,7849,Geoffrey M. Hertel,3,Poor Job Performance
+5212,ASHWORTH INC,21519,2006,13703,Randall L. Herrel Sr.,3,Poor Job Performance
+5220,ORCHESTRA THERAPEUTICS INC,21659,2002,7889,Dennis J. Carlo,3,Poor Job Performance
+5221,ORCHESTRA THERAPEUTICS INC,21659,2005,26155,John N. Bonfiglio,3,Poor Job Performance
+5236,ANN INC,21828,2005,12890,J. Patrick Spainhour,3,Poor Job Performance
+5241,CONTANGO OIL & GAS CO,22053,2012,43114,Kenneth R. Peak,2,Illness
+5243,CONTANGO OIL & GAS CO,22053,2018,48910,Allan D. Keel,3,Poor Job Performance
+5244,INTEGRAL SYSTEMS INC,22059,2007,36277,Peter J. Gaffney,3,Poor Job Performance
+5246,INTEGRAL SYSTEMS INC,22059,2009,36666,John Higginbotham,3,Poor Job Performance
+5250,ALLIED WASTE INDUSTRIES INC,22140,2004,15627,Thomas H. Van Weelden,3,Poor Job Performance
+5254,TRUEBLUE INC,22207,2001,22083,Richard L. King,3,Poor Job Performance
+5270,PAR PACIFIC HOLDINGS INC,22447,2009,55673,Roger A. Parker,4,Legal Violation
+5271,PAR PACIFIC HOLDINGS INC,22447,2012,55674,Carl E. Lakey,3,Poor Job Performance
+5278,ARCTIC CAT INC,22461,2013,38102,Claude J. Jordan,3,Poor Job Performance
+5282,SWIFT TRANSPORTATION CO INC,22532,2005,17289,Jerry C. Moyes,4,Legal Violation
+5285,WET SEAL INC -CL A,22612,2002,17957,Kathy Bronstein,3,Poor Job Performance
+5286,WET SEAL INC -CL A,22612,2004,27523,Peter D. Whitford,3,Poor Job Performance
+5287,WET SEAL INC -CL A,22612,2007,31288,Joel N. Waller,3,Poor Job Performance
+5289,WET SEAL INC -CL A,22612,2011,43859,Susan P. McGalla,3,Poor Job Performance
+5290,WET SEAL INC,22612,2013,47206,John D. Goodman,3,Poor Job Performance
+5296,NUEVO ENERGY CO,22668,2001,19872,Douglas L. Foshee,3,Poor Job Performance
+5306,O'CHARLEY'S INC,22829,2010,33160,Jeffrey D. Warne,3,Poor Job Performance
+5311,VINTAGE PETROLEUM INC,22974,2003,7926,S. Craig George,3,Poor Job Performance
+5326,BENCHMARK ELECTRONICS INC,23084,2016,21925,Gayla J. Delly,3,Poor Job Performance
+5349,ETSY INC,23238,2016,62475,Chad Dickerson,3,Poor Job Performance
+5355,BIOLASE INC,23291,2007,36160,Jeffrey W. Jones,3,Poor Job Performance
+5356,BIOLASE INC,23291,2008,37683,Jake P. St. Philip,3,Poor Job Performance
+5357,BIOLASE INC,23291,2010,37682,David M. Mulder,3,Poor Job Performance
+5359,BIOLASE INC,23291,2015,50713,Jeffrey M. Nugent,3,Poor Job Performance
+5360,BIOLASE INC,23291,2017,52736,Harold C. Flynn Jr.,3,Poor Job Performance
+5364,INFOCUS CORP,23528,2007,26989,Kyle C. Ranson,3,Poor Job Performance
+5370,MBNA CORP,23592,2002,2552,Alfred Lerner,1,Death
+5374,CYGNUS INC,23605,2004,10611,John C. Hodgman,3,Poor Job Performance
+5377,ZILOG INC,23700,2007,33530,James M. Thorburn,3,Poor Job Performance
+5380,DORMAN PRODUCTS INC,23753,2010,46831,Richard N. Berman,1,Death
+5383,ATMEL CORP,23767,2006,5562,George Perlegos,4,Legal Violation
+5416,COVENTRY HEALTH CARE INC,23877,2008,15129,Dale Brian Wolf,3,Poor Job Performance
+5421,PMC-SIERRA INC,23943,2007,22807,Robert L. Bailey,3,Poor Job Performance
+5423,CEPHALON INC,23945,2010,8015,Frank Baldino Jr.,1,Death
+5430,UNITED STATES STEEL CORP,23978,2016,46834,Filho Mario Longhi,3,Poor Job Performance
+5446,JONES GROUP INC,24032,2007,25406,Peter Boneparth,3,Poor Job Performance
+5465,DSW INC,24171,2008,54827,Heywood Wilansky,3,Poor Job Performance
+5473,NEIGHBORCARE INC,24187,2002,8078,Michael R. Walker,3,Poor Job Performance
+5484,IDEXX LABS INC,24197,2017,26336,Jonathan W. Ayers,2,Illness
+5488,AES CORP,24216,2001,4631,Dennis W. Bakke,3,Poor Job Performance
+5494,CURATIVE HEALTH SERVICES INC,24224,2000,14896,John Vakoutis,3,Poor Job Performance
+5505,AMBAC FINANCIAL GROUP INC,24287,2007,12739,Robert John Genader,3,Poor Job Performance
+5507,AMBAC FINANCIAL GROUP INC,24287,2011,30533,David William Wallis,3,Poor Job Performance
+5515,DINE BRANDS GLOBAL INC,24291,2016,26072,Julia A. Stewart,3,Poor Job Performance
+5522,TCSI CORP,24315,2001,22590,Yasushi Furukawa,3,Poor Job Performance
+5527,VERTEX PHARMACEUTICALS INC,24344,2011,42328,Matthew W. Emmens,3,Poor Job Performance
+5536,PROGRESS SOFTWARE CORP,24352,2008,8127,Joseph W. Alsop,3,Poor Job Performance
+5537,PROGRESS SOFTWARE CORP,24352,2011,16576,Richard D. Reidy,3,Poor Job Performance
+5555,MUTUAL RISK MANAGEMENT LTD,24393,2000,8142,Robert A. Mulderig,3,Poor Job Performance
+5557,TIVITY HEALTH INC,24396,2014,36255,Ben R. Leedle Jr.,3,Poor Job Performance
+5568,BMC STOCK HOLDINGS INC,24415,2017,52756,Peter C. Alexander,3,Poor Job Performance
+5571,EZCORP INC -CL A,24430,2014,44843,Paul E. Rothamel,3,Poor Job Performance
+5573,THQ INC,24436,2011,18116,Brian J. Farrell,3,Poor Job Performance
+5602,PER-SE TECHNOLOGIES INC,24531,2000,17545,Allen W. Ritchie,3,Poor Job Performance
+5618,SWS GROUP INC,24547,2010,24495,Donald W. Hultgren,3,Poor Job Performance
+5622,READ-RITE CORP,24608,2000,8196,Cyril J. Yansouni,3,Poor Job Performance
+5628,OLD DOMINION FREIGHT,24617,2017,29754,David S. Congdon,3,Poor Job Performance
+5629,GOODYS FAMILY CLOTHING INC,24621,2004,15553,Robert M. Goodfriend,3,Poor Job Performance
+5642,HORACE MANN EDUCATORS CORP,24678,2010,19498,Louis Gordon Lower II,4,Legal Violation
+5677,PERRIGO CO PLC,24782,2015,35491,Joseph C. Papa,3,Poor Job Performance
+5678,PERRIGO CO PLC,24782,2018,20372,John T. Hendrickson,3,Poor Job Performance
+5687,VITESSE SEMICONDUCTOR CORP,24803,2005,11741,Louis R. Tomasetta,4,Legal Violation
+5692,CORPORATE OFFICE PROPERT,24825,2015,38536,Roger A. Waesche Jr.,3,Poor Job Performance
+5699,GILEAD SCIENCES INC,24856,2015,17570,John C. Martin,3,Poor Job Performance
+5700,GILEAD SCIENCES INC,24856,2018,27491,John F. Milligan,3,Poor Job Performance
+5707,PDL BIOPHARMA INC,24878,2001,8270,Laurence Jay Korn,3,Poor Job Performance
+5717,WHOLE FOODS MARKET INC,24893,2017,18142,Walter E. Robb IV,3,Poor Job Performance
+5723,ROPER TECHNOLOGIES INC,24925,2018,24901,Brian D. Jellison,2,Illness
+5735,CALLAWAY GOLF CO,24978,2000,5588,Ely R. Callaway,2,Illness
+5736,CALLAWAY GOLF CO,24978,2004,21507,Ronald A. Drapeau,3,Poor Job Performance
+5738,CALLAWAY GOLF CO,24978,2010,31198,George Fellows,3,Poor Job Performance
+5754,SCICLONE PHARMACEUTICALS INC,25047,2004,8334,Donald R. Sellers,3,Poor Job Performance
+5755,SCICLONE PHARMACEUTICALS INC,25047,2005,31257,Ira D. Lawrence,2,Illness
+5759,TIME WARNER INC,25056,2001,21308,Gerald M. Levin,3,Poor Job Performance
+5760,TIME WARNER INC,25056,2007,21310,Richard D. Parsons Esq. J.D.,3,Poor Job Performance
+5763,FINOVA GROUP INC,25061,2000,16595,Matthew M. Breyne,3,Poor Job Performance
+5764,FINOVA GROUP INC,25061,2001,13265,William J. Hallinan,3,Poor Job Performance
+5765,FINOVA GROUP INC,25061,2002,24664,Lawrence S. Hershfield,3,Poor Job Performance
+5770,BISYS GROUP INC,25080,2004,13585,Dennis R. Sheehan,2,Illness
+5771,BISYS GROUP INC,25080,2005,28171,Russell P. Fradin,3,Poor Job Performance
+5772,PROVELL INC -CL A,25096,2000,8349,Mark A. Cohn,3,Poor Job Performance
+5773,PROVELL INC  -CL A,25096,2001,11865,George S. Richards,3,Poor Job Performance
+5776,CATALINA MARKETING CORP,25099,2003,10644,Daniel D. Granger,3,Poor Job Performance
+5777,CATALINA MARKETING CORP,25099,2006,27992,L. Dick Buell,3,Poor Job Performance
+5778,CHRISTOPHER & BANKS CORP,25108,2005,22332,William J. Prange,2,Illness
+5780,CHRISTOPHER & BANKS CORP,25108,2009,35464,Lorna E. Nagler,3,Poor Job Performance
+5781,CHRISTOPHER & BANKS CORP,25108,2011,44493,Larry C. Barenbaum,3,Poor Job Performance
+5783,CHRISTOPHER & BANKS CORP,25108,2016,47574,LuAnn Via,3,Poor Job Performance
+5785,ICU MEDICAL INC,25110,2013,28178,George A. Lopez,3,Poor Job Performance
+5802,FIRST DATA CORP,25157,2005,4646,Charles T. Fote,3,Poor Job Performance
+5806,FIRST DATA CORP,25157,2012,44497,Jonathan J. Judge,2,Illness
+5815,AGCO CORP,25180,2001,8384,John M. Shumejda,1,Death
+5820,STEIN MART INC,25186,2007,8392,Michael D. Fisher,3,Poor Job Performance
+5821,STEIN MART INC,25186,2008,35044,Linda McFarland Farthing,3,Poor Job Performance
+5824,STEIN MART INC,25186,2016,55297,Dawn H. Robertson,3,Poor Job Performance
+5831,MEDQUIST INC,25216,2010,38433,"Peter L. Masanotti, J.D.",3,Poor Job Performance
+5835,VALENCE TECHNOLOGY INC,25224,2006,31712,James R. Akridge,3,Poor Job Performance
+5836,VALENCE TECHNOLOGY INC,25224,2011,33559,Robert L. Kanode,3,Poor Job Performance
+5842,BOSTON SCIENTIFIC CORP,25279,2009,19073,James R. Tobin,3,Poor Job Performance
+5847,KOHL'S CORP,25283,2007,4653,R. Lawrence Montgomery,3,Poor Job Performance
+5866,BED BATH & BEYOND INC,25338,2018,13067,Steven H. Temares,3,Poor Job Performance
+5876,FINISH LINE INC -CL A,25357,2015,29546,Glenn S. Lyon,3,Poor Job Performance
+5878,COLUMBIA BANKING SYSTEM INC,25376,2016,35324,Melanie J. Dressel,1,Death
+5880,SPACELABS MEDICAL INC,25390,2000,8441,Carl A. Lombardi,3,Poor Job Performance
+5881,GENERAL CABLE CORP/DE,25405,2014,44504,Gregory B. Kenny,3,Poor Job Performance
+5889,STARBUCKS CORP,25434,2007,26617,James L. Donald,3,Poor Job Performance
+5892,DYNEGY INC,25495,2001,18407,Charles L. Watson,3,Poor Job Performance
+5899,CENTRAL GARDEN & PET CO,25536,2007,32022,Glenn W. Novotny,3,Poor Job Performance
+5904,ANCHOR BANCORP WISCONSIN INC,25570,2008,15906,Douglas J. Timmerman,3,Poor Job Performance
+5922,LTC PROPERTIES INC,25665,2006,30693,Andre C. Dimitriadis Ph.D.,2,Illness
+5934,ASGN INC,25749,2018,27741,Peter T. Dameris,2,Illness
+5937,CARAUSTAR INDUSTRIES INC,25777,2008,25879,Michael J. Keough,3,Poor Job Performance
+5938,MCAFEE INC,25783,2000,17710,William L. Larson,3,Poor Job Performance
+5939,MCAFEE INC,25783,2006,24532,George Samenuk,4,Legal Violation
+5951,KEMET CORP,25848,2004,25676,Jeffrey A. Graves,3,Poor Job Performance
+5952,KEMET CORP,25848,2018,29609,Per-Olof Loof,4,Legal Violation
+5967,MINERALS TECHNOLOGIES INC,25870,2014,48943,Robert S. Wetherbee,3,Poor Job Performance
+5968,MINERALS TECHNOLOGIES INC,25870,2016,34873,Joseph C. Muscari,1,Death
+5970,HCC INSURANCE HOLDINGS INC,25877,2006,21781,Stephen L. Way,3,Poor Job Performance
+5979,PATTERSON COMPANIES INC,25880,2016,33463,Scott P. Anderson,3,Poor Job Performance
+5996,PEOPLESOFT INC,25944,2003,19347,Craig A. Conway,4,Legal Violation
+6000,CHART INDUSTRIES INC,25964,2017,54858,William C. Johnson,3,Poor Job Performance
+6002,SHFL ENTERTAINMENT INC,25980,2009,39498,Timothy J. Parrott,2,Illness
+6018,BLACK BOX CORP,26012,2006,17734,Fred C. Young,4,Legal Violation
+6020,BLACK BOX CORP,26012,2015,26034,Michael McAndrew,3,Poor Job Performance
+6021,BLACK BOX CORP,26012,2017,53673,Eslie C. Sykes,3,Poor Job Performance
+6025,TRIDENT MICROSYSTEMS INC,26015,2006,14818,Frank C. Lin,4,Legal Violation
+6027,TRIDENT MICROSYSTEMS INC,26015,2010,35908,Sylvia D. Summers Couder,3,Poor Job Performance
+6028,UNIVERSAL INSURANCE HLDGS,26016,2012,48556,Bradley Ian Meier,3,Poor Job Performance
+6030,HAYES LEMMERZ INTL INC,26019,2001,8568,Ranko Cucuz,4,Legal Violation
+6044,GULFPORT ENERGY CORP,26069,2018,42963,Michael G. Moore,4,Legal Violation
+6047,QUORUM HEALTH CORP,26157,2017,53245,Thomas D. Miller,3,Poor Job Performance
+6051,NYFIX INC,26523,2005,20239,Peter K. Hansen,3,Poor Job Performance
+6061,ADIENT PLC,27333,2018,60581,R. Bruce McDonald,3,Poor Job Performance
+6066,NAUTILUS INC,27760,2007,27721,Greggory C. Hammann,3,Poor Job Performance
+6068,NAUTILUS INC,27760,2019,45544,Bruce M. Cazenave,3,Poor Job Performance
+6072,SITE CENTERS CORP,27780,2009,30946,Scott Alan Wolstein,3,Poor Job Performance
+6074,SITE CENTERS CORP,27780,2016,35379,David John Oakes CFA,4,Legal Violation
+6077,CHESAPEAKE ENERGY CORP,27786,2012,31032,Aubrey K. McClendon,4,Legal Violation
+6079,CREE INC,27794,2001,18559,F. Neal Hunter,4,Legal Violation
+6080,CREE INC,27794,2017,18560,Charles M. Swoboda,2,Illness
+6085,LIVANOVA PLC,27810,2006,28079,Robert P. Cummins,3,Poor Job Performance
+6095,ALLERGAN PLC,27845,2014,35646,Paul M. Bisaro,3,Poor Job Performance
+6105,SONICBLUE INC,27903,2001,17020,Kenneth F. Potashner,3,Poor Job Performance
+6114,AVID TECHNOLOGY INC,27925,2017,49651,Louis Hernandez Jr.,4,Legal Violation
+6121,PACIFIC SUNWEAR CALIF INC,27937,2004,16168,Greg H. Weaver,3,Poor Job Performance
+6122,PACIFIC SUNWEAR CALIF INC,27937,2006,29097,Seth R. Johnson,3,Poor Job Performance
+6123,PACIFIC SUNWEAR CALIF INC,27937,2008,32689,Sally Frame Kasaks,3,Poor Job Performance
+6126,SHOE CARNIVAL INC,27938,2012,8613,Mark L. Lemond,2,Illness
+6130,PILLOWTEX CORP,27957,2000,8622,Charles M. Hansen Jr.,3,Poor Job Performance
+6136,TRICORD SYSTEMS INC,27969,2001,12773,Joan M. Wrabetz,3,Poor Job Performance
+6141,CHICOS FAS INC,27981,2008,10700,Scott A. Edmonds,3,Poor Job Performance
+6142,CHICOS FAS INC,27981,2015,38038,David F. Dyer,3,Poor Job Performance
+6146,APPLIED SIGNAL TECHNOLOGY,27997,2007,36145,Gary L. Yancey,3,Poor Job Performance
+6153,GYMBOREE CORP,28018,2016,47585,Mark Breitbard,3,Poor Job Performance
+6162,GGP INC,28119,2008,35603,John L. Bucksbaum SCSM,3,Poor Job Performance
+6163,GGP INC,28119,2010,37464,Adam Spencer Metz,3,Poor Job Performance
+6168,SANMINA CORP,28139,2018,38731,Robert K. Eulau,3,Poor Job Performance
+6171,WIND RIVER SYSTEMS INC,28145,2002,20194,Thomas St. Dennis,3,Poor Job Performance
+6183,ARCONIC INC,28192,2016,53933,Klaus-Christian Kleinfeld,4,Legal Violation
+6187,POLYONE CORP,28194,2005,10710,Thomas A. Waltermire,3,Poor Job Performance
+6196,BLANCH E W HOLDINGS INC,28231,2000,17235,Edgar W. Blanch Jr.,4,Legal Violation
+6200,AUSPEX SYSTEMS INC,28253,2000,11761,Bruce N. Moore,3,Poor Job Performance
+6207,ELLIS PERRY INTL INC,28303,2015,35260,George Feldenkreis,3,Poor Job Performance
+6218,TRANSOCEAN LTD,28338,2014,30452,Steven Leon Newman Ph.D.,3,Poor Job Performance
+6230,ORTHOFIX MEDICAL INC,28380,2012,54346,Robert S. Vaters,3,Poor Job Performance
+6235,PAPA JOHNS INTERNATIONAL INC,28397,2017,17117,John H. Schnatter,4,Legal Violation
+6238,LENOX GROUP INC,28414,2007,17377,Susan E. Engel,3,Poor Job Performance
+6241,LIBBEY INC,28462,2015,45562,Stephanie A. Streeter,3,Poor Job Performance
+6249,ELECTROGLAS INC,28502,2003,13472,Curtis S. Wozniak,3,Poor Job Performance
+6252,DELTA & PINE LAND CO,28524,2000,13126,Roger D. Malkin,2,Illness
+6259,SIMON WORLDWIDE INC,28556,2000,8685,Patrick D. Brady,3,Poor Job Performance
+6260,SIMON WORLDWIDE INC,28556,2001,19606,Allan I. Brown,4,Legal Violation
+6265,STONE ENERGY CORP,28564,2016,28912,David H. Welch,3,Poor Job Performance
+6268,BRINKS CO,28590,2015,45563,Thomas Clayton Schievelbein,3,Poor Job Performance
+6287,QRS CORP,28700,2001,17474,John S. Simon,3,Poor Job Performance
+6297,BORGWARNER INC,28742,2018,45566,James R. Verrier,3,Poor Job Performance
+6301,SPARTANNASH CO,28762,2018,33488,David M. Staples,3,Poor Job Performance
+6315,PHILADELPHIA CONS HLDG CORP,28858,2007,23077,James Joseph Maguire Jr.,4,Legal Violation
+6316,META FINANCIAL GROUP INC,28866,2018,55716,J. Tyler Haahr,3,Poor Job Performance
+6319,KEURIG DR PEPPER INC,28877,2012,35716,Lawrence J. Blanford,3,Poor Job Performance
+6322,COLONIAL PROPERTIES TRUST,28900,2008,22962,C. Reynolds Thompson III,3,Poor Job Performance
+6329,BARNES & NOBLE INC,28924,2014,46223,Michael P. Huseby,3,Poor Job Performance
+6330,BARNES & NOBLE INC,28924,2015,53700,Ronald D. Boire,3,Poor Job Performance
+6332,BARNES & NOBLE INC,28924,2017,55728,Demos Parneros,4,Legal Violation
+6334,MARRIOTT INTL INC,28930,2017,21212,Arne M. Sorenson,1,Death
+6339,OM GROUP INC,29001,2004,15155,James P. Mooney,3,Poor Job Performance
+6347,ULTIMATE ELECTRONICS INC,29021,2003,20663,J. Edward McEntire,3,Poor Job Performance
+6353,TRIAD GUARANTY INC,29055,2008,33035,Mark Kristian Tonnesen,3,Poor Job Performance
+6361,CREDENCE SYSTEMS CORP,29085,2006,19936,David A. Ranhoff,3,Poor Job Performance
+6364,MERCURY INTERACTIVE CORP,29095,2005,15361,Amnon Landan,4,Legal Violation
+6382,ITRON INC,29133,2011,28525,Malcolm Unsworth,3,Poor Job Performance
+6386,URBAN OUTFITTERS INC,29150,2011,36129,Glen T. Senk,3,Poor Job Performance
+6390,UNIVERSAL FOREST PRODS INC,29156,2010,10742,Michael B. Glenn,2,Illness
+6403,VIAVI SOLUTIONS INC,29241,2000,16516,Kevin N. Kalkhoven,2,Illness
+6423,ALIMCO FINANCIAL CORP,29323,2005,19983,N. Damodar Reddy,3,Poor Job Performance
+6426,GATEWAY INC,29345,2000,16329,Jeffrey Weitzen,3,Poor Job Performance
+6428,GATEWAY INC,29345,2005,29075,Wayne R. Inouye,3,Poor Job Performance
+6461,JAGGED PEAK ENERGY INC,29565,2017,62579,"Joseph N. Jaggers, III",2,Illness
+6465,CELADON GROUP INC,29612,2012,49658,Stephen Russell,2,Illness
+6466,CELADON GROUP INC,29612,2016,49660,Paul A. Will,3,Poor Job Performance
+6469,STEEL CONNECT INC,29621,2001,16310,David S. Wetherell,3,Poor Job Performance
+6470,STEEL CONNECT INC,29621,2004,26511,George A. McMillan,3,Poor Job Performance
+6471,STEEL CONNECT INC,29621,2012,30013,Joseph C. Lawler,3,Poor Job Performance
+6479,SFN GROUP INC,29647,2000,15205,Raymond Marcy,3,Poor Job Performance
+6480,SFN GROUP INC,29647,2003,24407,Cinda A. Hallman,2,Illness
+6492,DSP GROUP INC,29722,2005,29529,Inon Beracha,3,Poor Job Performance
+6505,BEAZER HOMES USA INC,29755,2011,30079,Ian J. McCarthy,3,Poor Job Performance
+6508,QLOGIC CORP,29791,2012,38148,Simon Biddiscombe,3,Poor Job Performance
+6510,QLOGIC CORP,29791,2014,49665,Prasad L. Rampalli,3,Poor Job Performance
+6527,CMTSU LIQUIDATION INC,29900,2009,12595,Mac J. Slingerlend,3,Poor Job Performance
+6529,CMTSU LIQUIDATION INC,29900,2015,51131,Michael J. Boustridge,3,Poor Job Performance
+6540,AK STEEL HOLDING CORP,29968,2003,13104,Richard M. Wardrop Jr.,3,Poor Job Performance
+6544,PROLOGIS INC,29984,2008,26957,Jeffrey Howard Schwartz,3,Poor Job Performance
+6565,GARDNER DENVER HOLDINGS INC,30098,2012,37804,Barry L. Pennypacker,3,Poor Job Performance
+6567,LEHMAN BROTHERS HOLDINGS INC,30128,2007,13783,Richard Severin Fuld Jr.,3,Poor Job Performance
+6576,INVESTMENT TECHNOLOGY GP INC,30146,2015,32854,Robert Christian Gasser,4,Legal Violation
+6578,PSS WORLD MEDICAL INC,30161,2000,15401,Patrick C. Kelly,3,Poor Job Performance
+6586,FRONTIER AIRLINES HOLDINGS,30231,2006,20921,Jeff S. Potter,3,Poor Job Performance
+6600,LIBERTY PROPERTY TRUST,30354,2002,36735,Willard G. Rouse III,2,Illness
+6603,FIRST INDL REALTY TRUST INC,30384,2008,52826,Michael W. Brennan,3,Poor Job Performance
+6613,CORAM HEALTHCARE CORP,30442,2000,20951,Daniel D. Crowley,3,Poor Job Performance
+6632,MPS GROUP INC,30608,2000,15109,Derek E. Dewan,3,Poor Job Performance
+6634,AMEDISYS INC,30612,2013,36829,William F. Borne,3,Poor Job Performance
+6638,MACK-CALI REALTY CORP,30637,2014,25548,Mitchell E. Hersh,3,Poor Job Performance
+6639,MACK-CALI REALTY CORP,30637,2016,53263,Mitchell E. Rudin,3,Poor Job Performance
+6640,MACK-CALI REALTY CORP,30637,2017,53264,Michael J. DeMarco CPA,3,Poor Job Performance
+6648,AFFILIATED COMPUTER SERVICES,30697,2005,17191,Jeffrey A. Rich,4,Legal Violation
+6649,AFFILIATED COMPUTER SERVICES,30697,2006,17192,Mark A. King,4,Legal Violation
+6662,ASPEN TECHNOLOGY INC,30870,2002,17641,Lawrence B. Evans,4,Legal Violation
+6663,ASPEN TECHNOLOGY INC,30870,2005,17643,David L. McQuillin,4,Legal Violation
+6700,ITT EDUCATIONAL SERVICES INC,31224,2015,26881,Kevin M. Modany,3,Poor Job Performance
+6702,NUTRISYSTEM INC,31227,2012,35757,Joseph M. Redling,3,Poor Job Performance
+6712,INSIGHT ENTERPRISES INC,31453,2009,28668,Richard A. Fennessy,3,Poor Job Performance
+6716,RENT-A-CENTER INC,31460,2016,36116,Robert D. Davis,3,Poor Job Performance
+6717,BROOKS AUTOMATION INC,31477,2004,20913,Robert J. Therrien,4,Legal Violation
+6734,AZZURRA HOLDING CORP,31578,2001,22716,James J. Sobczak,3,Poor Job Performance
+6737,AZZURRA HOLDING CORP,31578,2006,33755,Charles W. Brown,3,Poor Job Performance
+6756,DELPHI TECHNOLOGIES PLC,31802,2017,56226,Liam Butterworth,3,Poor Job Performance
+6761,DARDEN RESTAURANTS INC,31846,2014,19863,Clarence Otis Jr.,3,Poor Job Performance
+6767,BORDERS GROUP INC,31849,2008,33076,George L. Jones,3,Poor Job Performance
+6770,FEI CO,31881,2005,22689,Vahe A. Sarkissian,3,Poor Job Performance
+6780,STARZ,32280,2003,18950,Robert R. Bennett,3,Poor Job Performance
+6789,PSINET INC,60881,2000,14803,William L. Schrader,3,Poor Job Performance
+6790,CML HOLDINGS INTL LLC,60882,2001,17743,Frank M. Ward,1,Death
+6794,DISH NETWORK CORP,60900,2014,45595,Joseph P. Clayton,3,Poor Job Performance
+6805,LEGATO SYSTEMS INC,60969,2000,15937,Louis C. Cole,3,Poor Job Performance
+6809,SUNEDISON INC,60992,2008,29733,Nabeel K. Gareeb,3,Poor Job Performance
+6810,SUNEDISON INC,60992,2014,39584,Ahmad R. Chatila,3,Poor Job Performance
+6822,GRAFTECH INTERNATIONAL LTD,61153,2017,52215,Jeffrey C. Dutton,3,Poor Job Performance
+6823,ATLAS AIR WORLDWIDE HLDG INC,61155,2000,20004,Michael A. Chowdry,1,Death
+6824,ATLAS AIR WORLDWIDE HLDG INC,61155,2001,20005,Richard H. Shuyler,3,Poor Job Performance
+6837,MEDNAX INC,61325,2017,15136,Roger J. Medel,3,Poor Job Performance
+6854,CENTRAL PARKING CORP,61404,2003,23295,William J Vareschi Jr.,3,Poor Job Performance
+6877,RADISYS CORP,61439,2012,45981,Michel A. Dagenais,3,Poor Job Performance
+6887,QWEST COMMUNICATION INTL INC,61489,2001,21046,Joseph P. Nacchio,3,Poor Job Performance
+6922,BOSTON BEER INC -CL A,61581,2017,36165,Martin F. Roper,3,Poor Job Performance
+6927,NETAPP INC,61591,2014,33460,Thomas Georgens,3,Poor Job Performance
+6938,CITRIX SYSTEMS INC,61676,2017,55348,Kirill Tatarinov,3,Poor Job Performance
+6944,TOLLGRADE COMMUNICATIONS INC,61725,2009,35121,Joseph A. Ferrara,3,Poor Job Performance
+6953,HARTFORD FINANCIAL SERVICES,61739,2013,42381,Liam E. McGee,2,Illness
+6956,IMPAX LABORATORIES INC,61745,2016,50814,George Frederick Wilkinson,3,Poor Job Performance
+6965,LCA VISION INC,61900,2005,36845,Stephen N. Joffe,3,Poor Job Performance
+6972,ARTHROCARE CORP,61996,2008,20696,Michael A. Baker,4,Legal Violation
+6974,SIZMEK INC,62016,2011,42715,Scott K. Ginsburg,4,Legal Violation
+6976,RENAL CARE GROUP INC,62036,2002,13359,Sam A. Brooks,1,Death
+6982,IMPATH INC,62215,2002,20735,Anu D. Saad,4,Legal Violation
+6986,ALEXION PHARMACEUTICALS INC,62263,2016,46129,David L. Hallal,4,Legal Violation
+6998,IRON MOUNTAIN INC,62374,2010,31171,Robert T. Brennan,3,Poor Job Performance
+7002,VERTRO INC,62388,2006,33137,Craig A. Pisaris-Henderson,3,Poor Job Performance
+7005,EARTHLINK HOLDINGS CORP,62391,2006,19371,Charles G. Betty,1,Death
+7014,PRGX GLOBAL INC,62494,2013,42597,Romil Bahl,3,Poor Job Performance
+7017,CENTURY ALUMINUM CO,62516,2003,22611,Gerald A. Meyers,3,Poor Job Performance
+7019,CENTURY ALUMINUM CO,62516,2011,31307,Logan W. Kruger,3,Poor Job Performance
+7024,COST PLUS INC,62590,2005,18260,Murray H. Dashe,3,Poor Job Performance
+7028,LUCENT TECHNOLOGIES INC,62599,2000,11601,Richard A. McGinn,3,Poor Job Performance
+7029,LUCENT TECHNOLOGIES INC,62599,2001,11600,Henry Brewer Schacht,3,Poor Job Performance
+7030,LUCENT TECHNOLOGIES INC,62599,2005,11604,Patricia F. Russo,3,Poor Job Performance
+7031,SAPIENT CORP,62602,2006,19500,Jerry A. Greenberg,4,Legal Violation
+7033,ALTABA INC,62634,2000,14241,Timothy Koogle,3,Poor Job Performance
+7034,ALTABA INC,62634,2006,23546,Terry S. Semel,3,Poor Job Performance
+7035,ALTABA INC,62634,2008,34433,Chih-Yuan Yang,3,Poor Job Performance
+7036,ALTABA INC,62634,2011,42606,Carol A. Bartz,3,Poor Job Performance
+7043,COLLECTIVE BRANDS INC,62667,2004,15095,Steven J. Douglass,3,Poor Job Performance
+7044,COLLECTIVE BRANDS INC,62667,2010,31130,Matthew E. Rubel,3,Poor Job Performance
+7047,CARBO CERAMICS INC,62686,2005,22857,C. Mark Pearson,4,Legal Violation
+7051,TRAVELERS COS INC,62689,2015,12200,Jay S. Fishman,2,Illness
+7056,POLYCOM INC,62730,2013,42391,Andrew M. Miller,4,Legal Violation
+7064,SAWTEK INC,62738,2000,18096,Gary A. Monetti,2,Illness
+7071,FTI CONSULTING INC,62823,2013,37889,Jack B. Dunn IV,3,Poor Job Performance
+7084,SUNRISE SENIOR LIVING INC,62967,2008,23241,Paul J. Klaassen,3,Poor Job Performance
+7086,SALIX PHARMACEUTICALS LTD,62977,2014,35181,Carolyn J. Logan,3,Poor Job Performance
+7091,TITANIUM METALS CORP,62984,2009,35988,Steven L. Watson,3,Poor Job Performance
+7094,AFFYMETRIX INC,62990,2010,34309,Kevin M. King,3,Poor Job Performance
+7099,DUPONT PHOTOMASKS INC,63052,2003,20508,Peter S. Kirlin,3,Poor Job Performance
+7111,GLASSBRIDGE ENTERPRISES INC,63138,2006,28750,Bruce A. Henderson,2,Illness
+7113,GLASSBRIDGE ENTERPRISES INC,63138,2015,41770,Mark E. Lucas,3,Poor Job Performance
+7122,SIEBEL SYSTEMS INC,63180,2004,29365,John Michael Lawrie,3,Poor Job Performance
+7139,GUESS INC,63447,2014,36077,Paul Marciano,4,Legal Violation
+7140,GUESS INC,63447,2018,53449,Amigo Victor Herrero,3,Poor Job Performance
+7150,E TRADE FINANCIAL CORP,63501,2002,14761,Christos M. Cotsakos,3,Poor Job Performance
+7151,E TRADE FINANCIAL CORP,63501,2007,20542,Mitchell Harris Caplan J.D.,3,Poor Job Performance
+7152,E TRADE FINANCIAL CORP,63501,2009,37607,Donald H. Layton,3,Poor Job Performance
+7153,E TRADE FINANCIAL CORP,63501,2012,43948,Steven J. Freiberg,3,Poor Job Performance
+7154,E TRADE FINANCIAL CORP,63501,2016,49031,Paul Thomas Idzik,3,Poor Job Performance
+7158,METRO ONE TELECOMM INC,63525,2005,21802,Timothy A. Timmins,3,Poor Job Performance
+7159,METRO ONE TELECOMM INC,63525,2007,21803,Gary E. Henry,3,Poor Job Performance
+7165,CALPINE CORP,63605,2005,17215,Peter Cartwright,3,Poor Job Performance
+7171,HOT TOPIC INC,63621,2010,22117,Elizabeth McLaughlin,3,Poor Job Performance
+7174,ABERCROMBIE & FITCH -CL A,63643,2014,15624,Michael S. Jeffries,3,Poor Job Performance
+7175,ABERCROMBIE & FITCH -CL A,63643,2015,37617,Jonathan E. Ramsden,3,Poor Job Performance
+7180,ENDO INTERNATIONAL PLC,63645,2016,49369,Rajiv Kanishka Liyanaarchchie De Silva,3,Poor Job Performance
+7182,SPECTRUM PHARMACEUTICALS INC,63650,2017,45991,Rajesh C. Shrotriya M.D.,3,Poor Job Performance
+7183,ROFIN SINAR TECHNOLOGIES INC,63651,2015,42972,Guenther Braun,3,Poor Job Performance
+7186,EDGEWATER TECHNOLOGY INC,63667,2001,17761,Clete T. Brewer,3,Poor Job Performance
+7190,UNIVISION COMMUNICATIONS INC,63669,2008,35821,Joseph Uva,3,Poor Job Performance
+7193,XSTELOS HOLDINGS INC,63690,2003,13074,J. M. Robinson,3,Poor Job Performance
+7195,XSTELOS HOLDINGS INC,63690,2008,29873,Jeffrey A. Shepard,3,Poor Job Performance
+7223,USANA HEALTH SCIENCES INC,63863,2008,29791,Myron W. Wentz,3,Poor Job Performance
+7226,METRIS COMPANIES INC,63870,2002,23071,Ronald N. Zebeck,3,Poor Job Performance
+7229,STAGE STORES INC,63874,2011,33267,Andrew T. Hall,3,Poor Job Performance
+7232,TRIUMPH GROUP INC,63876,2014,42827,Jeffry D. Frisby,3,Poor Job Performance
+7236,NATIONAL OILWELL VARCO INC,63892,2013,20487,Merrill A. Miller Jr.,3,Poor Job Performance
+7239,MIDWAY GAMES INC,63898,2007,27765,David F. Zucker,3,Poor Job Performance
+7244,EDUCATION MANAGEMENT CORP,63907,2012,39617,Todd S. Nelson,3,Poor Job Performance
+7245,EDUCATION MANAGEMENT CORP,63907,2014,39620,Edward H. West,3,Poor Job Performance
+7254,NCO GROUP INC,63951,2010,18072,Michael J. Barrist,3,Poor Job Performance
+7259,EPLUS INC,63986,2015,51460,Phillip G. Norton,3,Poor Job Performance
+7269,LINENS N THINGS INC,64048,2007,46534,Robert J. DiNicola,3,Poor Job Performance
+7274,POWERWAVE TECHNOLOGIES INC,64103,2011,24155,Ronald J. Buschur,3,Poor Job Performance
+7281,MONSTER WORLDWIDE INC,64156,2006,22327,Andrew J. McKelvey,4,Legal Violation
+7282,MONSTER WORLDWIDE INC,64156,2014,34817,Salvatore Iannuzzi,3,Poor Job Performance
+7283,MONSTER WORLDWIDE INC,64156,2015,34818,Timothy T. Yates,3,Poor Job Performance
+7289,IGATE CORP,64165,2013,43161,Phaneesh Murthy,4,Legal Violation
+7292,QUEST DIAGNOSTICS INC,64166,2011,19758,Surya N. Mohapatra,3,Poor Job Performance
+7297,WILSHIRE BANCORP INC,64218,2010,31585,Joanne Kim,3,Poor Job Performance
+7309,COLDWATER CREEK INC,64304,2007,31472,Dennis C. Pence,2,Illness
+7310,COLDWATER CREEK INC,64304,2008,31474,Daniel J. Griesemer,3,Poor Job Performance
+7327,AVOCENT CORP,64397,2007,25650,John R. Cooper,2,Illness
+7329,CARMAX INC,64410,2005,36059,W. Austin Ligon,3,Poor Job Performance
+7330,CARMAX INC,64410,2016,36054,Thomas Joseph Folliard,3,Poor Job Performance
+7337,NEOMAGIC CORP,64485,2004,14829,Prakash C. Agarwal,3,Poor Job Performance
+7338,NEOMAGIC CORP,64485,2009,29534,Douglas R. Young,3,Poor Job Performance
+7345,GULF ISLAND FABRICATION INC,64568,2012,36249,Kerry J. Chauvin,2,Illness
+7349,MEADE INSTRUMENTS CORP,64595,2008,33438,Steven L. Muellner,3,Poor Job Performance
+7350,MEADE INSTRUMENTS CORP,64595,2012,20297,Steven G. Murdock,3,Poor Job Performance
+7353,NATIONWIDE FINL SVCS -CL A,64621,2009,21352,William Gerald Jurgensen,3,Poor Job Performance
+7355,TAKE-TWO INTERACTIVE SFTWR,64630,2000,22814,Ryan A. Brant,4,Legal Violation
+7357,TAKE-TWO INTERACTIVE SFTWR,64630,2004,27875,Jeffrey C. Lapin,3,Poor Job Performance
+7358,TAKE-TWO INTERACTIVE SFTWR,64630,2007,22816,Paul Eibeler,3,Poor Job Performance
+7361,EGGHEAD.COM INC,64644,2000,14834,S. Jerrold Kaplan,3,Poor Job Performance
+7363,FLAGSTAR BANCORP INC,64699,2009,25780,Mark T. Hammond,3,Poor Job Performance
+7366,RAMBUS INC,64766,2004,18618,Geoff Tate,3,Poor Job Performance
+7368,RAMBUS INC,64766,2017,46884,Ronald D. Black,4,Legal Violation
+7377,RALPH LAUREN CORP,64891,2015,29763,Ralph Lauren,3,Poor Job Performance
+7382,MAXIMUS INC,64901,2006,18125,Lynn P. Davenport,4,Legal Violation
+7384,BOSTON PROPERTIES INC,64925,2009,26961,Edward H. Linde,1,Death
+7390,STARTEK INC -OLD,64942,2006,31232,Steven D. Butler,3,Poor Job Performance
+7391,STARTEK INC -OLD,64942,2010,35067,A. Laurence Jones,3,Poor Job Performance
+7397,GEVITY HR INC,64994,2007,31180,Erik Vonk,3,Poor Job Performance
+7398,GEVITY HR INC,64994,2008,38411,Michael J. Lavington,3,Poor Job Performance
+7405,ARCHROCK INC,65009,2002,18091,Michael J. McGhan,3,Poor Job Performance
+7417,OUTERWALL INC,65026,2014,43956,J. Scott Di Valerio,3,Poor Job Performance
+7435,CHOICEPOINT INC,65156,2007,17463,Derek V. Smith,3,Poor Job Performance
+7450,SOLUTIA INC,65350,2003,13371,John C. Hunter III,3,Poor Job Performance
+7453,PROVIDIAN CORP,65351,2001,472,Shailesh J. Mehta,3,Poor Job Performance
+7455,MERITOR INC,65399,2004,13686,Larry D. Yost,3,Poor Job Performance
+7456,MERITOR INC,65399,2013,28290,Charles G. McClure Jr.,3,Poor Job Performance
+7465,CHILDRENS PLACE INC,65430,2007,27851,Ezra Dabah,4,Legal Violation
+7468,SPECTRUM BRANDS HOLDINGS INC,65459,2007,32032,David A. Jones III,3,Poor Job Performance
+7471,SPECTRUM BRANDS HOLDINGS INC,65459,2017,48239,Andreas Rouv,3,Poor Job Performance
+7489,AMER ITALIAN PASTA CO -CL A,65570,2004,18160,Timothy S. Webster,4,Legal Violation
+7502,DRIL-QUIP INC,65671,2006,17478,Gary D. Smith,1,Death
+7503,DRIL-QUIP INC,65671,2010,17477,Larry E. Reimert,2,Illness
+7504,DRIL-QUIP INC,65671,2011,17479,J. Mike Walker,3,Poor Job Performance
+7507,INTERMEC INC,65676,2011,39682,Patrick J. Byrne,3,Poor Job Performance
+7513,ABOVENET INC,65706,2000,15964,Stephen A. Garofalo,3,Poor Job Performance
+7515,EPR PROPERTIES,65710,2014,36221,David M. Brain,3,Poor Job Performance
+7517,GROUP 1 AUTOMOTIVE INC,65718,2004,18179,B. B. Hollingsworth Jr.,3,Poor Job Performance
+7524,SONIC AUTOMOTIVE INC -CL A,65831,2018,36421,B. Scott Smith,3,Poor Job Performance
+7529,AFFILIATED MANAGERS GRP INC,65886,2017,34303,Sean Michael Healey,2,Illness
+7538,ASSERTIO THERAPEUTICS INC,65944,2016,49678,James A. Schoeneck,3,Poor Job Performance
+7551,HOPE BANCORP INC,66235,2003,36867,Seong-Hoon Hong,3,Poor Job Performance
+7553,HOPE BANCORP INC,66235,2005,36334,Ho Yang,3,Poor Job Performance
+7559,VERISIGN INC,66368,2006,30842,Stratton D. Sclavos,4,Legal Violation
+7564,CAREER EDUCATION CORP,66379,2006,24132,John M. Larson,3,Poor Job Performance
+7565,CAREER EDUCATION CORP,66379,2011,34451,Gary E. McCullough,3,Poor Job Performance
+7572,GLOBAL TELESYSTEMS INC,66414,2000,18733,H. Brian Thompson,3,Poor Job Performance
+7575,MIDAS INC,66438,2002,20204,Wendel H. Province,3,Poor Job Performance
+7582,ASTROPOWER INC,66450,2001,20709,Allen M. Barnett,3,Poor Job Performance
+7591,WADDELL&REED FINL INC -CL A,66599,2004,19676,Keith A. Tucker,4,Legal Violation
+7600,BROADCOM CORP -CL A,66708,2002,18745,Henry T. Nicholas III,3,Poor Job Performance
+7609,NIELSEN HOLDINGS PLC,100873,2018,49062,Dwight Mitchell Barns,3,Poor Job Performance
+7610,NORWEGIAN CRUISE LINE HLDGS,104432,2014,55761,Kevin M. Sheehan,4,Legal Violation
+7616,TAYLOR CAPITAL GROUP INC,108449,2009,47633,Bruce W. Taylor,3,Poor Job Performance
+7619,FRONTIER FINANCIAL CORP/WA,109584,2008,34665,John J. Dickson,3,Poor Job Performance
+7620,FIRST NIAGARA FINANCIAL GRP,109683,2006,30880,Paul J. Kolkmeyer,3,Poor Job Performance
+7621,FIRST NIAGARA FINANCIAL GRP,109683,2013,30881,John R. Koelmel,3,Poor Job Performance
+7631,EQUITY ONE INC,110382,2014,34591,Jeffrey S. Olson,3,Poor Job Performance
+7635,INNOSPEC INC,110566,2008,51468,Paul Jennings,3,Poor Job Performance
+7637,L3 TECHNOLOGIES INC,110685,2005,19196,Frank C. Lanza,1,Death
+7650,SCHOOL SPECIALTY INC,111491,2001,19949,Daniel P. Spalding,1,Death
+7652,SCHOOL SPECIALTY INC,111491,2012,46233,Michael P. Lavelle,3,Poor Job Performance
+7656,EAGLE BANCORP INC/MD,111721,2018,60785,Ronald D. Paul,2,Illness
+7660,RH,111873,2011,52918,Gary G. Friedman,4,Legal Violation
+7665,KING PHARMACEUTICALS INC,112033,2003,20169,Jefferson J. Gregory,4,Legal Violation
+7676,MANNATECH INC,112968,2007,33325,Samuel L. Caster,4,Legal Violation
+7677,MANNATECH INC,112968,2009,37867,Wayne L. Badovinus,4,Legal Violation
+7685,PENTON MEDIA INC,113301,2003,19988,Thomas L. Kemp,3,Poor Job Performance
+7688,DIGITAL RIVER INC,113362,2012,35397,Joel A. Ronning,3,Poor Job Performance
+7706,EBAY INC,114524,2015,30734,John J. Donahoe II,3,Poor Job Performance
+7709,POPEYES LOUISIANA KITCHEN,114608,2016,50309,Cheryl A. Bachelder,3,Poor Job Performance
+7711,GOLDMAN SACHS GROUP INC,114628,2018,24950,Lloyd C. Blankfein,3,Poor Job Performance
+7714,THERMA WAVE INC,115245,2002,22820,Martin M. Schwartz,3,Poor Job Performance
+7716,WEBMD HEALTH CORP,115404,2008,52931,Wayne T. Gattinella,4,Legal Violation
+7718,WEBMD HEALTH CORP,115404,2012,52930,Cavan M. Redmond,3,Poor Job Performance
+7720,WEBMD HEALTH CORP,115404,2015,52944,David J. Schlanger,3,Poor Job Performance
+7722,UCBH HOLDINGS INC,115566,2008,20875,Thomas S. Wu,4,Legal Violation
+7726,J CREW GROUP INC,116104,2018,60202,James W. Brett Jr.,3,Poor Job Performance
+7729,SPRINT PCS GROUP,116245,2002,16278,William T. Esrey,4,Legal Violation
+7740,CONEXANT SYSTEMS INC,116526,2004,28306,Armando Geday,3,Poor Job Performance
+7742,CONEXANT SYSTEMS INC,116526,2008,33860,Daniel A. Artusi,3,Poor Job Performance
+7745,BLUCORA INC,116772,2008,30563,James F. Voelker,4,Legal Violation
+7746,BLUCORA INC,116772,2010,42421,William J. Lansing,3,Poor Job Performance
+7747,BLUCORA INC,116772,2015,44230,William J. Ruckelshaus,3,Poor Job Performance
+7750,CAESARS ENTERTAINMENT INC,116857,2000,19269,Arthur M. Goldberg,1,Death
+7751,CAESARS ENTERTAINMENT INC,116857,2001,21635,Thomas E. Gallagher,3,Poor Job Performance
+7767,CORINTHIAN COLLEGES INC,118121,2010,35688,Peter C. Waller,3,Poor Job Performance
+7777,SERENA SOFTWARE INC,118321,2004,27910,Mark E. Woodward,3,Poor Job Performance
+7778,SERENA SOFTWARE INC,118321,2009,39730,Jeremy Burton,3,Poor Job Performance
+7786,VARIAN SEMICONDUCTOR EQUIPMT,119217,2004,20667,Richard A. Aurelio,3,Poor Job Performance
+7793,BOOKING HOLDINGS INC,119314,2001,22483,Daniel H. Schulman,3,Poor Job Performance
+7795,BOOKING HOLDINGS INC,119314,2015,46235,Darren Richard Huston,4,Legal Violation
+7805,EXTREME NETWORKS INC,119574,2009,33475,Mark A. Canepa,3,Poor Job Performance
+7815,HEIDRICK & STRUGGLES INTL,120048,2002,22041,Piers Marmion,3,Poor Job Performance
+7817,HEIDRICK & STRUGGLES INTL,120048,2012,29181,L. Kevin Kelly,3,Poor Job Performance
+7825,LIFEPOINT HEALTH INC,120297,2000,22391,James M. Fleetwood Jr.,1,Death
+7831,BANKRATE INC,120458,2013,31458,Thomas R. Evans,3,Poor Job Performance
+7834,REDBACK NETWORKS INC,120595,2000,22489,Vivek Ragavan,3,Poor Job Performance
+7836,BROCADE COMMUNICATIONS SYS,120774,2003,18613,Gregory L. Reyes,4,Legal Violation
+7846,F5 NETWORKS INC,121077,2015,46554,Manuel F. Rivelo,4,Legal Violation
+7850,DITECH NETWORKS INC,121153,2006,29657,Timothy K. Montgomery,4,Legal Violation
+7856,GREAT ELM CAPITAL GROUP INC,121257,2008,33715,Robert Vrij,3,Poor Job Performance
+7859,GREAT ELM CAPITAL GROUP INC,121257,2015,48011,Eric J. Vetter,3,Poor Job Performance
+7874,JUNIPER NETWORKS INC,121718,2007,18848,Scott G. Kriens,3,Poor Job Performance
+7875,JUNIPER NETWORKS INC,121718,2013,37264,Kevin R. Johnson,2,Illness
+7876,JUNIPER NETWORKS INC,121718,2014,50890,Shaygan Kheradpir,3,Poor Job Performance
+7884,ASK JEEVES INC,121834,2000,19026,Robert W. Wrubel,3,Poor Job Performance
+7885,ASK JEEVES INC,121834,2002,22288,A. George (Skip) Battle,3,Poor Job Performance
+7889,HUDSON CITY BANCORP INC,122015,2014,25311,Ronald E. Hermance Jr.,1,Death
+7894,ENGAGE INC,122137,2000,18349,Paul L. Schaut,3,Poor Job Performance
+7906,BB LIQUIDATING INC,122514,2006,23523,John F. Antioco,3,Poor Job Performance
+7913,QUEST SOFTWARE INC,122921,2011,38664,Douglas F. Garn,2,Illness
+7929,UNITED ONLINE INC,124198,2013,31573,Mark R. Goldston,3,Poor Job Performance
+7932,OMNOVA SOLUTIONS INC,124254,2016,18299,Kevin M. McMullen,3,Poor Job Performance
+7936,INTERNAP CORP,124358,2005,27801,Gregory A. Peters,3,Poor Job Performance
+7937,INTERNAP CORP,124358,2008,31168,James P. DeBlasio,3,Poor Job Performance
+7938,INTERNAP CORP,124358,2014,42639,James Eric Cooney,3,Poor Job Performance
+7945,WILTEL COMMUNICATIONS GROUP,124441,2002,18902,Howard E. Janzen,3,Poor Job Performance
+7948,CIRCOR INTL INC,124775,2012,39772,Andrew William Higgins,3,Poor Job Performance
+7951,VASCULAR SOLUTIONS INC,125000,2015,50335,Howard C. Root,4,Legal Violation
+7953,PCTEL INC,125014,2001,22748,William F. Roach,3,Poor Job Performance
+7958,CHARLOTTE RUSSE HOLDING INC,125275,2008,33868,Mark A. Hoffman,3,Poor Job Performance
+7960,NEXCEN BRANDS INC,125315,2008,33562,Robert W. D'Loren,3,Poor Job Performance
+7969,PAC-WEST TELECOMM INC,125860,2005,24801,Henry R. Carabelli,3,Poor Job Performance
+7971,CHARTER COMMUNICATIONS INC,126136,2011,53753,Michael J. Lovett,3,Poor Job Performance
+7975,FINISAR CORP,126417,2014,58239,Eitan Gertel,3,Poor Job Performance
+7983,RETEK INC,126599,2000,20188,John Buchanan,4,Legal Violation
+7984,RETEK INC,126599,2002,24531,Steven D. Ladwig,3,Poor Job Performance
+8003,INTERSIL CORP -CL A,130762,2012,39780,David B. Bell,3,Poor Job Performance
+8006,PALM INC,132502,2000,20173,Carl J. Yankowski,3,Poor Job Performance
+8013,GRANT PRIDECO INC,133170,2000,21948,John C. Coble,3,Poor Job Performance
+8014,GRANT PRIDECO INC,133170,2001,24102,Curtis W. Huff,3,Poor Job Performance
+8023,EDGEWELL PERSONAL CARE CO,133367,2018,30026,David P. Hatfield,3,Poor Job Performance
+8031,CONVERSANT INC,133547,2009,33161,Thomas A. Vadnais,3,Poor Job Performance
+8038,KRISPY KREME DOUGHNUTS INC,133767,2004,27722,Scott A. Livengood,4,Legal Violation
+8040,KRISPY KREME DOUGHNUTS INC,133767,2007,33307,Daryl G. Brewster,3,Poor Job Performance
+8049,OCLARO INC,133944,2007,55047,Giorgio Anania,3,Poor Job Performance
+8050,OCLARO INC,133944,2013,55043,Alain A. Couder,3,Poor Job Performance
+8055,FRONTIER COMMUNICATIONS CORP,135484,2004,21420,Leonard Tow,3,Poor Job Performance
+8060,NRG ENERGY INC,135990,2015,39792,David W. Crane,3,Poor Job Performance
+8065,VISTEON CORP,136648,2012,30619,Donald J. Stebbins,3,Poor Job Performance
+8066,VISTEON CORP,136648,2014,47651,Timothy D. Leuliette,4,Legal Violation
+8074,JANUS CAPITAL GROUP INC,137232,2003,27380,Mark B. Whiston,3,Poor Job Performance
+8075,JANUS CAPITAL GROUP INC,137232,2005,29013,Steven L. Scheid,3,Poor Job Performance
+8076,JANUS CAPITAL GROUP INC,137232,2009,29014,Gary Douglas Black,4,Legal Violation
+8078,STRATOS INTERNATIONAL INC,137292,2004,22730,James W. McGinley,3,Poor Job Performance
+8080,BERKSHIRE HILLS BANCORP INC,137351,2018,60429,Michael P. Daly,4,Legal Violation
+8083,APW LTD,137960,2001,20460,Richard G. Sim,3,Poor Job Performance
+8092,AMERICAN MEDICAL SYSTMS HLDS,138741,2004,27433,Douglas W. Kohrs,3,Poor Job Performance
+8093,AMERICAN MEDICAL SYSTMS HLDS,138741,2007,27435,Martin J. Emerson,3,Poor Job Performance
+8097,BELMOND LTD,138861,2011,52281,Paul M. White ACMA,3,Poor Job Performance
+8103,AVAYA INC,139662,2006,23236,Donald K. Peterson,3,Poor Job Performance
+8111,GENON ENERGY INC,140033,2005,21805,S. Marce Fuller,3,Poor Job Performance
+8119,PHARMANET DEVELOPMENT GROUP,140676,2005,29481,Arnold Hantman,3,Poor Job Performance
+8123,IXIA,140759,2013,46582,Victor Alston,4,Legal Violation
+8126,MONSANTO CO,140760,2002,23500,Hendrik A. Verfaillie,3,Poor Job Performance
+8131,NII HOLDINGS INC,140902,2012,37461,Steven P. Dussek,3,Poor Job Performance
+8139,UTI WORLDWIDE INC,141001,2014,44273,Eric W. Kirchner,3,Poor Job Performance
+8140,INSEEGO CORP,141178,2006,31116,Peter V. Leparulo,3,Poor Job Performance
+8142,INSEEGO CORP,141178,2014,31116,Peter V. Leparulo,3,Poor Job Performance
+8144,INSEEGO CORP,141178,2016,53330,Susan G. Swenson,3,Poor Job Performance
+8148,RESOURCES CONNECTION INC,141359,2008,44902,Thomas D. Christopoul,3,Poor Job Performance
+8150,RESOURCES CONNECTION INC,141359,2015,44899,Anthony Cherbak,2,Illness
+8154,MASSEY ENERGY CO,141400,2010,22584,Donald L. Blankenship,4,Legal Violation
+8158,AGERE SYSTEMS INC,141845,2005,23495,John T. Dickson,3,Poor Job Performance
+8161,ODYSSEY HEALTHCARE INC,141847,2004,25953,David C. Gasmire,4,Legal Violation
+8168,NORTHERN OIL & GAS INC,142337,2016,43555,Michael L. Reger,3,Poor Job Performance
+8174,PEABODY ENERGY CORP,142460,2014,28822,Gregory H. Boyce,3,Poor Job Performance
+8176,ARBITRON INC,142748,2008,21862,Stephen B. Morris,3,Poor Job Performance
+8177,ARBITRON INC,142748,2009,42439,Michael P. Skarzynski,4,Legal Violation
+8183,SYNAPTICS INC,142814,2010,36444,Thomas J. Tiernan,3,Poor Job Performance
+8185,SYNAPTICS INC,142814,2018,46377,Richard A. Bergman,3,Poor Job Performance
+8186,MONDELEZ INTERNATIONAL INC,142953,2005,23490,Roger K. Deromedi,3,Poor Job Performance
+8187,MONDELEZ INTERNATIONAL INC,142953,2017,23492,Irene B. Rosenfeld,3,Poor Job Performance
+8193,ACCENTURE PLC,143357,2020,44905,Pierre Nanterme,2,Illness
+8195,MEDCATH CORP,143605,2011,33917,O. Edwin French,3,Poor Job Performance
+8209,CROSS COUNTRY HEALTHCARE INC,144396,2018,49123,William J. Grubbs,3,Poor Job Performance
+8213,ARAMARK CORP,144519,2004,23515,William Leonard,3,Poor Job Performance
+8218,ZIMMER BIOMET HOLDINGS INC,144559,2017,25139,David C. Dvorak,3,Poor Job Performance
+8226,ANTHEM INC,145046,2012,34281,Angela Rose Fick Braly,3,Poor Job Performance
+8227,ANTHEM INC,145046,2017,49128,Joseph R. Swedish M.H.A.,3,Poor Job Performance
+8231,GAMESTOP CORP,145049,2017,37664,J. Paul Raines,2,Illness
+8233,WCI COMMUNITIES INC,145186,2008,53770,Jerry L. Starkey,3,Poor Job Performance
+8237,WEIGHT WATCHERS INTL INC,145308,2013,32936,David P. Kirchhoff,3,Poor Job Performance
+8238,WEIGHT WATCHERS INTL INC,145308,2016,49131,James Robert Chambers,3,Poor Job Performance
+8250,ADVANCE AUTO PARTS INC,145977,2006,29139,Michael N. Coppola,3,Poor Job Performance
+8262,CUTERA INC,146648,2018,60228,James A. Reinstein,3,Poor Job Performance
+8264,MEDICOR LTD,146739,2006,31849,Theodore R. Maloney,4,Legal Violation
+8267,ATC VENTURES GROUP INC,147101,2008,38199,Randy J. Kempf,3,Poor Job Performance
+8268,ATC VENTURES GROUP INC,147101,2009,38198,Jeffrey M. Tetzlaff,3,Poor Job Performance
+8273,JETBLUE AIRWAYS CORP,147305,2006,27804,David Gary Neeleman,3,Poor Job Performance
+8274,JETBLUE AIRWAYS CORP,147305,2014,27805,David Barger,3,Poor Job Performance
+8285,ARO LIQUIDATION INC,147661,2014,36031,Thomas P. Johnson,3,Poor Job Performance
+8291,FAIRPOINT COMMUNICATIONS INC,148217,2010,42733,David L. Hauser,3,Poor Job Performance
+8295,FORMFACTOR INC,148390,2008,58351,Igor Y. Khandros,3,Poor Job Performance
+8296,FORMFACTOR INC,148390,2009,58356,Mario Ruscev,3,Poor Job Performance
+8301,KIRKLAND'S INC,148391,2017,42842,W. Michael Madden,3,Poor Job Performance
+8307,RED ROBIN GOURMET BURGERS,148470,2005,29775,Michael J. Snyder,4,Legal Violation
+8317,CME GROUP INC,149070,2012,28696,Craig Steven Donohue,3,Poor Job Performance
+8320,FREEPORT MCMRN OIL&GAS -REDH,149268,2014,36108,James C. Flores,3,Poor Job Performance
+8321,WYNN RESORTS LTD,149318,2017,37104,Stephen A. Wynn,4,Legal Violation
+8326,BANC OF CALIFORNIA INC,149618,2016,53005,Steven A. Sugarman J.D.,3,Poor Job Performance
+8327,BANC OF CALIFORNIA INC,149618,2019,59623,Douglas H. Bowers,3,Poor Job Performance
+8329,CIT GROUP INC,149738,2009,29032,Jeffrey M. Peek,3,Poor Job Performance
+8347,SEAGATE TECHNOLOGY PLC,150937,2009,26699,William D. Watkins,3,Poor Job Performance
+8350,IPAYMENT INC,151832,2010,29716,Gregory S. Daily,4,Legal Violation
+8352,MOLINA HEALTHCARE INC,152149,2016,34878,Joseph Mario Molina,3,Poor Job Performance
+8358,TRUE RELIGION APPAREL INC,153028,2012,36467,Jeffrey Lubell,3,Poor Job Performance
+8359,AXIS CAPITAL HOLDINGS LTD,153130,2011,30338,John R. Charman,3,Poor Job Performance
+8367,PROVIDENCE SERVICE CORP,154758,2017,53340,James M. Lindstrom,3,Poor Job Performance
+8371,LKQ CORP,155394,2016,34867,Robert Louis Wagman,2,Illness
+8374,XPERI CORPORATION,156153,2008,39885,Bruce M. McWilliams,3,Poor Job Performance
+8376,XPERI CORPORATION,156153,2013,45767,Robert A. Young Ph.D.,4,Legal Violation
+8377,XPERI CORPORATION,156153,2016,49150,Thomas A. Lacey,3,Poor Job Performance
+8383,AMERICAN EQTY INVT LIFE HLDG,156383,2011,49729,Wendy Carlson Waugaman,1,Death
+8387,CONN'S INC,156614,2015,61465,Theodore M. Wright,3,Poor Job Performance
+8395,TEMPUR SEALY INTL INC,156861,2015,46042,Mark A. Sarvary,3,Poor Job Performance
+8400,COMPASS MINERALS INTL INC,157153,2018,49155,Francis J. Malecha,3,Poor Job Performance
+8408,FREESCALE SEMICONDUCTOR INC,157858,2007,28445,Michel Mayer,3,Poor Job Performance
+8413,GENWORTH FINANCIAL INC,158354,2012,30803,Michael Desmond Fraizer,3,Poor Job Performance
+8416,SYNIVERSE HOLDINGS INC-OLD,158473,2010,39911,Tony G. Holcombe,3,Poor Job Performance
+8417,SYNIVERSE HOLDINGS INC-OLD,158473,2014,39907,Jeffrey S. Gordon,3,Poor Job Performance
+8424,PROCERA NETWORKS INC,158791,2014,46595,James F. Brear,3,Poor Job Performance
+8431,HOSPIRA INC,160255,2010,28952,Christopher B. Begley,3,Poor Job Performance
+8444,SYMMETRY MEDICAL INC,160600,2010,35054,Brian S. Moore,4,Legal Violation
+8447,INNOVIVA INC,160668,2017,53988,Michael W. Aguiar,3,Poor Job Performance
+8470,MOSAIC CO,162129,2015,44927,James T. Prokopanko,2,Illness
+8479,PRESTIGE CONSUMER HEALTHCARE,162335,2008,43581,Mark Pettie,3,Poor Job Performance
+8488,FTD COMPANIES INC,162386,2017,60253,John C. Walden,3,Poor Job Performance
+8490,ALPHA NATURAL RESOURCES INC,162448,2008,44584,Michael J. Quillen,3,Poor Job Performance
+8498,VERIFONE SYSTEMS INC,162733,2012,44595,Douglas G. Bergeron,3,Poor Job Performance
+8512,DIAMOND FOODS INC,163627,2012,36513,Michael J. Mendes,4,Legal Violation
+8521,COOPER-STANDARD HOLDINGS INC,163765,2008,53791,Edward A. Hasler,3,Poor Job Performance
+8529,RUTHS HOSPITALITY GROUP INC,163891,2008,32647,Craig S. Miller,3,Poor Job Performance
+8545,TRONOX LTD,164363,2008,30873,Thomas W. Adams,3,Poor Job Performance
+8547,TRONOX LTD,164363,2016,46053,Thomas J. Casey,2,Illness
+8562,KAPSTONE PAPER & PACKAGING,164680,2016,43221,Roger Warren Stone,2,Illness
+8566,CROCS INC,164755,2009,42659,John H. Duerden,4,Legal Violation
+8569,CROCS INC,164755,2016,53366,Gregg S. Ribatt,3,Poor Job Performance
+8584,VIACOM INC,165675,2006,30941,Thomas E. Freston,3,Poor Job Performance
+8585,VIACOM INC,165675,2016,32628,Philippe P. Dauman,3,Poor Job Performance
+8588,LIVE NATION ENTERTAINMENT,165746,2008,36298,Michael Cohl,3,Poor Job Performance
+8590,NTELOS HOLDINGS CORP,165845,2014,39986,James A. Hyde,3,Poor Job Performance
+8595,CHIPOTLE MEXICAN GRILL INC,165914,2016,36061,Montgomery F. Moran,3,Poor Job Performance
+8596,CHIPOTLE MEXICAN GRILL INC,165914,2017,36060,M. Steven Ells,3,Poor Job Performance
+8602,ROSETTA RESOURCES INC,166061,2012,46267,Randy L. Limbacher,3,Poor Job Performance
+8613,SYNCHRONOSS TECHNOLOGIES,166593,2017,43227,Stephen G. Waldis,3,Poor Job Performance
+8614,CUSTOMERS BANCORP INC,170396,2009,53369,Kenneth B. Mumma,3,Poor Job Performance
+8622,GLOBUS MEDICAL INC,171002,2017,53993,David C. Paul,2,Illness
+8624,BLOOMIN' BRANDS INC,171049,2018,62776,Elizabeth A. Smith,3,Poor Job Performance
+8630,COMMVAULT SYSTEMS INC,174077,2018,39997,Neil Robert Hammer,3,Poor Job Performance
+8636,KBR INC,174310,2013,34748,William P. Utt,3,Poor Job Performance
+8641,EHEALTH INC,174389,2015,40000,Gary L. Lauer,3,Poor Job Performance
+8644,WINDSTREAM HOLDINGS INC,174490,2014,36012,Jeffery R. Gardner,3,Poor Job Performance
+8661,HANESBRANDS INC,175319,2016,36081,Richard A. Noll,3,Poor Job Performance
+8666,FIRST SOLAR INC,175404,2011,42469,Robert J. Gillette,3,Poor Job Performance
+8682,SOURCEFIRE INC,176556,2008,42867,E. Wayne Jackson III,3,Poor Job Performance
+8683,SOURCEFIRE INC,176556,2012,42871,John C. Burris,2,Illness
+8713,COMSCORE INC,177780,2016,47670,Serge Matta,4,Legal Violation
+8722,REX ENERGY CORP,177896,2011,49763,Daniel J. Churay J.D.,3,Poor Job Performance
+8726,DHI GROUP INC,177943,2017,46268,Michael P. Durney,3,Poor Job Performance
+8727,DOLAN CO,177982,2012,42668,James P. Dolan,3,Poor Job Performance
+8728,MIMEDX GROUP INC,178157,2009,51484,Thomas W. D'Alonzo,3,Poor Job Performance
+8730,MIMEDX GROUP INC,178157,2018,51487,Parker H. Petit,4,Legal Violation
+8735,TERADATA CORP,178310,2015,35981,Michael F. Koehler,3,Poor Job Performance
+8736,TERADATA CORP,178310,2018,54550,Victor Lynn Lund,3,Poor Job Performance
+8737,TERADATA CORP,178310,2019,54549,Oliver Ratzesberger,3,Poor Job Performance
+8746,PATRIOT COAL CORP,178608,2011,36103,Richard M. Whiting,3,Poor Job Performance
+8747,PATRIOT COAL CORP,178608,2012,47672,"Irl F. Engelhardt, MBA",3,Poor Job Performance
+8749,ULTA BEAUTY INC,178704,2010,53085,Lyn Kirby,3,Poor Job Performance
+8758,APPROACH RESOURCES INC,178798,2018,44668,"J. Ross Craft, P.E.",3,Poor Job Performance
+8762,LUMBER LIQUIDATORS HLDGS INC,178806,2014,45864,Robert M. Lynch,3,Poor Job Performance
+8763,LUMBER LIQUIDATORS HLDGS INC,178806,2016,53095,John M. Presley,3,Poor Job Performance
+8769,RUBICON TECHNOLOGY INC,178865,2016,44672,William F. Weissman,3,Poor Job Performance
+8774,ENTROPIC COMMUNICATIONS INC,178943,2014,44673,Patrick C. Henry,3,Poor Job Performance
+8786,CARDIOVASCULAR SYSTEMS INC,179413,2016,61514,David L. Martin,2,Illness
+8791,BIOTELEMETRY INC,179441,2007,53827,James M. Sweeney,3,Poor Job Performance
+8792,BIOTELEMETRY INC,179441,2009,53830,Arie Cohen,3,Poor Job Performance
+8810,SOLARWINDS CORP,179690,2009,46281,Michael S. Bennett,2,Illness
+8819,RACKSPACE HOSTING INC,179925,2013,43040,A. Lanham Napier,3,Poor Job Performance
+8827,BLACK KNIGHT INC,180272,2010,36616,Jeffrey S. Carbiener,2,Illness
+8838,ROADRUNNER TRANS SYSTEMS INC,180562,2016,48661,Mark A. DiBlasi,3,Poor Job Performance
+8857,CLEARWATER PAPER CORP,181931,2012,37541,Gordon L. Jones,3,Poor Job Performance
+8861,U S SILICA HOLDINGS INC,181989,2011,48670,Brian Slobodow,2,Illness
+8884,AOL INC,183920,2009,40071,Randel A. Falco,3,Poor Job Performance
+8903,TANGOE INC,184715,2014,47769,Albert R. Subbloie Jr.,3,Poor Job Performance
+8915,GLOBAL BROKERAGE INC,185518,2016,48075,Dror Niv,4,Legal Violation
+8925,C&J ENERGY SERVICES INC,186336,2015,46935,Joshua E. Comstock,1,Death
+8931,FRANCESCAS HOLDINGS CORP,187041,2014,47689,Neill P. Davis,3,Poor Job Performance
+8934,FRANCESCAS HOLDINGS CORP,187041,2018,55446,Steven Paul Lawrence,3,Poor Job Performance
+8935,WAGEWORKS INC,187105,2017,48089,Joseph L. Jackson,3,Poor Job Performance
+8939,HOMESTREET INC,187164,2010,54013,Bruce W. Williams,3,Poor Job Performance
+8954,ERA GROUP INC,187766,2011,46938,Edward Washecka,3,Poor Job Performance
+8964,XYLEM INC,189491,2013,44955,Gretchen W. McClain,3,Poor Job Performance
+8975,ACADIA HEALTHCARE CO INC,192255,2018,55158,Joey A. Jacobs,3,Poor Job Performance
+8989,WELLCARE HEALTH PLANS INC,260778,2007,33146,Todd S. Farha,4,Legal Violation
+8990,WELLCARE HEALTH PLANS INC,260778,2009,38104,Heath Glenn Schiesser,3,Poor Job Performance
+8991,WELLCARE HEALTH PLANS INC,260778,2013,42672,Alexander Robb Cunningham,3,Poor Job Performance
+8994,BLACKBAUD INC,260893,2013,33312,Marc E. Chardon,3,Poor Job Performance
+8996,NUVASIVE INC,264385,2014,44700,Alexis V. Lukianov,4,Legal Violation
+8997,NUVASIVE INC,264385,2018,53137,Gregory T. Lucier,3,Poor Job Performance
+8999,ANGIODYNAMICS INC,264387,2010,49807,Johannes C. M. Keltjens,3,Poor Job Performance
+9003,BLUE NILE INC,264391,2011,33250,Diane M. Irvine,3,Poor Job Performance
+9006,CARDTRONICS PLC,264397,2008,43622,Jack M. Antonini,3,Poor Job Performance
+556717,RENT-A-CENTER INC,31460,2017,36115,Mark E. Speese,3,Poor Job Performance
+559030,TEXAS INSTRUMENTS INC,10499,2018,43399,Brian T. Crutcher,4,Legal Violation
+559032,HARMAN INTERNATIONAL INDS,12788,2006,31603,Douglas Allen Pertz,3,Poor Job Performance
+559036,OFFICEMAX INC,2290,2004,11875,Christopher C. Milliken,4,Legal Violation
